@@ -1,4 +1,0 @@
-initialization
-bottomShadow
-
-	^ 10
