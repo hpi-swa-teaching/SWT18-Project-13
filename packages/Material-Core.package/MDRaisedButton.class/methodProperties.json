@@ -1,18 +1,16 @@
 {
 	"class" : {
-		 },
-	"instance" : {
 		"bottomShadow" : "LS 5/7/2018 20:57",
-		"decreaseSize" : "LS 5/7/2018 20:26",
+		"elevatedSizeDifference" : "LS 5/7/2018 20:21",
+		"shadowScaler" : "LS 5/7/2018 21:12",
+		"sideShadow" : "LS 5/7/2018 20:57" },
+	"instance" : {
+		"decreaseSize" : "LS 5/7/2018 21:09",
 		"defaultShadow" : "LS 5/7/2018 20:54",
 		"drop" : "LS 5/7/2018 20:23",
 		"elevate" : "LS 5/7/2018 20:22",
-		"elevatedSizeDifference" : "LS 5/7/2018 20:21",
 		"increaseShadow" : "LS 5/7/2018 20:56",
 		"increaseSize" : "LS 5/7/2018 20:25",
-		"increasedShadowSize" : "LS 5/7/2018 20:23",
 		"initialize" : "LS 5/7/2018 20:13",
 		"mouseDown:" : "LS 5/7/2018 20:15",
-		"mouseUp:" : "LS 5/7/2018 20:19",
-		"shadowScaler" : "LS 5/7/2018 20:54",
-		"sideShadow" : "LS 5/7/2018 20:57" } }
+		"mouseUp:" : "LS 5/7/2018 20:19" } }

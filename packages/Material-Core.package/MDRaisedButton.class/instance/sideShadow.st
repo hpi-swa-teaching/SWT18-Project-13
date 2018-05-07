@@ -1,4 +1,0 @@
-initialization
-sideShadow
-
-	^ 7
