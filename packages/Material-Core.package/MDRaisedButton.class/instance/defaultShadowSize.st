@@ -1,0 +1,4 @@
+initialization
+defaultShadowSize
+	
+	^ 10
