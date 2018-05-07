@@ -2,7 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
+		"decreaseSize" : "LS 5/7/2018 20:26",
 		"defaultShadow" : "LS 5/7/2018 20:12",
 		"defaultShadowSize" : "LS 5/7/2018 20:12",
-		"increasedShadowSize" : "LS 5/7/2018 20:13",
-		"initialize" : "LS 5/7/2018 20:13" } }
+		"drop" : "LS 5/7/2018 20:23",
+		"elevate" : "LS 5/7/2018 20:22",
+		"elevatedSizeDifference" : "LS 5/7/2018 20:21",
+		"increaseShadow" : "LS 5/7/2018 20:17",
+		"increaseSize" : "LS 5/7/2018 20:25",
+		"increasedShadowSize" : "LS 5/7/2018 20:23",
+		"initialize" : "LS 5/7/2018 20:13",
+		"mouseDown:" : "LS 5/7/2018 20:15",
+		"mouseUp:" : "LS 5/7/2018 20:19" } }
