@@ -1,4 +1,4 @@
 initialization
-defaultShadowSize
-	
+bottomShadow
+
 	^ 10

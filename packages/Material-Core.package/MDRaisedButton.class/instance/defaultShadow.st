@@ -1,5 +1,5 @@
 initialization
 defaultShadow
 	
-	self shadowOffset: (self defaultShadowSize @ self defaultShadowSize corner:
-					     self defaultShadowSize @ self defaultShadowSize)
+	self shadowOffset: (self sideShadow @ 0 corner:
+					     self sideShadow @ self bottomShadow)
