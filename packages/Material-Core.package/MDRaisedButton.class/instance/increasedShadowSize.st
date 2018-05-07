@@ -1,4 +1,4 @@
 initialization
 increasedShadowSize
 	
-	^ self shadowSize * 1.2
+	^ self defaultShadowSize * 1.2
