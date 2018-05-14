@@ -1,4 +1,4 @@
-as yet unclassified
+shadows and elevation
 bottomShadow: aValue
 
 	self assert: aValue isNumber.

@@ -1,4 +1,4 @@
 as yet unclassified
-shadowScaler
+defaultShadowScaler
 
 	^ 1.2

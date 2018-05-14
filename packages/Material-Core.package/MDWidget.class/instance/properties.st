@@ -1,3 +1,3 @@
-as yet unclassified
+properties
 properties
 	^ properties ifNil: [ ^ properties := Dictionary new ]

@@ -1,4 +1,4 @@
-initialization
+click handling
 drop
 	
 	self decreaseSize.

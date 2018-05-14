@@ -1,4 +1,4 @@
-initialization
+click handling
 increaseShadow
 
 	self shadowOffset: ((self sideShadow * self shadowScaler) @

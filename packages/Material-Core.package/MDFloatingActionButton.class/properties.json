@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MDFloatingActionButton",
+	"pools" : [
+		 ],
+	"super" : "MDButton",
+	"type" : "normal" }

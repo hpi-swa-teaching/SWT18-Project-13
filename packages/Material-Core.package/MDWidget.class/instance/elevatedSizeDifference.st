@@ -1,5 +1,5 @@
-as yet unclassified
+shadows and elevation
 elevatedSizeDifference
 
 	^ self properties at: #elevatedSizeDifference ifAbsent: 
-		[^ self elevatedSizeDifference: self class elevatedSizeDifference]
+		[^ self elevatedSizeDifference: self class defaultElevatedSizeDifference]

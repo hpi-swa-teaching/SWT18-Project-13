@@ -1,4 +1,4 @@
 border
 borderRadius
 
-	^ self properties at: #borderRadius ifAbsent: [ ^ self borderRadius: 0 ]
+	^ self properties at: #borderRadius ifAbsent: [ ^ self borderRadius: self class defaultBorderRadius ]

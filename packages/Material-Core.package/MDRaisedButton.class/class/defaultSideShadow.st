@@ -1,4 +1,4 @@
 as yet unclassified
-sideShadow
+defaultSideShadow
 
 	^ 7

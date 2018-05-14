@@ -1,4 +1,4 @@
-initialization
+click handling
 decreaseSize 
 
 	self bounds: ((self bounds origin + self elevatedSizeDifference) corner:
