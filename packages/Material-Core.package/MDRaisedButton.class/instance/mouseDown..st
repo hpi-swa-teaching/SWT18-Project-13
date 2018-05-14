@@ -1,5 +1,5 @@
 event handling
 mouseDown: anEvent
 	
-	super mouseDown: anEvent.
-	self elevate
+	self elevate.
+	super mouseDown: anEvent
