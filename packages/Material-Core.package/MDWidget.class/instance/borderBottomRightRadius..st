@@ -3,4 +3,4 @@ borderBottomRightRadius: aValue
 
 	self assert: aValue isNumber.
 	
-	^ self properties at: #borderRadius put: (self borderRadius bottom: aValue)
+	^ self setProperty: #borderRadius to: (self borderRadius bottom: aValue)
