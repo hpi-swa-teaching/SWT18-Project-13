@@ -6,6 +6,6 @@ label: aString
 		ifNotNil: [oldLabel delete].
 	m := StringMorph contents: aString font: TextStyle defaultFont.
 	m position: self center - (m extent // 2).
-	m color: Color green.
+	m color: self textColor.
 	self addMorph: m.
 	m lock

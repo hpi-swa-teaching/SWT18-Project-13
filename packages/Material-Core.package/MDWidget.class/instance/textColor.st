@@ -1,4 +1,4 @@
 properties
 textColor
 
-	^ self properties at: #backgroundColor ifAbsent: [ ^ self textColor self class defaultTextColor ]
+	^ self properties at: #textColor ifAbsent: [ ^ self textColor: self class defaultTextColor ]
