@@ -2,6 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
+		"actionSelector" : "JW 5/14/2018 19:49",
+		"actionSelector:" : "JW 5/14/2018 19:49",
+		"arguments" : "JW 5/14/2018 19:52",
+		"arguments:" : "JW 5/14/2018 19:52",
 		"borderBottomLeftRadius:" : "mats 5/13/2018 19:38",
 		"borderBottomRightRadius:" : "mats 5/13/2018 19:38",
 		"borderRadius:" : "mats 5/13/2018 19:38",
@@ -9,6 +13,7 @@
 		"borderTopRightRadius:" : "mats 5/13/2018 19:38",
 		"deleteAllRipples" : "mats 5/8/2018 12:00",
 		"deleteRipple:" : "mats 5/8/2018 12:07",
+		"doClickableAction" : "JW 5/14/2018 19:52",
 		"drawOn:" : "mats 5/11/2018 15:31",
 		"drawRipplesOn:" : "mats 5/3/2018 21:41",
 		"handlesMouseDown:" : "LS 5/3/2018 11:08",
@@ -16,7 +21,7 @@
 		"initialize" : "LS 5/3/2018 11:10",
 		"isMouseDown" : "mats 5/3/2018 16:08",
 		"isMouseDown:" : "mats 5/3/2018 16:07",
-		"mouseDown:" : "mats 5/3/2018 23:29",
+		"mouseDown:" : "JW 5/14/2018 19:51",
 		"mouseUp:" : "mats 5/8/2018 12:01",
 		"negatedShape" : "mats 5/11/2018 15:12",
 		"negatedShapeCache" : "mats 5/11/2018 15:13",
@@ -24,5 +29,7 @@
 		"ripples" : "mats 5/3/2018 21:43",
 		"ripples:" : "mats 5/3/2018 21:24",
 		"startRippleAt:" : "mats 5/3/2018 21:48",
+		"target" : "JW 5/14/2018 19:48",
+		"target:" : "JW 5/14/2018 19:48",
 		"updateCache" : "mats 5/13/2018 19:38",
 		"width:" : "mats 5/13/2018 19:39" } }
