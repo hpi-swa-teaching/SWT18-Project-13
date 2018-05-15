@@ -1,4 +1,4 @@
-shadows and elevation
+elevation
 elevatedSizeDifference
 
 	^ self properties at: #elevatedSizeDifference ifAbsent: 

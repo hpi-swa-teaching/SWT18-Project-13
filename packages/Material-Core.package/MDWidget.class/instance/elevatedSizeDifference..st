@@ -1,4 +1,4 @@
-shadows and elevation
+elevation
 elevatedSizeDifference: aValue
 
 	self assert: aValue isNumber.

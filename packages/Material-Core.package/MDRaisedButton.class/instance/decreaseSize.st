@@ -1,4 +1,4 @@
-click handling
+elevation
 decreaseSize 
 
 	self bounds: ((self bounds origin + self elevatedSizeDifference) corner:

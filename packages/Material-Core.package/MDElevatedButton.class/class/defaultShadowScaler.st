@@ -1,4 +1,4 @@
-as yet unclassified
+default properties
 defaultShadowScaler
 
 	^ 1.2

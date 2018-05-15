@@ -2,5 +2,5 @@ initialization
 initialize 
 	
 	super initialize.
-	self addDropShadow.
+	self hasADropShadow: true.
 	self defaultShadow

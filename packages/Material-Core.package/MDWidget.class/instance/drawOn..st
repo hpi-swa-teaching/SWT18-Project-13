@@ -1,7 +1,7 @@
 drawing
 drawOn: aCanvas
 
-	MDRenderer 
+	MDRenderer
 		drawRectangleOn: aCanvas 
 		withBounds: self bounds 
 		color: self backgroundColor 

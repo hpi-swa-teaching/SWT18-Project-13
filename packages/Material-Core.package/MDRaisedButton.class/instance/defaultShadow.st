@@ -1,4 +1,4 @@
-click handling
+drop shadows
 defaultShadow
 	
 	self shadowOffset: (self sideShadow @ 0 corner:

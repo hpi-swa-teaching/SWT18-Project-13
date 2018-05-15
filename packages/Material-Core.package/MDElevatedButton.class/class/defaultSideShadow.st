@@ -1,4 +1,4 @@
-as yet unclassified
+default properties
 defaultSideShadow
 
 	^ 7

@@ -1,4 +1,4 @@
-shadows and elevation
+drop shadows
 shadowScaler: aValue
 
 	self assert: aValue isNumber.

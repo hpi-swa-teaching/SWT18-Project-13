@@ -1,0 +1,4 @@
+elevation
+decreaseSize
+
+	^ self subclassResponsibility

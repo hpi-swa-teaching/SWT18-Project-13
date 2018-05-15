@@ -1,4 +1,4 @@
-shadows and elevation
+drop shadows
 bottomShadow: aValue
 
 	self assert: aValue isNumber.

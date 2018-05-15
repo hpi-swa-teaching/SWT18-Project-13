@@ -10,5 +10,5 @@
 	"name" : "MDFloatingActionButton",
 	"pools" : [
 		 ],
-	"super" : "MDButton",
+	"super" : "MDElevatedButton",
 	"type" : "normal" }

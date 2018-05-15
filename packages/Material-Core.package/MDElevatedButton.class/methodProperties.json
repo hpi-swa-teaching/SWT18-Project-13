@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"defaultBottomShadow" : "LS 5/14/2018 10:01",
+		"defaultElevatedSizeDifference" : "LS 5/14/2018 09:57",
+		"defaultShadowScaler" : "LS 5/14/2018 09:57",
+		"defaultSideShadow" : "LS 5/14/2018 09:57" },
+	"instance" : {
+		"decreaseSize" : "LS 5/15/2018 17:14",
+		"defaultShadow" : "LS 5/15/2018 17:14",
+		"drop" : "LS 5/7/2018 20:23",
+		"elevate" : "LS 5/7/2018 20:22",
+		"increaseShadow" : "LS 5/15/2018 17:13",
+		"increaseSize" : "LS 5/15/2018 17:13",
+		"initialize" : "LS 5/15/2018 17:35",
+		"mouseDown:" : "LS 5/14/2018 10:09",
+		"mouseUp:" : "LS 5/14/2018 10:09" } }
