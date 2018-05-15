@@ -1,5 +1,5 @@
 elevation
 increaseSize 
 
-	self bounds: ((self bounds origin - self elevatedSizeDifference) corner:
-				  (self bounds corner + self elevatedSizeDifference))
+	self bounds: ((self bounds origin) corner:
+				  (self bounds corner + self elevatedSizeDifference)).
