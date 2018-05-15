@@ -1,4 +1,4 @@
 default properties
 defaultSideShadow
 
-	^ 7
+	^ 5
