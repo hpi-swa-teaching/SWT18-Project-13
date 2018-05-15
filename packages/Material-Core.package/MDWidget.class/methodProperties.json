@@ -5,6 +5,7 @@
 		"defaultHeight" : "mats 5/4/2018 11:31",
 		"defaultWidth" : "mats 5/4/2018 11:31" },
 	"instance" : {
+		"addDropShadow" : "LS 5/15/2018 17:52",
 		"backgroundColor" : "mats 5/3/2018 22:54",
 		"backgroundColor:" : "mats 5/11/2018 15:50",
 		"borderBottomLeftRadius" : "mats 5/4/2018 15:41",
@@ -23,7 +24,7 @@
 		"elevatedSizeDifference" : "LS 5/14/2018 09:57",
 		"elevatedSizeDifference:" : "LS 5/14/2018 17:11",
 		"hasADropShadow" : "LS 5/15/2018 17:20",
-		"hasADropShadow:" : "LS 5/15/2018 17:50",
+		"hasADropShadow:" : "LS 5/15/2018 17:52",
 		"label:" : "JW 5/14/2018 19:15",
 		"properties" : "mats 5/3/2018 17:34",
 		"setProperty:to:" : "LS 5/14/2018 17:15",
