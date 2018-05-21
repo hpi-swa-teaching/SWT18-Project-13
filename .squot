@@ -1,6 +1,6 @@
 OrderedDictionary {
-	'Material-Examples.package' : #SquotCypressCodeSerializer,
 	'packages\/BaselineOfMaterial.package' : #SquotCypressCodeSerializer,
 	'packages\/Material-Core.package' : #SquotCypressCodeSerializer,
+	'packages\/Material-Examples.package' : #SquotCypressCodeSerializer,
 	'packages\/Material-Tests.package' : #SquotCypressCodeSerializer
 }
