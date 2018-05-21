@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "NameOfSubclass",
+		"widgets",
+		"itemsPerRow" ],
+	"name" : "MDExample",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "MDWidget",
 	"type" : "normal" }
