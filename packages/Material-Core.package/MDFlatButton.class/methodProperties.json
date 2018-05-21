@@ -1,9 +1,13 @@
 {
 	"class" : {
 		"defaultBackgroundColor" : "mats 5/18/2018 10:06",
-		"defaultText" : "JW 5/17/2018 13:06" },
+		"defaultText" : "JW 5/17/2018 13:06",
+		"defaultTextColor" : "LS 5/21/2018 14:03" },
 	"instance" : {
 		"decreaseSize" : "JW 5/17/2018 12:56",
 		"defaultShadow" : "JW 5/17/2018 12:56",
 		"increaseShadow" : "JW 5/17/2018 12:56",
-		"increaseSize" : "JW 5/17/2018 12:56" } }
+		"increaseSize" : "JW 5/17/2018 12:56",
+		"initialize" : "LS 5/21/2018 14:04",
+		"mouseEnter:" : "LS 5/21/2018 13:56",
+		"mouseLeave:" : "LS 5/21/2018 13:56" } }
