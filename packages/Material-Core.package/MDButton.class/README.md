@@ -1,0 +1,1 @@
+I am a labeled button who allows the user to click me. I can be configured to send my "target" the message "actionSelector" with "arguments" when I am clicked. I may have a label, implemented as a StringMorph.
