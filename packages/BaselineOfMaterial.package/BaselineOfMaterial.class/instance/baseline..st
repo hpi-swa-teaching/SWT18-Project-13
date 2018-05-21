@@ -7,6 +7,7 @@ baseline: spec
 			spec
 				package: 'Material-Core';
 				package: 'Material-Tests' with: [spec requires: #('Material-Core')];
+				package: 'Material-Examples' with: [spec requires: #('Material-Core')];
 				yourself.
 			spec
 				group: 'default' with: #('Material-Core');
