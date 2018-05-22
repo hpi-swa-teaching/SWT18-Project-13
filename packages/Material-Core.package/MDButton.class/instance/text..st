@@ -7,20 +7,18 @@ wenn ja: addNewFontSize
 wenn nein: default Schriftart wählen --> wenn isTtcFont = true --> addNewFontSize mit Größe nach MaterialDesign Guideline
 "
 
-	| text |
-	
-	aString isString "TODO: change to check if Roboto is installed"
-		ifTrue: [
-			TextStyle addNewFontSize: 14.
-			]
-		ifFalse: [
-			"TODO: choose default font"
-			"TextStyle defaultFont"
-			TTCFont isTTCFont
-				ifTrue: [
-					TextStyle addNewFontSize: 14.
-				]. 	"mit . ?"
-		].
+	| text font |
+	TextConstants at: #Roboto 
+		ifPresent: [ font := (TextConstants at: #Roboto) addNewFontSize: 14]
+		ifAbsent: [
+			font := (TextConstants at: #DefaultTextStyle) addNewFontSize: 14
+			"
+			style := (TextConstants at: #DefaultTextStyle)
+			style isTTCStyle
+				ifTrue: [font := style addNewFontSize: 14
+			
+				]"
+			].
 
 	text := self setProperty: #text to: (aString asUppercase).
 	self updateStringMorphCache.
