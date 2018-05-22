@@ -4,10 +4,12 @@ updateStringMorphCache
 	| stringMorph font |
 	
 	TextConstants at: #Roboto
+		ifPresent: [ :textStyle | font := textStyle addNewFontSize: 14]
 		ifAbsent: [
-			TTCFontReader encodingTag: 0.
-			TTCFont newTextStyleFromTTFile: (FileDirectory uri: 'Roboto/Roboto.ttf') fullName].
-	font := (TextConstants at: #Roboto) addNewFontSize: 12.
+			font := self loadRoboto.
+			"If try catch fails"
+			font := self loadDefaultFont. 
+		].
 	
 	stringMorph := StringMorph contents: self text font: font.
 	stringMorph color: self textColor.
