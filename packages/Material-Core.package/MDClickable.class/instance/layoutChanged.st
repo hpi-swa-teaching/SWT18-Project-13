@@ -1,4 +1,4 @@
-accessing
+event handling
 layoutChanged
 
 	super layoutChanged.

@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testTextColorOn: anObject
 	
 	anObject textColor: '#02E3A4'.

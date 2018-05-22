@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"defaultNumItemsPerRow" : "mats 5/21/2018 16:37",
+		"padding" : "mats 5/21/2018 16:53",
+		"widgetPadding" : "mats 5/21/2018 16:41" },
+	"instance" : {
+		"addWidget:" : "mats 5/21/2018 16:24",
+		"drawOn:" : "mats 5/21/2018 16:55",
+		"initialize" : "mats 5/21/2018 16:29",
+		"itemsPerRow" : "mats 5/21/2018 16:37",
+		"itemsPerRow:" : "mats 5/21/2018 16:36",
+		"widgets" : "mats 5/21/2018 16:25",
+		"widgets:" : "mats 5/21/2018 16:24" } }

@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testText
 
 	self testTextOn: MDRaisedButton new.

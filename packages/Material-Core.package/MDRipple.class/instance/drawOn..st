@@ -18,7 +18,7 @@ drawOn: aCanvas
 			(rectangleNegated colorAt: x @ y) = Color black
 				ifTrue: [ ripple colorAt: x @ y put: Color transparent. ]
 				ifFalse: [ 
-					((ripple colorAt: x @ y) = Color white) ifTrue: [ ripple colorAt: x @ y put: (Color white alpha: self colorAlpha) ] ]
+					((ripple colorAt: x @ y) = Color white) ifTrue: [ ripple colorAt: x @ y put: (self clickableMorph textColor alpha: self colorAlpha) ] ]
 				].
 		].
 	

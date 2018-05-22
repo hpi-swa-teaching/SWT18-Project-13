@@ -1,4 +1,4 @@
-accessing
+event handling
 doClickableAction
 	
 	(target notNil and: [actionSelector notNil]) 

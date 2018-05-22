@@ -1,4 +1,4 @@
 default properties
 defaultTextColor
 
-	^  '#FFFFFF'
+	^ '#FFFFFF'

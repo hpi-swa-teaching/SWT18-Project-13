@@ -1,0 +1,15 @@
+{
+	"category" : "Material-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"widgets",
+		"itemsPerRow" ],
+	"name" : "MDExample",
+	"pools" : [
+		 ],
+	"super" : "MDWidget",
+	"type" : "normal" }

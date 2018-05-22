@@ -8,6 +8,7 @@
 	"instvars" : [
 		"ripples",
 		"isMouseDown",
+		"isHovered",
 		"negatedShapeCache",
 		"target",
 		"actionSelector",

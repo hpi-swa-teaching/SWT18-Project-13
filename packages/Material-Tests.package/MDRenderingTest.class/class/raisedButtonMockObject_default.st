@@ -1,5 +1,7 @@
-mock objects
+as yet unclassified
 raisedButtonMockObject_default
+	"	text: 'RAISED';
+		backgroundColor: '#F44336'."
 
 	^ '(Form
 	extent: 77@36

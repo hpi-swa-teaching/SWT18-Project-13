@@ -1,12 +1,10 @@
-as yet unclassified
+tests
 testFlatButton
 
 	| flatButton |
 	flatButton := MDFlatButton new.
 	
-	flatButton text: 'FLAT'.
-	self assert: (self render: flatButton) = self flatButtonMockObject_default.
-	
+	self assert: (self render: flatButton) = self class flatButtonMockObject_default.
 
 	flatButton text: 'Button Text'.
-	self assert: (self render: flatButton) = self flatButtonMockObject_textButtonText
+	self assert: (self render: flatButton) = self class flatButtonMockObject_default_alternativeText

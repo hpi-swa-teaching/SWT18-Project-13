@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testTextColor
 
 	self testTextColorOn: MDButton new.
