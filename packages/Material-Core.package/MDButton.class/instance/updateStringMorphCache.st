@@ -1,16 +1,13 @@
 as yet unclassified
 updateStringMorphCache
 
-	| stringMorph font style |
+	| stringMorph font |
 	
 	TextConstants at: #Roboto
-		ifPresent: [ :textStyle | font := textStyle addNewFontSize: 14]
 		ifAbsent: [
-			style := TextConstants at: #DefaultTextStyle.
-			style isTTCStyle
-				ifTrue: [ font := style addNewFontSize: 10 ]
-				ifFalse: [ font := TextStyle defaultFont ]	
-		].
+			TTCFontReader encodingTag: 0.
+			TTCFont newTextStyleFromTTFile: (FileDirectory uri: 'Roboto/Roboto.ttf') fullName].
+	font := (TextConstants at: #Roboto) addNewFontSize: 12.
 	
 	stringMorph := StringMorph contents: self text font: font.
 	stringMorph color: self textColor.
