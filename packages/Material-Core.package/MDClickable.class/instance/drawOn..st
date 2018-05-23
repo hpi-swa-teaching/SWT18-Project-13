@@ -4,7 +4,7 @@ drawOn: aCanvas
 	MDRenderer
 		drawRectangleOn: aCanvas 
 		withBounds: self bounds 
-		color: (self isHovered ifTrue: [ self backgroundColorHover ] ifFalse: [ self backgroundColor ])
+		color: self calculateColor
 		radius: self borderRadius
 		border: self borderWidth
 		borderColor: self borderColor.

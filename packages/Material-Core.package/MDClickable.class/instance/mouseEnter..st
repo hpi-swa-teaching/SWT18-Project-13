@@ -1,4 +1,4 @@
 event handling
 mouseEnter: anEvent
 	
-	self isHovered: true
+	self isDisabled ifFalse: [self setProperty: #state to: 'Hover']
