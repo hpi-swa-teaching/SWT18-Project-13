@@ -6,6 +6,6 @@ initializeBackground
 		wantsRipples: false;
 		backgroundColor: (Color black alpha: 0.3);
 		bounds: World fullBounds;
-		target: [ self close ];
+		target: [ self dismissOnBackgroundClick ifTrue: [self close] ];
 		actionSelector: #value;
 		yourself)
