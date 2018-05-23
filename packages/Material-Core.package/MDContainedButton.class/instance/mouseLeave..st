@@ -2,4 +2,4 @@ event handling
 mouseLeave: anEvent
 	
 	super mouseLeave: anEvent.
-	self drop
+	self isDisabled ifFalse: [self drop]

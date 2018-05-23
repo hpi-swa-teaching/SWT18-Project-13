@@ -2,4 +2,4 @@ event handling
 mouseEnter: anEvent
 	
 	super mouseEnter: anEvent.
-	self elevate
+	self isDisabled ifFalse: [self elevate]

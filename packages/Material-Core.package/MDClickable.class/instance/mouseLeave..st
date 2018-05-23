@@ -1,4 +1,4 @@
 event handling
 mouseLeave: anEvent
 	
-	self isHovered: false
+	self isDisabled ifFalse: [self setProperty: #state to: 'Enabled']
