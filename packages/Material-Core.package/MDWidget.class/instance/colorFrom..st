@@ -1,4 +1,4 @@
-border
+drawing
 colorFrom: aValue
 
 	aValue isColor 

@@ -4,8 +4,5 @@
 		"defaultText" : "mats 5/24/2018 10:38",
 		"defaultTextColor" : "mats 5/24/2018 10:38" },
 	"instance" : {
-		"backgroundColorHover" : "mats 5/24/2018 10:36",
 		"calculateColor" : "LS 5/24/2018 15:09",
-		"initialize" : "mats 5/24/2018 10:36",
-		"mouseEnter:" : "mats 5/24/2018 10:37",
-		"mouseLeave:" : "mats 5/24/2018 10:37" } }
+		"initialize" : "mats 5/24/2018 10:36" } }
