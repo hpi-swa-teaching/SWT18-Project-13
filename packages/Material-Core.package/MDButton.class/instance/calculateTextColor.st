@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 calculateTextColor
 
 	self isDisabled ifTrue: [ ^ self textColorDisabled ].
