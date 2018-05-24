@@ -1,5 +1,7 @@
 {
 	"class" : {
-		 },
+		"defaultBorderRadius" : "Max 5/23/2018 12:23",
+		"defaultHeight" : "Max 5/23/2018 12:17",
+		"defaultText" : "Max 5/23/2018 12:09" },
 	"instance" : {
-		"initialize" : "JW 5/17/2018 12:50" } }
+		"initialize" : "Max 5/23/2018 12:01" } }
