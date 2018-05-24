@@ -2,11 +2,11 @@ initialization
 initializeButtonNegative
 
 	| button |
-	button := MDTextButton new.
-	button 
-		text: 'Cancel';
+	button := MDTextButton new
+		text: self class defaultNegativeText;
 		target: [ self close ];
-		actionSelector: #value.
+		actionSelector: #value;
+		visible: false.
 	
 	self 
 		buttonNegative: button;

@@ -1,4 +1,4 @@
 as yet unclassified
 defaultNumItemsPerRow
 
-	^ 2
+	^ 3

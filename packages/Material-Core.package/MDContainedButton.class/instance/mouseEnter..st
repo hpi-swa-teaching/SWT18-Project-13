@@ -1,5 +1,6 @@
 event handling
 mouseEnter: anEvent
 	
-	super mouseEnter: anEvent.
-	self elevate
+	self state = #enabled ifTrue: [self elevate].
+	super mouseEnter: anEvent
+	

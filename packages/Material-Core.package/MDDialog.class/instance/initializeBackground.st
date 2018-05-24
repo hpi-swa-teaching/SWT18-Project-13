@@ -4,8 +4,9 @@ initializeBackground
 	self background: (MDClickable new
 		beSticky;
 		wantsRipples: false;
-		backgroundColor: (Color black alpha: 0.3);
+		wantsStates: false;
+		backgroundColor: self class backgroundColor;
 		bounds: World fullBounds;
-		target: [ self close ];
+		target: [ self dismissOnBackgroundClick ifTrue: [self close] ];
 		actionSelector: #value;
 		yourself)

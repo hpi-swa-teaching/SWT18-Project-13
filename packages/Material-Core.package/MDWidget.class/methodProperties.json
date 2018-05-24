@@ -3,7 +3,8 @@
 		"defaultBackgroundColor" : "mats 5/3/2018 22:54",
 		"defaultBorderRadius" : "LS 5/14/2018 09:56",
 		"defaultBottomShadow" : "mats 5/22/2018 20:48",
-		"defaultSideShadow" : "mats 5/22/2018 20:47" },
+		"defaultSideShadow" : "mats 5/22/2018 20:47",
+		"gray:" : "JW 5/23/2018 15:57" },
 	"instance" : {
 		"addDropShadow" : "LS 5/15/2018 17:52",
 		"backgroundColor" : "mats 5/22/2018 10:18",
@@ -13,7 +14,7 @@
 		"borderBottomRightRadius" : "mats 5/4/2018 15:41",
 		"borderBottomRightRadius:" : "LS 5/14/2018 17:10",
 		"borderRadius" : "LS 5/14/2018 09:59",
-		"borderRadius:" : "Max 5/23/2018 12:21",
+		"borderRadius:" : "LS 5/14/2018 17:10",
 		"borderTopLeftRadius" : "mats 5/4/2018 15:41",
 		"borderTopLeftRadius:" : "LS 5/14/2018 17:10",
 		"borderTopRightRadius" : "mats 5/4/2018 15:41",

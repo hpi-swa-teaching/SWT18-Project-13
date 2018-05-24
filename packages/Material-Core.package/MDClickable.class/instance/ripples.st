@@ -1,3 +1,3 @@
-initialization
+accessing
 ripples
 	^ ripples ifNil: [ ripples := #() asOrderedCollection ]

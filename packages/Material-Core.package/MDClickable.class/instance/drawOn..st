@@ -1,10 +1,11 @@
-ripple management
+drawing
 drawOn: aCanvas
 
 	MDRenderer
 		drawRectangleOn: aCanvas 
 		withBounds: self bounds 
-		color: (self isHovered ifTrue: [ self backgroundColorHover ] ifFalse: [ self backgroundColor ])
+		color: self calculateColor
 		radius: self borderRadius.
-	self drawRipplesOn: aCanvas
+	(self wantsRipples and: ((self state = #disabled) not))
+		ifTrue: [ self drawRipplesOn: aCanvas ]
 	

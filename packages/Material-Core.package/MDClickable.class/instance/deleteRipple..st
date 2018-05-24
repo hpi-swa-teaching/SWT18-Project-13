@@ -1,4 +1,4 @@
-border
+ripple management
 deleteRipple: anObject
 
 	((self ripples last = anObject) and: self isMouseDown) 

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"defaultBackgroundColor" : "mats 5/24/2018 10:38",
+		"defaultText" : "mats 5/24/2018 10:38",
+		"defaultTextColor" : "mats 5/24/2018 10:38" },
+	"instance" : {
+		"backgroundColorHover" : "mats 5/24/2018 10:36",
+		"initialize" : "mats 5/24/2018 10:36",
+		"mouseEnter:" : "mats 5/24/2018 10:37",
+		"mouseLeave:" : "mats 5/24/2018 10:37" } }

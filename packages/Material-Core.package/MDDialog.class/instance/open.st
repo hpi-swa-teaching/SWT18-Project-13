@@ -1,6 +1,9 @@
 accessing
 open
 
-	self background openInWorld.
+	(self background) 
+		bounds: World fullBounds;
+		openInWorld.
+		
 	self openInWorld.
 	self changed

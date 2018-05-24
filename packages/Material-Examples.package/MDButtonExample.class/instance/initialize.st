@@ -1,8 +1,9 @@
-as yet unclassified
+initialization
 initialize
 
 	super initialize.
 	
 	self
-		addFlatButtons;
-		addRaisedButtons
+		addTextButtons;
+		addContainedButtons;
+		addContainedButtons

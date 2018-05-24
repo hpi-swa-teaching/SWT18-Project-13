@@ -2,6 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"dialog" : "mats 5/22/2018 20:00",
-		"dialog:" : "mats 5/22/2018 20:00",
-		"initialize" : "mats 5/22/2018 20:11" } }
+		"addDialog:" : "mats 5/23/2018 13:42",
+		"dialogs" : "mats 5/23/2018 13:42",
+		"dialogs:" : "mats 5/23/2018 13:41",
+		"initialize" : "mats 5/23/2018 13:56",
+		"initializeBasicDialog" : "mats 5/23/2018 14:12",
+		"initializeCustomDialog" : "mats 5/23/2018 13:56" } }

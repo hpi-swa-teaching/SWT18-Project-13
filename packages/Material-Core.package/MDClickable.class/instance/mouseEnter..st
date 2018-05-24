@@ -1,4 +1,4 @@
 event handling
 mouseEnter: anEvent
 	
-	self isHovered: true
+	self updateStateWithAction: #mouseEnter.
