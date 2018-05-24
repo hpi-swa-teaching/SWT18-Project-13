@@ -1,11 +1,11 @@
 {
 	"class" : {
-		"defaultNumItemsPerRow" : "mats 5/22/2018 11:28",
+		"defaultNumItemsPerRow" : "LS 5/24/2018 10:17",
 		"padding" : "mats 5/21/2018 16:53",
 		"widgetPadding" : "mats 5/21/2018 16:41" },
 	"instance" : {
-		"addWidget:" : "mats 5/22/2018 15:09",
-		"initialize" : "mats 5/22/2018 20:03",
+		"addWidget:" : "LS 5/24/2018 10:21",
+		"initialize" : "LS 5/24/2018 10:24",
 		"itemsPerRow" : "mats 5/21/2018 16:37",
 		"itemsPerRow:" : "mats 5/21/2018 16:36",
 		"maxHeight" : "mats 5/22/2018 11:21",
