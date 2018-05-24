@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 isDisabled
 
 	^ self state = #disabled

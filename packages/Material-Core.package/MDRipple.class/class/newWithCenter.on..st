@@ -1,4 +1,4 @@
-as yet unclassified
+initialize-release
 newWithCenter: aPoint on: aMorph
 
 	^ MDRipple new

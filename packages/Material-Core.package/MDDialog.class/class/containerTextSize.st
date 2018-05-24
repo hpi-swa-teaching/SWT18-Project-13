@@ -1,4 +1,4 @@
-as yet unclassified
+default properties
 containerTextSize
 
 	^ #Body2

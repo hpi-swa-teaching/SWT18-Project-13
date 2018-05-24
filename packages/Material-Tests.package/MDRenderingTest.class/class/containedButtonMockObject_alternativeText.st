@@ -1,4 +1,4 @@
-as yet unclassified
+mock objects
 containedButtonMockObject_alternativeText
 	"text: 'Button'"
 

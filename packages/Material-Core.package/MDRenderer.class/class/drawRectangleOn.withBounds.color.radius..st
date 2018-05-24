@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 drawRectangleOn: aCanvas withBounds: aRectangle color: aColor radius: aCollection
 	
 	self

@@ -1,4 +1,4 @@
-as yet unclassified
+mock objects
 textButtonMockObject_mouseEnter
 
 	^ '(Form

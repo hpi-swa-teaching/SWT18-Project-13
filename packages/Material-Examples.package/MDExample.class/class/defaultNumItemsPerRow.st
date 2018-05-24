@@ -1,4 +1,4 @@
-as yet unclassified
+properties
 defaultNumItemsPerRow
 
 	^ 3

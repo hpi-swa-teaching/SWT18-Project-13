@@ -1,4 +1,4 @@
-as yet unclassified
+mock objects
 textButtonMockObject_default
 	"	text: 'TEXT';
 		textColor: '#673AB7'"

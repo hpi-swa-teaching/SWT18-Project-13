@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 keepBorderRadius: aRadius inRectangle: aRectangle
 
 	| radius max |
