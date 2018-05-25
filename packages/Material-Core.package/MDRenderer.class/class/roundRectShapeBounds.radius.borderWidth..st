@@ -1,13 +1,13 @@
-as yet unclassified
+drawing
 roundRectShapeBounds: aRectangle radius: aRadius borderWidth: width
 
 	| circle points radius |
-	
+
 	radius := self keepBorderRadius: aRadius inRectangle: aRectangle.
-	
-	circle := radius scaleBy: 0.5522847.
+
+	circle := radius scaleBy: 0.42."0.552228474."
 	points := OrderedCollection new.
-	
+
 	width top > 0 ifTrue: [
 		" top left corner "
 		radius top > 0 ifTrue: [
@@ -71,5 +71,5 @@ roundRectShapeBounds: aRectangle radius: aRadius borderWidth: width
 			add: 0 @ (aRectangle height - radius left);
 			add: 0 @ (aRectangle height - radius left);
 			add: 0 @ radius top].
-	
+
 	^ points asPointArray

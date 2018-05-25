@@ -1,4 +1,4 @@
-default properties
+states
 stateTransitionFrom: currentState withAction: aSymbol
 
 	^ {

@@ -1,4 +1,4 @@
-as yet unclassified
+default properties
 buttonPadding
 
 	^ 10@10

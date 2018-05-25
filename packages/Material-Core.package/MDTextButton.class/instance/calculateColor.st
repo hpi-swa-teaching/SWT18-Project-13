@@ -1,4 +1,4 @@
-event handling
+drawing
 calculateColor
 	
 	| overlay |

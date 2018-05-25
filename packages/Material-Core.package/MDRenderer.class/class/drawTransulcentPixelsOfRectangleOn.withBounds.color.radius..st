@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 drawTransulcentPixelsOfRectangleOn: aCanvas withBounds: aRectangle color: aColor radius: aCollection
 	
 	aCanvas asBalloonCanvas

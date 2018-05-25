@@ -6,4 +6,4 @@ initialize
 	self
 		addTextButtons;
 		addContainedButtons;
-		addContainedButtons
+		addOutlinedButtons

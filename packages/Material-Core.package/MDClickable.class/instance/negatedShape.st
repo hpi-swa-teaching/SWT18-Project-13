@@ -6,8 +6,8 @@ negatedShape
 	
 	MDRenderer
 		drawTransulcentPixelsOfRectangleOn: (form getCanvas)
-		withBounds: (0@0 corner: self width @ self height)
-		color: Color black  
+		withBounds: (0@0 corner: (self bounds corner - self position))
+		color: Color black
 		radius: self borderRadius.
 		
 	^ form

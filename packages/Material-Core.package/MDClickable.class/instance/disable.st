@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 disable 
 
 	^ self setProperty: #state to: #disabled

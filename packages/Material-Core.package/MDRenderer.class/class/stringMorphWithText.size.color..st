@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 stringMorphWithText: aString size: aSymbol color: aColor
 
 	| stringMorph font fontSize style |

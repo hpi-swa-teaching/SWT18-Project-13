@@ -4,6 +4,10 @@
 		"defaultHeight" : "Max 5/23/2018 12:17",
 		"defaultText" : "Max 5/23/2018 12:09" },
 	"instance" : {
-		"disable" : "JW 5/23/2018 14:50",
-		"enable" : "JW 5/23/2018 14:50",
-		"initialize" : "Max 5/23/2018 12:01" } }
+		"borderRadius" : "mats 5/25/2018 23:31",
+		"bounds" : "mats 5/25/2018 23:25",
+		"calculateBounds" : "mats 5/25/2018 23:26",
+		"drawOn:" : "mats 5/25/2018 23:27",
+		"enable" : "mats 5/25/2018 23:34",
+		"initialize" : "Max 5/23/2018 12:01",
+		"updateStringPosition" : "mats 5/25/2018 23:27" } }
