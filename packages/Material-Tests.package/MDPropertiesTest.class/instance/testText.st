@@ -1,6 +1,7 @@
 tests
 testText
 
-	self testTextOn: MDRaisedButton new.
-	self testTextOn: MDFlatButton new.
+	self testTextOn: MDContainedButton new.
+	self testTextOn: MDTextButton new.
+	self testTextOn: MDOutlinedButton new.
 	

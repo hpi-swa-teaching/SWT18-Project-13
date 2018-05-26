@@ -1,4 +1,4 @@
-as yet unclassified
+properties
 defaultColorAlpha
 
 	^ 0.5

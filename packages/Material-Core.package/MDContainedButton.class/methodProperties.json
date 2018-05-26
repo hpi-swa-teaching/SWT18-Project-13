@@ -1,8 +1,10 @@
 {
 	"class" : {
-		"defaultText" : "mats 5/22/2018 13:15",
-		"defaultTextColor" : "LS 5/21/2018 14:00" },
+		"defaultText" : "mats 5/22/2018 19:11",
+		"defaultTextColor" : "LS 5/24/2018 15:51" },
 	"instance" : {
-		"initialize" : "JW 5/17/2018 12:51",
-		"mouseEnter:" : "mats 5/22/2018 10:07",
-		"mouseLeave:" : "mats 5/22/2018 10:06" } }
+		"disable" : "JW 5/23/2018 14:51",
+		"enable" : "JW 5/23/2018 14:53",
+		"initialize" : "mats 5/26/2018 12:44",
+		"mouseEnter:" : "JW 5/24/2018 10:12",
+		"mouseLeave:" : "JW 5/24/2018 10:12" } }

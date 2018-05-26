@@ -1,4 +1,4 @@
-as yet unclassified
+properties
 widgetPadding
 
 	^ 10@10

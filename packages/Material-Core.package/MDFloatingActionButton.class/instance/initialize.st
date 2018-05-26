@@ -2,4 +2,4 @@ initialization
 initialize 
 	
 	super initialize.
-	self hasADropShadow: true.
+	self hasADropShadow: false.	"for now at least"

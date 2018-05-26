@@ -9,6 +9,8 @@
 		"ripples",
 		"isMouseDown",
 		"isHovered",
+		"wantsRipples",
+		"wantsStates",
 		"negatedShapeCache",
 		"target",
 		"actionSelector",

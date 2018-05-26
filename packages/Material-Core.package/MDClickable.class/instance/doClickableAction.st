@@ -1,6 +1,6 @@
 event handling
 doClickableAction
 	
-	(target notNil and: [actionSelector notNil]) 
+	(self target notNil and: [self actionSelector notNil]) 
 		ifTrue: 
-			[target perform: actionSelector withArguments: arguments].
+			[self target perform: self actionSelector withArguments: self arguments].

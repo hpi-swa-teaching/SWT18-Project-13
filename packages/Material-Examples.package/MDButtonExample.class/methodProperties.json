@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addFlatButtons" : "mats 5/21/2018 17:02",
-		"addRaisedButtons" : "mats 5/21/2018 16:56",
-		"initialize" : "mats 5/22/2018 11:32" } }
+		"addContainedButtons" : "mats 5/26/2018 11:43",
+		"addOutlinedButtons" : "mats 5/26/2018 11:43",
+		"addTextButtons" : "mats 5/26/2018 15:34",
+		"initialize" : "mats 5/26/2018 15:26" } }

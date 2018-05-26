@@ -1,0 +1,4 @@
+default properties
+defaultNegativeText
+
+	^ 'Cancel'

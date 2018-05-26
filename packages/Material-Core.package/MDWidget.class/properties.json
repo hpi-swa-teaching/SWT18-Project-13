@@ -3,7 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"FontsImported" ],
 	"commentStamp" : "",
 	"instvars" : [
 		"properties" ],

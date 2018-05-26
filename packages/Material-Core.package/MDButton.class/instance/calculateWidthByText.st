@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 calculateWidthByText
 
 	^ self stringMorphCache width + (2 * self class defaultPadding)
