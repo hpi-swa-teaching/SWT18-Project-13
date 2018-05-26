@@ -4,6 +4,9 @@ baseline: spec
 	spec
 		for: #'common'
 		do: [
+			spec baseline: 'Animations' with: [
+				spec repository: 'github://hpi-swa/animations:master/repository'].
+			
 			spec
 				package: 'Material-Core' with: [spec requires: #('Animations')];
 				package: 'Material-Examples' with: [spec requires: #('Material-Core')];
