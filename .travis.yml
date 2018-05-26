@@ -6,6 +6,7 @@ os:
   - osx
 
 smalltalk:
+  - Squeak-trunk
   - Squeak-5.1
 
 install:
