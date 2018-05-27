@@ -1,4 +1,4 @@
 drawing
 calculateWidth
 
-	^ { self class minWidth . self calculateWidthByText } max
+	^ self class minWidth max: self calculateWidthByText
