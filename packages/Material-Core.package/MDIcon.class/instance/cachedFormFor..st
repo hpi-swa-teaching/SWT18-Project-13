@@ -5,6 +5,6 @@ cachedFormFor: aPoint
 	size := aPoint x min: aPoint y.
 	
 	(cachedForm isNil or: [cachedForm extent ~= size asPoint])
-		ifTrue: [cachedForm := self class cachedFormSvg: self svg color: self svgColor size: size].
+		ifTrue: [cachedForm := self renderForm].
 	
 	^ cachedForm

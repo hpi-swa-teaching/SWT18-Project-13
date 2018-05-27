@@ -3,7 +3,6 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"FormCache",
 		"SVGCache" ],
 	"commentStamp" : "",
 	"instvars" : [
