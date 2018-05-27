@@ -3,4 +3,5 @@ initialize
 
 	super initialize.
 	
-	svgColor := Color black
+	svgColor := Color black.
+	self size: 40

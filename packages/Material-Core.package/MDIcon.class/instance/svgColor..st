@@ -1,6 +1,7 @@
 accessing
 svgColor: aColor
 
-	svgColor := aColor.
-	cachedForm := nil.
-	self changed
+	svgColor = aColor ifFalse: [
+		svgColor := aColor.
+		cachedForm := nil.
+		self changed ]
