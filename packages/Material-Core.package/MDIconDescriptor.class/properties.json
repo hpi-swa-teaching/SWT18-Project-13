@@ -3,16 +3,14 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"FormCache",
-		"SVGCache" ],
+		 ],
 	"commentStamp" : "",
 	"instvars" : [
 		"svg",
-		"cachedForm",
-		"svgColor",
-		"iconName" ],
-	"name" : "MDIcon",
+		"color",
+		"size" ],
+	"name" : "MDIconDescriptor",
 	"pools" : [
 		 ],
-	"super" : "MDWidget",
+	"super" : "Object",
 	"type" : "normal" }
