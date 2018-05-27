@@ -1,17 +1,14 @@
 utils
 importFrom: aFileDirectory
 	" clone for example https://github.com/encharm/Font-Awesome-SVG-PNG and run it on their SVGs. possibly remove icons-import first. "
-	" MDIcon importFrom: (FileDirectory default / 'material-design-icons-master') "
-	
+	" PHTIcon importFrom: (FileDirectory default / 'Font-Awesome-SVG-PNG-master' / 'white' / 'svg') "
+
 	aFileDirectory entriesDo: [:entry |
-		entry isDirectory ifTrue: [
-			(entry asFileDirectory / 'svg' / 'production') entriesDo: [:svg | | suffix |
-				suffix := svg name allButFirst: svg name size - 8.
-				suffix = '24px.svg' ifTrue: [
-					svg readStreamDo: [:stream | | source name |
-						name := (svg name allButLast: 9) capitalized.
+		entry extension = 'svg' ifTrue: [
+			entry readStreamDo: [:stream | | source name |
+				name := 'icon', ((entry name allButLast: 4) copyReplaceAll: '-' with: ' ') asCamelCase.
 				
-						source := '{1}
+				source := '{1}
 	^ self fromCache: #{1} ifAbsentPut: [''{2}'']' format: {name. stream contents}.
 				
-				self class compile: source classified: 'icons-import']]]]]
+				self class compile: source classified: 'icons-import']]]
