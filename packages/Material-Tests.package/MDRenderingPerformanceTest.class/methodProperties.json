@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"defaultMaxRenderingDuration" : "mats 5/27/2018 12:11" },
+	"instance" : {
+		"testAlternativeBackgroundColorRenderingPerformance" : "mats 5/27/2018 12:11",
+		"testAlternativeTextRenderingPerformance" : "mats 5/27/2018 12:11",
+		"testDefaultRenderingPerformance" : "mats 5/27/2018 12:11",
+		"testDisableRenderingPerformance" : "mats 5/27/2018 12:11",
+		"testMouseEventRenderingPerformance" : "mats 5/27/2018 12:11" } }
