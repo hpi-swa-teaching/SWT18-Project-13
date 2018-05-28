@@ -1,5 +1,5 @@
-initialization
-enable 
+event handling
+enable
 
-	super enable.
-	self hasADropShadow: false
+	self hasADropShadow: true.
+	^ super enable

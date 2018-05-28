@@ -1,4 +1,4 @@
-initialization
+event handling
 enable 
 	
 	self hasADropShadow: true.
