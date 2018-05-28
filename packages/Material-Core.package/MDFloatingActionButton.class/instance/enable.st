@@ -1,5 +1,5 @@
 event handling
-enable 
-	
+enable
+
 	self hasADropShadow: true.
 	^ super enable
