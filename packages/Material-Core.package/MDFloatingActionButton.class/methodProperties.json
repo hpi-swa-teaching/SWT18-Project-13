@@ -2,7 +2,8 @@
 	"class" : {
 		"defaultBorderRadius" : "Max 5/23/2018 12:23",
 		"defaultHeight" : "Max 5/23/2018 12:17",
-		"defaultText" : "Max 5/23/2018 12:09" },
+		"defaultText" : "Max 5/23/2018 12:09",
+		"icon:" : "LS 5/28/2018 09:14" },
 	"instance" : {
 		"borderRadius" : "mats 5/25/2018 23:31",
 		"bounds" : "mats 5/25/2018 23:25",
