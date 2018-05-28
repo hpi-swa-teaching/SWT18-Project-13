@@ -1,6 +1,6 @@
 utils
 importFrom: aFileDirectory
-	" clone for example https://github.com/encharm/Font-Awesome-SVG-PNG and run it on their SVGs. possibly remove icons-import first. "
+	" clone for example https://github.com/google/material-design-icons and run it on their SVGs. possibly remove icons-import first. "
 	" MDIcon importFrom: (FileDirectory default / 'material-design-icons-master') "
 	
 	aFileDirectory entriesDo: [:entry |
