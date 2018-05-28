@@ -3,14 +3,14 @@ addIconButtons
 
 	| textButton outlinedButton containedButton |
 	
-	textButton := MDTextButton icon: #iconThumbsUp.
+	textButton := MDContainedButton icon: #ic_add.
 	
-	outlinedButton := MDOutlinedButton icon: #iconBell.
+	outlinedButton := MDOutlinedButton icon: #ic_airplanemode_active.
 	outlinedButton
 		text: 'Button Text';
 		textColor: '#F44336'.
 	
-	containedButton := MDOutlinedButton icon: #iconCrosshairs.
+	containedButton := MDOutlinedButton icon: #ic_airplanemode_active.
 	containedButton
 		text: 'Disabled';
 		disable.
