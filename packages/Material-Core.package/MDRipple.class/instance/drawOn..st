@@ -17,9 +17,7 @@ drawOn: aCanvas
 		0 to: (self clickableMorph height) do: [ :y | 
 			(rectangleNegated colorAt: x @ y) = Color black
 				ifTrue: [ ripple colorAt: x @ y put: Color transparent. ]
-				ifFalse: [ 
-					((ripple colorAt: x @ y) = Color white) ifTrue: [ ripple colorAt: x @ y put: (self clickableMorph textColor alpha: self colorAlpha) ] ]
-				].
-		].
+				ifFalse: [ ((ripple colorAt: x @ y) = Color white) 
+					ifTrue: [ ripple colorAt: x @ y put: (self clickableMorph textColor alpha: self colorAlpha) ]]]].
 	
 	aCanvas translucentImage: ripple at: self clickableMorph position.

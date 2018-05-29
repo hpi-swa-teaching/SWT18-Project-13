@@ -13,7 +13,6 @@ mockObjectsForTestCases
 			at: MDTextButton put: self textButtonMockObject_alternativeText;
 			at: MDContainedButton put: self containedButtonMockObject_alternativeText;
 			at: MDOutlinedButton put: self outlinedButtonMockObject_alternativeText;
-			at: MDFloatingActionButton put: self floatingActionButtonMockObject_alternativeText;
 			yourself);
 		
 		at: #alternativeBackgroundColor put: (Dictionary new
