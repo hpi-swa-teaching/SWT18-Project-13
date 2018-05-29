@@ -7,4 +7,5 @@ initialize
 		addTextButtons;
 		addContainedButtons;
 		addOutlinedButtons;
-		addIconButtons
+		addIconButtons;
+		addFloatingActionButtons

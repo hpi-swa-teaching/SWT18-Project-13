@@ -1,8 +1,8 @@
 {
 	"class" : {
 		"drawRectangleOn:withBounds:color:radius:" : "LS 5/24/2018 15:06",
-		"drawRectangleOn:withBounds:color:radius:borderWidth:borderColor:" : "LS 5/24/2018 15:06",
-		"drawTransulcentPixelsOfRectangleOn:withBounds:color:radius:" : "mats 5/11/2018 12:32",
+		"drawRectangleOn:withBounds:color:radius:borderWidth:borderColor:" : "LS 5/29/2018 09:39",
+		"drawTransulcentPixelsOfRectangleOn:withBounds:color:radius:" : "LS 5/29/2018 09:40",
 		"fontFamilies" : "mats 5/22/2018 18:24",
 		"fontSizes" : "mats 5/22/2018 18:25",
 		"keepBorderRadius:inRectangle:" : "mats 5/14/2018 15:25",

@@ -1,6 +1,6 @@
 event handling
 mouseLeave: anEvent
 	
-	self state = #hover ifTrue: [self drop].
+	self isHovered ifTrue: [self drop].
 	super mouseLeave: anEvent
 	

@@ -4,4 +4,4 @@ testDefaultRenderingPerformance
 	| renderer |
 	renderer := MDRenderingTest new.
 	renderer defaultTestWith: [ :widget :value | 
-		self should: [renderer render: widget] notTakeMoreThan: self class defaultMaxRenderingDuration ]
+		self assert: [renderer render: widget times: 100] timeToRun <= (self calculateMaxRenderingDurationForTest: #default forWidget: widget) ]
