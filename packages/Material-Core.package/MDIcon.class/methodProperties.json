@@ -975,8 +975,10 @@
 		"importFrom:" : "LS 5/28/2018 09:02",
 		"supersamplingFactor" : "JW 5/27/2018 01:42" },
 	"instance" : {
-		"cachedFormFor:" : "JW 5/27/2018 11:11",
-		"changeIconName:" : "JW 5/27/2018 03:06",
+		"cachedForm" : "LS 5/29/2018 09:42",
+		"cachedForm:" : "LS 5/29/2018 09:42",
+		"cachedFormFor:" : "LS 5/29/2018 09:43",
+		"changeIconName:" : "LS 5/29/2018 09:43",
 		"drawOn:" : "JW 5/27/2018 01:39",
 		"iconName" : "JW 5/27/2018 01:38",
 		"iconName:" : "JW 5/27/2018 01:38",
@@ -986,4 +988,4 @@
 		"svg" : "JW 5/27/2018 01:39",
 		"svg:" : "JW 5/27/2018 01:39",
 		"svgColor" : "JW 5/27/2018 02:57",
-		"svgColor:" : "JW 5/27/2018 03:11" } }
+		"svgColor:" : "LS 5/29/2018 09:45" } }
