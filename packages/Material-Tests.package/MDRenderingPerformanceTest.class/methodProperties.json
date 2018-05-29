@@ -1,15 +1,15 @@
 {
 	"class" : {
 		"calculateAvgMaxAndMinRenderingTime:" : "mats 5/29/2018 17:39",
-		"defaultMaxRenderingDuration" : "mats 5/27/2018 17:03",
 		"makeNumberPrintable:" : "mats 5/29/2018 17:43",
-		"maxRenderingDurationFactor" : "mats 5/29/2018 18:03",
+		"maxRenderingDurationFactor" : "mats 5/29/2018 18:25",
 		"renderingTimeUnit" : "mats 5/29/2018 16:20",
 		"renderingTimeUnit:" : "mats 5/29/2018 16:20" },
 	"instance" : {
 		"calculateMaxRenderingDurationForTest:forWidget:" : "mats 5/29/2018 17:57",
-		"testAlternativeBackgroundColorRenderingPerformance" : "mats 5/29/2018 17:59",
-		"testAlternativeTextRenderingPerformance" : "mats 5/29/2018 17:59",
-		"testDefaultRenderingPerformance" : "mats 5/29/2018 17:55",
-		"testDisableRenderingPerformance" : "mats 5/29/2018 17:59",
-		"testMouseEventRenderingPerformance" : "mats 5/29/2018 17:59" } }
+		"renderingPerformanceCheckBlockFor:withRenderer:" : "mats 5/29/2018 18:24",
+		"testAlternativeBackgroundColorRenderingPerformance" : "mats 5/29/2018 18:23",
+		"testAlternativeTextRenderingPerformance" : "mats 5/29/2018 18:23",
+		"testDefaultRenderingPerformance" : "mats 5/29/2018 18:22",
+		"testDisableRenderingPerformance" : "mats 5/29/2018 18:23",
+		"testMouseEventRenderingPerformance" : "mats 5/29/2018 18:23" } }
