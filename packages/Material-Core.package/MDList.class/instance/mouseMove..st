@@ -3,7 +3,7 @@ mouseMove: evt
 
 	| item mouseEvent |
 	item := self calculatePositionToItem: evt position.
-	mouseEvent := evt position: ((evt position - self position) y \\ self class listItemHeight).
+	mouseEvent := evt position: 0@0.
 	
 	1 to: self listItems size do: [ :each |
 		each = item 

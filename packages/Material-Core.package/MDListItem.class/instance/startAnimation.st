@@ -2,7 +2,7 @@ accessing
 startAnimation
 	
 	AnimPropertyAnimation new
-		duration: MDRipple defaultAnimationDuration + 10;
+		duration: MDRipple defaultAnimationDuration + MDRipple fadeOutDuration;
 		target: self;
 		property: #updateFormCache;
 		startValue: 0;

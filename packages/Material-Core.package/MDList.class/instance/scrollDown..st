@@ -1,5 +1,8 @@
 as yet unclassified
 scrollDown: aNumber
 
-	self scrollOffset: (self scrollOffset + aNumber min: (self listItems size * (self class listItemHeight + self class listItemPadding))).
+	| maxScroll |
+	maxScroll := self listItems size - ((self height / (self class listItemHeight + self class listItemPadding)) ceiling).
+	maxScroll := (self class listItemHeight + self class listItemPadding) * maxScroll.
+	self scrollOffset: (self scrollOffset + aNumber min: maxScroll).
 	self changed

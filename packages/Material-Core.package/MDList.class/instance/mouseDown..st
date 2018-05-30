@@ -1,9 +1,10 @@
 event handling
 mouseDown: evt
 
-	| item mouseEvent position |
+	| item mouseEvent position mouseEvtPos |
+	position := evt position - self position + self scrollOffset.
+	mouseEvtPos := (evt position - self position) x @ (position y \\ (self class listItemHeight +  self class listItemPadding)).
 	item := self calculatePositionToItem: evt position.
-	position := evt position - self position.
-	mouseEvent := evt position: position x @ (position y \\ self class listItemHeight).
 	
+	mouseEvent := evt position: mouseEvtPos.
 	(self listItems at: item) mouseDown: mouseEvent.
