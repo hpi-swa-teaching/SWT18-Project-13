@@ -1,4 +1,4 @@
-properties
+default properties
 lineHeight
 
 	^ 18
