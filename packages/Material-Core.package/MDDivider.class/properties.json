@@ -6,10 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"listItems",
-		"scrollOffset",
-		"divider" ],
-	"name" : "MDList",
+		"widget",
+		"formCache",
+		"padding" ],
+	"name" : "MDDivider",
 	"pools" : [
 		 ],
 	"super" : "MDWidget",

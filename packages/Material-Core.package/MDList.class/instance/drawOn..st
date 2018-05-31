@@ -13,5 +13,8 @@ drawOn: aCanvas
 		| num pos |
 		num := each - firstRow.
 		pos := firstPos + (0@(self class listItemHeight +  self class listItemPadding) * num).
-		aCanvas drawImage: (self listItems at: each) formCache at: pos ]
+		aCanvas drawImage: (self listItems at: each) formCache at: pos.
 		
+		self showDividers ifTrue: [
+			num > 0 ifTrue: [
+				aCanvas drawImage: self divider formCache at: pos]]]

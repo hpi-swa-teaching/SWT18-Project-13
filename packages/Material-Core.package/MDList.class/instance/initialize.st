@@ -1,4 +1,4 @@
-as yet unclassified
+border
 initialize 
 
 	super initialize.
@@ -6,5 +6,6 @@ initialize
 		beSticky;
 		height: 500;
 		width: 300;
+		showDividers: true;
 		backgroundColor: Color white;
 		initializeListItems
