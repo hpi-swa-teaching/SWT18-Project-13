@@ -1,4 +1,4 @@
 default properties
-height
+padding
 
-	^ 80
+	^ 5

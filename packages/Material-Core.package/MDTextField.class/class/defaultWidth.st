@@ -1,4 +1,4 @@
 default properties
 defaultWidth
 
-	^ 120
+	^ 140
