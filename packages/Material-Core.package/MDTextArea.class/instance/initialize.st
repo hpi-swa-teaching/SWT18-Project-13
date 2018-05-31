@@ -2,4 +2,5 @@ initialization
 initialize 
 
 	super initialize.
-	self initializeTextMorph
+	self textMorph width: 200.
+	self initializeTextMorph.
