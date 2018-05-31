@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "MDTextArea",
+	"name" : "MDMultiLineField",
 	"pools" : [
 		 ],
 	"super" : "MDTextField",

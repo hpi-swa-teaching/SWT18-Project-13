@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "MDTextArea",
+		"textMorph",
+		"label" ],
+	"name" : "MDTextField",
 	"pools" : [
 		 ],
-	"super" : "MDTextField",
+	"super" : "MDWidget",
 	"type" : "normal" }

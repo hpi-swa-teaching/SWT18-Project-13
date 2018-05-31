@@ -1,7 +1,6 @@
 drawing
 drawOn: aCanvas
 
-	self bounds: self textMorph bounds.
 	MDRenderer
 		drawBottomBorderOn: aCanvas 
 		withBounds: self bounds 
