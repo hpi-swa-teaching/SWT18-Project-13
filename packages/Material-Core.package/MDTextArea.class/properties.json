@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"textMorph" ],
+	"name" : "MDTextArea",
+	"pools" : [
+		 ],
+	"super" : "MDWidget",
+	"type" : "normal" }
