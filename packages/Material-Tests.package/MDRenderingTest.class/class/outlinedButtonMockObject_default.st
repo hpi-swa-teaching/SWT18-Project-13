@@ -1,7 +1,6 @@
 mock-objects
 outlinedButtonMockObject_default
 
-
 	^ '(Form
 	extent: 96@36
 	depth: 32

@@ -1,4 +1,4 @@
 accessing
 stringMorphCache
 
-	^ stringMorphCache ifNil: [ self updateStringMorphCache ]
+	^ stringMorphCache ifNil: [self updateStringMorphCache]

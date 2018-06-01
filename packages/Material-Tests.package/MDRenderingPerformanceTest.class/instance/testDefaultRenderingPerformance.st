@@ -2,6 +2,6 @@ tests
 testDefaultRenderingPerformance
 
 	| renderer |
+	Transcript show: Character cr asString, 'Default Rendering Performance', Character cr.
 	renderer := MDRenderingTest new.
-	renderer defaultTestWith: [ :widget :value | 
-		self assert: [renderer render: widget times: 100] timeToRun <= (self calculateMaxRenderingDurationForTest: #default forWidget: widget) ]
+	renderer defaultTestWith: (self renderingPerformanceCheckBlockFor: #default withRenderer: renderer)

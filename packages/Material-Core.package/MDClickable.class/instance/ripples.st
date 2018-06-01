@@ -1,3 +1,4 @@
 accessing
 ripples
-	^ ripples ifNil: [ ripples := #() asOrderedCollection ]
+
+	^ ripples ifNil: [ripples := #() asOrderedCollection]

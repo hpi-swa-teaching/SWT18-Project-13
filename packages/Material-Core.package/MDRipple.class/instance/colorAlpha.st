@@ -1,3 +1,4 @@
 accessing
 colorAlpha
-	^ colorAlpha ifNil: [ colorAlpha := self class defaultColorAlpha ]
+
+	^ colorAlpha ifNil: [colorAlpha := self class defaultColorAlpha]

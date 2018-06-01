@@ -1,4 +1,3 @@
 drawing
 drawOn: aCanvas
-
-	" parent just draws a background and a frame, we want neither "
+	"parent just draws a background and a frame, we want neither"

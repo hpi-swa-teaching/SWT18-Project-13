@@ -1,5 +1,6 @@
 mock-objects
 outlinedButtonMockObject_disbaled
+
 	^ '(Form
 	extent: 96@36
 	depth: 32

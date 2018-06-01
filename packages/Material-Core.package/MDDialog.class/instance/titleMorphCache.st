@@ -1,5 +1,6 @@
 accessing
 titleMorphCache
-	^ titleMorphCache ifNil: [ ^ titleMorphCache := (MDRenderer stringMorphWithText: self title
+
+	^ titleMorphCache ifNil: [^ titleMorphCache := (MDRenderer stringMorphWithText: self title
 																   size: self class titleTextSize
-																   color: self class titleTextColor) ]
+																   color: self class titleTextColor)]

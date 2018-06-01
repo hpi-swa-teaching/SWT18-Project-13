@@ -1,5 +1,6 @@
 event handling
 elevate
 
-	self increaseSize.
-	self increaseShadow
+	self 
+		increaseSize;
+		increaseShadow

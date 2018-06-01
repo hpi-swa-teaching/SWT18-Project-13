@@ -2,6 +2,6 @@ tests
 testMouseEventRenderingPerformance
 
 	| renderer |
+	Transcript show: Character cr asString, 'MouseEvent Rendering Performance', Character cr.
 	renderer := MDRenderingTest new.
-	renderer mouseEventTestWith: [ :widget :value | 
-		self assert: [renderer render: widget times: 100] timeToRun <= (self calculateMaxRenderingDurationForTest: #mouseEnter forWidget: widget) ]
+	renderer mouseEventTestWith: (self renderingPerformanceCheckBlockFor: #mouseEnter withRenderer: renderer)

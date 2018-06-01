@@ -1,4 +1,4 @@
-accessing
+helper methods
 calculateAvgMaxAndMinRenderingTime: aMDWidget
 
 	| aCollection renderer  |

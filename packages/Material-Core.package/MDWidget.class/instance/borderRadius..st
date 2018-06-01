@@ -4,7 +4,8 @@ borderRadius: aValue
 	| borderRadius |
 	aValue isNumber 
 		ifTrue: [
-			borderRadius := Rectangle left: aValue right: aValue top: aValue bottom: aValue ]
+			borderRadius := Rectangle left: aValue right: aValue top: aValue bottom: aValue]
 		ifFalse: [
-			borderRadius := aValue ].
+			borderRadius := aValue].
+		
 	^ self setProperty: #borderRadius to: borderRadius

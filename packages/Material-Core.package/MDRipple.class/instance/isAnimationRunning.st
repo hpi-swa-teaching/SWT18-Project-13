@@ -1,3 +1,4 @@
 accessing
 isAnimationRunning
-	^ isAnimationRunning ifNil: [ isAnimationRunning := true ]
+
+	^ isAnimationRunning ifNil: [isAnimationRunning := true]

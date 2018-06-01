@@ -1,3 +1,4 @@
 accessing
 scaleFactor
-	^ scaleFactor ifNil: [ scaleFactor := 0 ]
+
+	^ scaleFactor ifNil: [scaleFactor := 0]

@@ -2,6 +2,7 @@ animation
 startAnimation
 	
 	self isAnimationRunning: true.
+	
 	AnimPropertyAnimation new
 		duration: self duration;
 		target: self;

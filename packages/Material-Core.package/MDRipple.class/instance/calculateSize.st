@@ -1,8 +1,7 @@
 drawing
 calculateSize
 	
-	| w h diagonal center size |
-	center := self clickableMorph position + self center.
+	| w h diagonal size |
 	w := (self clickableMorph width - self center x) max: self center x.
 	h := (self clickableMorph height - self center y) max: self center y.
 	diagonal := (w squared + h squared) sqrt.

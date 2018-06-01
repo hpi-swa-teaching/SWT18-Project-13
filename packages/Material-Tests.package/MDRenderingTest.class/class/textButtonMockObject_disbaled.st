@@ -1,5 +1,6 @@
 mock-objects
 textButtonMockObject_disbaled
+
 	^ '(Form
 	extent: 65@36
 	depth: 32

@@ -1,4 +1,4 @@
 default properties
 padding
 
-	^ 20@20
+	^ 20 @ 20

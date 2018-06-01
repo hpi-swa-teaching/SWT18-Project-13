@@ -1,3 +1,4 @@
 accessing
 fontsImported
-	^ FontsImported ifNil: [ FontsImported := false ]
+
+	^ FontsImported ifNil: [FontsImported := false]

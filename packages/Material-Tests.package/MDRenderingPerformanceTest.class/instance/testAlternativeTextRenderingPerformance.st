@@ -2,6 +2,6 @@ tests
 testAlternativeTextRenderingPerformance
 
 	| renderer |
+	Transcript show: Character cr asString, 'AlternativeText Rendering Performance', Character cr.
 	renderer := MDRenderingTest new.
-	renderer alternativeTextTestWith: [ :widget :value | 
-		self assert: [renderer render: widget times: 100] timeToRun <= (self calculateMaxRenderingDurationForTest: #alternativeText forWidget: widget) ]
+	renderer alternativeTextTestWith: (self renderingPerformanceCheckBlockFor: #alternativeText withRenderer: renderer)

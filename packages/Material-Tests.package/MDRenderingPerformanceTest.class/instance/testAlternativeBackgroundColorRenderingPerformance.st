@@ -2,6 +2,6 @@ tests
 testAlternativeBackgroundColorRenderingPerformance
 
 	| renderer |
+	Transcript show: Character cr asString, 'AlternativeBackgroundColor Rendering Performance', Character cr.
 	renderer := MDRenderingTest new.
-	renderer alternativeBackgroundColorTestWith: [ :widget :value | 
-		self assert: [renderer render: widget times: 100] timeToRun <= (self calculateMaxRenderingDurationForTest: #alternativeBackgroundColor forWidget: widget) ]
+	renderer alternativeBackgroundColorTestWith: (self renderingPerformanceCheckBlockFor: #alternativeBackgroundColor withRenderer: renderer)

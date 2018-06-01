@@ -1,3 +1,4 @@
 accessing
 lastPosition
-	^ lastPosition ifNil: [ ^ lastPosition := 0 ]
+
+	^ lastPosition ifNil: [^ lastPosition := 0]
