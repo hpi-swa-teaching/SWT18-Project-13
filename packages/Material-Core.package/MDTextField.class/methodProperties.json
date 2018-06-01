@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"defaultBackgroundColor" : "LS 5/31/2018 19:22",
+		"defaultBackgroundColor" : "JW 6/1/2018 08:36",
 		"defaultBorderColor" : "LS 5/31/2018 15:33",
 		"defaultBorderWidth" : "LS 5/31/2018 15:38",
 		"defaultLabel" : "LS 5/31/2018 19:58",
@@ -9,10 +9,11 @@
 		"label:" : "LS 5/31/2018 20:05",
 		"padding" : "LS 5/31/2018 19:43" },
 	"instance" : {
+		"addTextMorph" : "JW 6/1/2018 08:31",
 		"drawOn:" : "LS 5/31/2018 18:57",
 		"initialize" : "LS 5/31/2018 19:57",
 		"initializeLabel:" : "LS 5/31/2018 19:56",
-		"initializeTextMorph" : "LS 5/31/2018 15:02",
+		"initializeTextMorph" : "JW 6/1/2018 08:31",
 		"label" : "LS 5/31/2018 19:27",
 		"label:" : "LS 5/31/2018 19:27",
 		"setBoundsWidth:" : "LS 5/31/2018 20:24",

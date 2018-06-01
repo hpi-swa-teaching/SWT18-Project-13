@@ -4,5 +4,12 @@
 		"lineHeight" : "LS 5/31/2018 20:39",
 		"numberOfLines" : "LS 5/31/2018 20:46" },
 	"instance" : {
+		"addTextMorph" : "JW 6/1/2018 08:33",
+		"calculateScrollPaneHeight" : "JW 6/1/2018 08:34",
+		"drawOn:" : "JW 6/1/2018 08:39",
+		"initialize" : "JW 6/1/2018 08:36",
+		"initializeScrollPane" : "JW 6/1/2018 08:33",
 		"moveFieldDown" : "LS 5/31/2018 20:42",
-		"moveFieldUp" : "LS 5/31/2018 20:41" } }
+		"moveFieldUp" : "LS 5/31/2018 20:41",
+		"scrollPane" : "JW 6/1/2018 08:29",
+		"scrollPane:" : "JW 6/1/2018 08:29" } }
