@@ -1,4 +1,4 @@
-initialization
+drawing
 drawOn: aCanvas
 
 	"Maybe use something like update and addDependent: to setScrollDeltas"
