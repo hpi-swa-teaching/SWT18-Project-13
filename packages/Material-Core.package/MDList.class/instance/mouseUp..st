@@ -1,6 +1,6 @@
 event handling
 mouseUp: evt
-
+	
 	| item |
 	item := self calculatePositionToItem: evt position.
 	self firstVisibleRow to: self lastVisibleRow do: [:each |

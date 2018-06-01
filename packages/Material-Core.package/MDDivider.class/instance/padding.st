@@ -1,3 +1,3 @@
 accessing
 padding
-	^ padding ifNil: [ padding := 0@0 ]
+	^ padding ifNil: [^ padding := self class defaultPadding]

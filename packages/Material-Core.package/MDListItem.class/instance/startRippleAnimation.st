@@ -1,5 +1,5 @@
 accessing
-startAnimation
+startRippleAnimation
 	
 	AnimPropertyAnimation new
 		duration: MDRipple defaultAnimationDuration + MDRipple fadeOutDuration;

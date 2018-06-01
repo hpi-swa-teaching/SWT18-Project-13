@@ -2,8 +2,8 @@ as yet unclassified
 scrollDown: aNumber
 
 	| maxScroll mouseEvent |
-	maxScroll := self listItems size - ((self height / (self class listItemHeight + self class listItemPadding)) ceiling).
-	maxScroll := (self class listItemHeight + self class listItemPadding) * maxScroll.
+	maxScroll := self listItems size - ((self height / (self class listItemHeight + self listItemPadding)) ceiling).
+	maxScroll := (self class listItemHeight + self listItemPadding) * maxScroll.
 	self scrollOffset: (self scrollOffset + aNumber min: maxScroll).
 	
 	self scrollOffset = maxScroll ifFalse: [

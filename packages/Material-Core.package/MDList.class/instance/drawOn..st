@@ -12,8 +12,8 @@ drawOn: aCanvas
 	firstRow to: lastRow do: [ :each |
 		| num pos |
 		num := each - firstRow.
-		pos := firstPos + (0@(self class listItemHeight +  self class listItemPadding) * num).
-		aCanvas drawImage: (self listItems at: each) formCache at: pos.
+		pos := firstPos + (0 @ (self class listItemHeight +  self listItemPadding) * num).
+		aCanvas clipBy: self bounds during: [:clippedCanvas | clippedCanvas drawImage: (self listItems at: each) formCache at: pos].
 		
 		self showDividers ifTrue: [
 			num > 0 ifTrue: [

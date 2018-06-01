@@ -1,5 +1,5 @@
 accessing
 divider
 	^ divider ifNil: [ divider := (MDDivider newOn: self)
-		padding: 20@0;
+		padding: self class defaultDividerPadding;
 		yourself ]
