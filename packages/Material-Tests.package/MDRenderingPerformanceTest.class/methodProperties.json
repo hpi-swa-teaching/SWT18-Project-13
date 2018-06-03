@@ -3,8 +3,8 @@
 		"calculateAvgMaxAndMinRenderingTime:" : "mats 5/29/2018 17:39",
 		"makeNumberPrintable:" : "mats 5/29/2018 17:43",
 		"maxRenderingDurationFactor" : "mats 5/29/2018 18:37",
-		"renderingTimeUnit" : "CG 5/31/2018 09:42",
-		"renderingTimeUnit:" : "CG 5/31/2018 09:42" },
+		"renderingTimeUnit" : "mats 5/29/2018 16:20",
+		"renderingTimeUnit:" : "mats 5/29/2018 16:20" },
 	"instance" : {
 		"calculateMaxRenderingDurationForTest:forWidget:" : "mats 5/29/2018 17:57",
 		"renderingPerformanceCheckBlockFor:withRenderer:" : "mats 5/29/2018 18:24",

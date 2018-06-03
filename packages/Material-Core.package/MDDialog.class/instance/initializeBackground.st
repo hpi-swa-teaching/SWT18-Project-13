@@ -7,6 +7,6 @@ initializeBackground
 		wantsStates: false;
 		backgroundColor: self class backgroundColor;
 		bounds: World fullBounds;
-		target: [self dismissOnBackgroundClick ifTrue: [self close]];
+		target: [ self dismissOnBackgroundClick ifTrue: [self close] ];
 		actionSelector: #value;
 		yourself)

@@ -5,6 +5,5 @@ open
 		bounds: World fullBounds;
 		openInWorld.
 		
-	self 
-		openInWorld;
-		changed
+	self openInWorld.
+	self changed

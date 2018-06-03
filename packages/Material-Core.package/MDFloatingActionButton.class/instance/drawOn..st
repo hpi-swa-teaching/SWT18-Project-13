@@ -5,4 +5,4 @@ drawOn: aCanvas
 		aaLevel: 4;
 		fillOval: self bounds color: self currentBackgroundColor.
 	self updateContents: aCanvas. 
-	self drawRipplesOn: aCanvas
+	self drawRipplesOn: aCanvas.

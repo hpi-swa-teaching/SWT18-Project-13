@@ -1,4 +1,3 @@
 accessing
 wantsStates
-
-	^ wantsStates ifNil: [wantsStates := true]
+	^ wantsStates ifNil: [ wantsStates := true ]

@@ -1,4 +1,3 @@
 accessing
 buttonNegative
-
 	^ buttonNegative

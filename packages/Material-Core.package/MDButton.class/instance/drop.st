@@ -1,6 +1,5 @@
 event handling
 drop
 	
-	self 
-		decreaseSize;
-		defaultShadow
+	self decreaseSize.
+	self defaultShadow

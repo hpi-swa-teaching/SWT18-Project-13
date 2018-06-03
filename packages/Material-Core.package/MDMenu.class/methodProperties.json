@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"defaultBackgroundColor" : "LS 6/3/2018 16:57",
+		"defaultBorderRadius" : "LS 6/3/2018 17:08",
+		"paddingY" : "LS 6/3/2018 17:11" },
+	"instance" : {
+		"addMenuItem" : "LS 6/3/2018 17:00",
+		"addMenuItem:" : "LS 6/3/2018 17:06",
+		"height" : "LS 6/3/2018 16:58",
+		"initialize" : "LS 6/3/2018 17:55",
+		"updateBounds" : "LS 6/3/2018 16:57",
+		"width" : "LS 6/3/2018 16:59" } }
