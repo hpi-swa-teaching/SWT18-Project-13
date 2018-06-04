@@ -3,7 +3,7 @@
 		"disabledOpacity" : "JW 5/23/2018 16:12",
 		"stateToOverlay" : "mats 5/26/2018 18:04",
 		"stateTransitionFrom:withAction:" : "mats 5/24/2018 09:44",
-		"stateTransitions" : "JW 5/30/2018 12:02" },
+		"stateTransitions" : "JW 6/4/2018 19:02" },
 	"instance" : {
 		"actionSelector" : "CG 5/31/2018 09:30",
 		"actionSelector:" : "CG 5/31/2018 10:25",
@@ -51,7 +51,7 @@
 		"target:" : "CG 5/31/2018 09:31",
 		"textColor:" : "CG 5/31/2018 10:31",
 		"updateNegatedFormCache" : "mats 5/15/2018 16:15",
-		"updateStateWithAction:" : "mats 5/24/2018 09:46",
+		"updateStateWithAction:" : "JW 6/4/2018 18:56",
 		"wantsRipples" : "CG 5/31/2018 10:31",
 		"wantsRipples:" : "CG 5/31/2018 09:31",
 		"wantsStates" : "CG 5/31/2018 10:31",

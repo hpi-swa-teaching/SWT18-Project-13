@@ -1,4 +1,6 @@
 event handling
 updateStateWithAction: aSymbol
 	
-	self state: ((self class stateTransitions at: (self state)) at: aSymbol)
+	| newState |
+	newState := (self class stateTransitions at: (self state)) at: aSymbol ifAbsent: [^ self state].
+	self state: newState

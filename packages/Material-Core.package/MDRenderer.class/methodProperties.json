@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"drawBottomBorderOn:withBounds:color:radius:borderWidth:borderColor:" : "LS 5/31/2018 15:20",
+		"drawBottomBorderOn:withBounds:color:radius:borderWidth:borderColor:" : "JW 6/4/2018 20:00",
 		"drawRectangleOn:withBounds:color:radius:" : "LS 5/24/2018 15:06",
 		"drawRectangleOn:withBounds:color:radius:borderWidth:borderColor:" : "LS 5/29/2018 09:39",
 		"drawTransulcentPixelsOfRectangleOn:withBounds:color:radius:" : "LS 5/29/2018 09:40",

@@ -1,9 +1,9 @@
 initialization
 initializeScrollPane
 
-	scrollPane := ScrollPane new.
-	"scrollPane extent: self calculateScrollPaneHeight."
-	scrollPane color: self backgroundColor.
+	scrollPane := MDScrollPane new.
+	scrollPane eventReceiver: self.
+	scrollPane color: Color transparent.
 	scrollPane borderWidth: 0.
 	scrollPane hScrollBarPolicy: #never.
 	scrollPane vScrollBarPolicy: #never

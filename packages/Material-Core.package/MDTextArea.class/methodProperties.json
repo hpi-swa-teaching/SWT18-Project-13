@@ -5,12 +5,11 @@
 		"numberOfLines" : "LS 5/31/2018 20:46" },
 	"instance" : {
 		"addTextMorph" : "JW 6/4/2018 16:19",
-		"drawOn:" : "JW 6/1/2018 08:39",
 		"hasUnacceptedEdits" : "JW 6/4/2018 16:11",
 		"hasUnacceptedEdits:" : "JW 6/4/2018 16:11",
 		"initialize" : "JW 6/1/2018 09:16",
-		"initializeScrollPane" : "JW 6/1/2018 09:18",
-		"initializeTextMorph" : "JW 6/4/2018 16:33",
+		"initializeScrollPane" : "JW 6/4/2018 19:36",
+		"initializeTextMorph" : "JW 6/4/2018 18:41",
 		"postInitialize" : "JW 6/1/2018 09:17",
 		"scrollPane" : "JW 6/1/2018 08:29",
 		"scrollPane:" : "JW 6/1/2018 08:29",
@@ -19,4 +18,4 @@
 		"setScrollDeltas" : "JW 6/4/2018 16:12",
 		"setTextMorphBounds" : "JW 6/1/2018 10:13",
 		"textEdited:" : "JW 6/4/2018 16:31",
-		"textMorphClass" : "JW 6/4/2018 16:14" } }
+		"textMorphClass" : "JW 6/4/2018 18:39" } }

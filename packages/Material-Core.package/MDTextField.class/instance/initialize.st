@@ -2,4 +2,5 @@ initialization
 initialize 
 
 	super initialize.
-	self postInitialize
+	self postInitialize.
+	self wantsRipples: false

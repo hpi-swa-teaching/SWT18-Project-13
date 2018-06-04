@@ -11,5 +11,5 @@
 	"name" : "MDTextField",
 	"pools" : [
 		 ],
-	"super" : "MDWidget",
+	"super" : "MDClickable",
 	"type" : "normal" }

@@ -7,3 +7,4 @@ initializeTextMorph
 		setEditView: self;
 		autoFit: true;
 		setProperty: #indicateKeyboardFocus toValue: #never.
+	textMorph eventReceiver: self
