@@ -3,9 +3,11 @@
 		"defaultBackgroundColor" : "LS 6/3/2018 16:57",
 		"defaultBorderRadius" : "LS 6/3/2018 17:08",
 		"defaultWidth" : "LS 6/3/2018 18:03",
-		"example" : "LS 6/4/2018 10:10",
+		"example" : "LS 6/4/2018 10:27",
 		"paddingY" : "LS 6/3/2018 17:11" },
 	"instance" : {
+		"add:icon:target:" : "LS 6/4/2018 10:19",
+		"add:icon:target:selector:arguments:" : "LS 6/4/2018 10:18",
 		"add:target:" : "LS 6/4/2018 09:51",
 		"add:target:selector:" : "LS 6/4/2018 09:04",
 		"add:target:selector:arguments:" : "LS 6/4/2018 08:59",
