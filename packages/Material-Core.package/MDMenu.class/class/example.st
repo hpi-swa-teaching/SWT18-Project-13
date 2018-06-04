@@ -8,5 +8,7 @@ example
 	menu add: 'Transcript'  target: [TranscriptStream open].
 	menu addLine.
 	menu add: 'Save' icon: #ic_save target: [Smalltalk saveSession].
+	menu addCascade: 'Cascade' target: [Workspace open].
+	
 	^ menu
 	
