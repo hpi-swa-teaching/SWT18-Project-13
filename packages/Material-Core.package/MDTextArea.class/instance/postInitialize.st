@@ -2,5 +2,5 @@ initialization
 postInitialize
 
 	self initializeScrollPane.
-	self addMorph: self scrollPane.
-	super postInitialize
+	super postInitialize.
+	self addMorph: self scrollPane

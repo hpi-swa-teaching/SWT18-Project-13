@@ -7,9 +7,10 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"textMorph",
-		"label" ],
+		"label",
+		"placeholder" ],
 	"name" : "MDTextField",
 	"pools" : [
 		 ],
-	"super" : "MDClickable",
+	"super" : "MDWidget",
 	"type" : "normal" }
