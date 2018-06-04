@@ -1,4 +1,4 @@
 accessing
 height
 
-	^ MDMenuItem defaultHeight * 8
+	^ (2 * self class paddingY) + (self numItems * MDMenuItem defaultHeight)

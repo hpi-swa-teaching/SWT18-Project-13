@@ -1,7 +1,7 @@
-as yet unclassified
+initialization
 initialize
 
 	super initialize.
-	self target: [MDMenu new openInHand].
+	self target: [self openMenu].
 	self actionSelector: #value.
 	"self icon: #ic_add"
