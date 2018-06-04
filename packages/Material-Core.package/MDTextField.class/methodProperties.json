@@ -14,7 +14,7 @@
 		"drawOn:" : "LS 5/31/2018 18:57",
 		"initialize" : "JW 6/1/2018 09:15",
 		"initializeLabel:" : "LS 5/31/2018 19:56",
-		"initializeTextMorph" : "JW 6/1/2018 09:14",
+		"initializeTextMorph" : "JW 6/4/2018 16:29",
 		"label" : "LS 5/31/2018 19:27",
 		"label:" : "LS 5/31/2018 19:27",
 		"postInitialize" : "JW 6/1/2018 09:14",
@@ -22,5 +22,6 @@
 		"setTextMorphBounds" : "JW 6/1/2018 10:09",
 		"textMorph" : "LS 5/31/2018 15:01",
 		"textMorph:" : "LS 5/31/2018 15:01",
+		"textMorphClass" : "JW 6/4/2018 16:14",
 		"textMorphHeight" : "JW 6/1/2018 10:20",
 		"textMorphWidth" : "JW 6/1/2018 10:05" } }

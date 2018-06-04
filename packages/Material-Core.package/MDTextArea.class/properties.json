@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"scrollPane" ],
+		"scrollPane",
+		"hasUnacceptedEdits",
+		"hasEditingConflicts" ],
 	"name" : "MDTextArea",
 	"pools" : [
 		 ],

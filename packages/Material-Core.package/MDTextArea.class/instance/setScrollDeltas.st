@@ -1,0 +1,4 @@
+initialization
+setScrollDeltas
+
+	self scrollPane setScrollDeltas
