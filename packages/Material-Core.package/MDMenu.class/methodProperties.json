@@ -2,11 +2,20 @@
 	"class" : {
 		"defaultBackgroundColor" : "LS 6/3/2018 16:57",
 		"defaultBorderRadius" : "LS 6/3/2018 17:08",
+		"defaultWidth" : "LS 6/3/2018 18:03",
 		"paddingY" : "LS 6/3/2018 17:11" },
 	"instance" : {
-		"addMenuItem" : "LS 6/3/2018 17:00",
-		"addMenuItem:" : "LS 6/3/2018 17:06",
+		"add:target:selector:arguments:" : "LS 6/3/2018 18:09",
+		"add:target:selector:arguments:position:" : "LS 6/4/2018 08:29",
+		"addLine" : "LS 6/4/2018 08:23",
+		"addMenuItem:" : "LS 6/3/2018 18:22",
+		"handlesMouseDown:" : "LS 6/3/2018 18:16",
+		"hasItems" : "LS 6/4/2018 08:24",
 		"height" : "LS 6/3/2018 16:58",
-		"initialize" : "LS 6/3/2018 17:55",
-		"updateBounds" : "LS 6/3/2018 16:57",
-		"width" : "LS 6/3/2018 16:59" } }
+		"initialize" : "LS 6/4/2018 08:27",
+		"initializeExample" : "LS 6/4/2018 08:28",
+		"items" : "LS 6/4/2018 08:24",
+		"lastItem" : "LS 6/4/2018 08:25",
+		"mouseDown:" : "LS 6/3/2018 18:17",
+		"numItems" : "LS 6/4/2018 08:30",
+		"updateBounds" : "LS 6/3/2018 18:03" } }
