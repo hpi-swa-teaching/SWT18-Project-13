@@ -1,7 +1,5 @@
 initialization
 openMenu
 
-	| menu |
-	menu := MDMenu new.
-	menu position: self position.
-	menu openInWorld
+	self menu position: self position.
+	self menu openInWorld
