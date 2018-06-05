@@ -1,14 +1,14 @@
 {
-	"category" : "Material-Core",
+	"category" : "Material-Examples",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"menu" ],
-	"name" : "MDMenuCollapsed",
+		 ],
+	"name" : "MDMenuExample",
 	"pools" : [
 		 ],
-	"super" : "MDTextButton",
+	"super" : "MDExample",
 	"type" : "normal" }
