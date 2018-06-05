@@ -1,4 +1,4 @@
-accessing
+event handling
 mouseUp: evt
 
 	super mouseUp: evt.

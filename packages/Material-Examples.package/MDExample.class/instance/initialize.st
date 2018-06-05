@@ -3,8 +3,8 @@ initialize
 
 	super initialize.
 	self 
-		width: 450;
-		height: 275;
+		width: self class defaultWidth;
+		height: self class defaultHeight;
 		backgroundColor: '#e0e0e0';
 		beSticky;
 		openInHand

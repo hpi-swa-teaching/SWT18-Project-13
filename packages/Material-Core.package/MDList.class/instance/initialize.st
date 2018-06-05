@@ -7,5 +7,4 @@ initialize
 		height: 500;
 		width: 300;
 		showDividers: true;
-		backgroundColor: Color white;
-		initializeListItems
+		backgroundColor: Color white

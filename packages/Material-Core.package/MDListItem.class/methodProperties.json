@@ -1,17 +1,31 @@
 {
 	"class" : {
+		"defaultAvatarPadding" : "mats 6/5/2018 09:09",
+		"defaultHeight" : "mats 6/4/2018 17:03",
+		"defaultIconPadding" : "mats 6/5/2018 08:26",
+		"defaultIconSize" : "mats 6/5/2018 08:20",
+		"defaultTextPadding" : "mats 6/5/2018 09:11",
 		"newOnList:" : "mats 5/30/2018 11:58" },
 	"instance" : {
+		"avatar" : "mats 6/5/2018 09:04",
 		"changed" : "mats 6/1/2018 15:11",
+		"drawOn:" : "mats 6/5/2018 09:05",
 		"formCache" : "mats 5/30/2018 11:39",
 		"formCache:" : "mats 5/30/2018 11:36",
+		"icon" : "mats 6/5/2018 08:31",
 		"list" : "mats 5/30/2018 11:57",
 		"list:" : "mats 5/30/2018 11:57",
 		"mouseDown:" : "mats 6/1/2018 15:56",
 		"mouseEnter:" : "mats 5/30/2018 13:29",
 		"mouseLeave:" : "mats 5/30/2018 13:23",
 		"mouseUp:" : "mats 5/30/2018 18:23",
+		"removeAvatar" : "mats 6/5/2018 08:14",
+		"removetIcon" : "mats 6/5/2018 08:13",
+		"setAvatar:" : "mats 6/5/2018 09:06",
+		"setIcon:" : "mats 6/5/2018 08:38",
 		"startRippleAnimation" : "mats 6/1/2018 15:56",
+		"updateAvatarPosition" : "mats 6/5/2018 09:10",
 		"updateFormCache" : "mats 5/30/2018 13:29",
 		"updateFormCache:" : "mats 5/30/2018 13:57",
-		"updateStringPosition" : "mats 6/1/2018 16:12" } }
+		"updateIconPosition" : "mats 6/5/2018 09:02",
+		"updateStringPosition" : "mats 6/5/2018 09:11" } }
