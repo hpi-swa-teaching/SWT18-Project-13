@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MDMultiLineField",
+	"pools" : [
+		 ],
+	"super" : "MDTextField",
+	"type" : "normal" }

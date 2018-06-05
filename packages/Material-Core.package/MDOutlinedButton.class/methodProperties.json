@@ -1,8 +1,9 @@
 {
 	"class" : {
 		"defaultBackgroundColor" : "mats 5/24/2018 10:38",
+		"defaultBorderWidth" : "LS 5/31/2018 15:32",
 		"defaultText" : "mats 5/24/2018 10:38",
 		"defaultTextColor" : "mats 5/24/2018 10:38" },
 	"instance" : {
-		"calculateColor" : "mats 5/26/2018 11:34",
 		"initialize" : "mats 5/24/2018 10:36" } }
+		"calculateColor" : "CG 5/31/2018 10:42" } }

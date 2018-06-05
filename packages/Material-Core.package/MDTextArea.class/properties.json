@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MDTextArea",
+	"pools" : [
+		 ],
+	"super" : "MDTextField",
+	"type" : "normal" }

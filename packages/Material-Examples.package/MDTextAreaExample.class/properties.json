@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MDTextAreaExample",
+	"pools" : [
+		 ],
+	"super" : "MDExample",
+	"type" : "normal" }

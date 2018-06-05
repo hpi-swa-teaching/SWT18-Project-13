@@ -2,5 +2,6 @@ OrderedDictionary {
 	'packages\/BaselineOfMaterial.package' : #SquotCypressCodeSerializer,
 	'packages\/Material-Core.package' : #SquotCypressCodeSerializer,
 	'packages\/Material-Examples.package' : #SquotCypressCodeSerializer,
-	'packages\/Material-Tests.package' : #SquotCypressCodeSerializer
+	'packages\/Material-Tests.package' : #SquotCypressCodeSerializer,
+	'packages\/Material-Tools.package' : #SquotCypressCodeSerializer
 }

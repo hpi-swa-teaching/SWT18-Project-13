@@ -1,0 +1,18 @@
+{
+	"category" : "Material-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"textMorph",
+		"scrollPane",
+		"label",
+		"placeholder",
+		"helper" ],
+	"name" : "MDTextField",
+	"pools" : [
+		 ],
+	"super" : "MDWidget",
+	"type" : "normal" }

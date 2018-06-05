@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"eventReceiver" ],
+	"name" : "MDTextMorphForEditView",
+	"pools" : [
+		 ],
+	"super" : "TextMorphForEditView",
+	"type" : "normal" }

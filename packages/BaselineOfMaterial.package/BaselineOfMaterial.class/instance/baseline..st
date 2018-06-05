@@ -11,7 +11,8 @@ baseline: spec
 				spec repository: 'http://www.squeaksource.com/SVGMorph'].
 			
 			spec
-				package: 'Material-Core' with: [spec requires: #('Animations' 'SVG-Morphic')];
+				package: 'Material-Tools';
+				package: 'Material-Core' with: [spec requires: #('Animations' 'SVG-Morphic' 'Material-Tools')];
 				package: 'Material-Examples' with: [spec requires: #('Material-Core')];
 				package: 'Material-Tests' with: [spec requires: #('Material-Core' 'Material-Examples')];
 				yourself.

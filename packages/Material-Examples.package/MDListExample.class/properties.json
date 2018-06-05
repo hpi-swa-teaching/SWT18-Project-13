@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lists" ],
+	"name" : "MDListExample",
+	"pools" : [
+		 ],
+	"super" : "MDExample",
+	"type" : "normal" }
