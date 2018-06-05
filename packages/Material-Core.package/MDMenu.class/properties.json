@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"activeSubMenu" ],
+		"activeSubMenu",
+		"selectedItem" ],
 	"name" : "MDMenu",
 	"pools" : [
 		 ],

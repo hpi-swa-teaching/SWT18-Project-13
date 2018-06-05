@@ -1,4 +1,3 @@
 accessing
 activeSubMenu: anObject
-	
-	activeSubMenu := anObject.
+	activeSubMenu := anObject
