@@ -1,7 +1,6 @@
 class initialization
 label: aString
 
-	| textField |
-	textField := self new.
-	textField label contents: aString.
-	^ textField
+	^ self new
+		labelText: aString;
+		yourself

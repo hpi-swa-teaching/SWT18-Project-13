@@ -1,4 +1,4 @@
 default properties
 numberOfLines
 	
-	^ 4
+	^ 2

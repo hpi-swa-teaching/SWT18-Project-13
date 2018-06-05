@@ -1,4 +1,4 @@
 drawing
 textMorphWidth
 
-	^ self width - (2 * self class padding) 
+	^ self width - (2 * self class sidePadding) 

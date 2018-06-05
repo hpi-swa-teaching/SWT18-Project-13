@@ -1,4 +1,4 @@
 default properties
-padding
+topPadding
 
-	^ 10
+	^ 12

@@ -1,5 +1,5 @@
 {
-	"category" : "Material-Core",
+	"category" : "Material-Examples",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "MDTextArea",
+	"name" : "MDTextAreaExample",
 	"pools" : [
 		 ],
-	"super" : "MDTextField",
+	"super" : "MDExample",
 	"type" : "normal" }

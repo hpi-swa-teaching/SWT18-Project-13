@@ -1,4 +1,4 @@
 default properties
-padding
+contentHeight
 
-	^ 10
+	^ 80

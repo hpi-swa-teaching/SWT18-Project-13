@@ -1,5 +1,5 @@
 initialization
 initializeLabel: aString
 	
-	self label: (MDRenderer stringMorphWithText: aString size: #Caption color: self borderColor).
+	label := (MDRenderer stringMorphWithText: aString size: #Body2 color: self class inactiveColor).
 	self addMorph: self label

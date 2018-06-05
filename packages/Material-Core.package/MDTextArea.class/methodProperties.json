@@ -1,21 +1,7 @@
 {
 	"class" : {
-		"height" : "LS 5/31/2018 20:48",
+		"contentHeight" : "JW 6/5/2018 01:44",
 		"lineHeight" : "LS 5/31/2018 20:39",
-		"numberOfLines" : "LS 5/31/2018 20:46" },
+		"numberOfLines" : "JW 6/5/2018 03:25" },
 	"instance" : {
-		"addTextMorph" : "JW 6/4/2018 16:19",
-		"hasUnacceptedEdits" : "JW 6/4/2018 16:11",
-		"hasUnacceptedEdits:" : "JW 6/4/2018 16:11",
-		"initialize" : "JW 6/4/2018 21:41",
-		"initializeScrollPane" : "JW 6/4/2018 19:36",
-		"initializeTextMorph" : "JW 6/4/2018 18:41",
-		"postInitialize" : "JW 6/4/2018 21:44",
-		"scrollPane" : "JW 6/1/2018 08:29",
-		"scrollPane:" : "JW 6/1/2018 08:29",
-		"scrollSelectionIntoView" : "JW 6/4/2018 16:20",
-		"scrollSelectionIntoView:" : "JW 6/4/2018 16:41",
-		"setScrollDeltas" : "JW 6/4/2018 21:52",
-		"setTextMorphBounds" : "JW 6/1/2018 10:13",
-		"textEdited:" : "JW 6/4/2018 21:50",
-		"textMorphClass" : "JW 6/4/2018 18:39" } }
+		 } }

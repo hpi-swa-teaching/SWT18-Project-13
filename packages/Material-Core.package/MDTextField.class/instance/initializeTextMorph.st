@@ -1,7 +1,11 @@
 initialization
 initializeTextMorph 
 
-	textMorph := self textMorphClass new.
-	self textMorph contents: ''.
-	self textMorph font: (MDRenderer loadFontWithFontTag: #Body2).
-	self textMorph wrapFlag: true
+	textMorph := MDTextMorphForEditView eventReceiver: self.
+	textMorph contents: ''.
+	textMorph font: (MDRenderer loadFontWithFontTag: #Body2).
+	textMorph wrapFlag: true.
+	textMorph
+		setEditView: self;
+		autoFit: true;
+		setProperty: #indicateKeyboardFocus toValue: #never

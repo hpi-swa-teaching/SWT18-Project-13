@@ -1,4 +1,4 @@
 default properties
-defaultBorderWidth
+labelToClassPadding
 
 	^ 2

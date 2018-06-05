@@ -1,7 +1,4 @@
 accessing
 currentBorderColor
 
-	self textMorph hasKeyboardFocus
-		ifTrue: [ ^ self borderColor ]
-		ifFalse: [ ^ self class inactiveColor ]
-	
+	^ self properties at: #currentBorderColor ifAbsent: [^ self currentBorderColor: self class inactiveColor ]

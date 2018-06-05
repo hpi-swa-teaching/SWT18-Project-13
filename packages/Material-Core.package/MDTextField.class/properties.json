@@ -7,6 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"textMorph",
+		"scrollPane",
 		"label",
 		"placeholder" ],
 	"name" : "MDTextField",

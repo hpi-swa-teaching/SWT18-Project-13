@@ -1,4 +1,4 @@
 default properties
 defaultPlaceholderText
 
-	^ 'This is placeholder'
+	^ 'This is a placeholder'

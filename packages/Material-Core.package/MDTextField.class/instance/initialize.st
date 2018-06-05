@@ -2,4 +2,10 @@ initialization
 initialize 
 
 	super initialize.
-	self postInitialize
+	self initializeLabel: self class defaultLabel.
+	self initializePlaceholder: self class defaultPlaceholderText.
+	self initializeTextMorph.
+	self initializeScrollPane.
+	scrollPane scroller addMorph: textMorph.
+	self addMorph: scrollPane.
+	self setBoundsWidth: self class defaultWidth.

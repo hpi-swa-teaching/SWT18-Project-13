@@ -1,4 +1,4 @@
-initialization
+editor access
 scrollSelectionIntoView: event 
 	"Scroll my text into view. Due to line composition mechanism, we must never use the right of a character block because the lines last character block right value always comes from a global container and is *not* line specific."
 	
