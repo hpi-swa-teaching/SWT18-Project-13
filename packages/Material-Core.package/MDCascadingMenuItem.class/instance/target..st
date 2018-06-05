@@ -1,4 +1,4 @@
 as yet unclassified
 target: aTarget
 
-	target := [aTarget value]
+	target := aTarget

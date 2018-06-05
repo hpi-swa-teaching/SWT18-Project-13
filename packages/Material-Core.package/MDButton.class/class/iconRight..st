@@ -1,13 +1,13 @@
 class initialization
 iconRight: anIconNameSymbol
 	
-	| icon |
-	icon := MDIconRight perform: anIconNameSymbol.
+	| icon button |
+	button := self new.
+	icon := MDIcon perform: anIconNameSymbol.
 	icon size: self defaultIconSize.
-	icon position: (self new calculateWidth - self defaultIconPadding) @ (self defaultHeight - self defaultIconSize // 2).
+	icon position: (button calculateWidth - self defaultIconPadding) @ (self defaultHeight - self defaultIconSize // 2).
 	
-	
-	^ self new
+	^ button
 		removeAllMorphs;
 		addMorphBack: icon;
 		updateBounds;
