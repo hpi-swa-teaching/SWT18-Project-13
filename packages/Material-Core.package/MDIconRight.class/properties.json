@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MDIconRight",
+	"pools" : [
+		 ],
+	"super" : "MDIcon",
+	"type" : "normal" }

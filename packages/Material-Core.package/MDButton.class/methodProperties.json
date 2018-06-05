@@ -11,6 +11,7 @@
 		"defaultText" : "JW 5/17/2018 14:12",
 		"defaultTextColor" : "mats 5/21/2018 14:51",
 		"icon:" : "LS 5/28/2018 18:11",
+		"iconRight:" : "Max 6/5/2018 09:54",
 		"minWidth" : "JW 5/17/2018 13:01" },
 	"instance" : {
 		"calculateTextColor" : "JW 5/23/2018 15:40",
@@ -37,4 +38,4 @@
 		"updateBounds" : "JW 5/17/2018 14:11",
 		"updateContents:" : "LS 5/29/2018 09:35",
 		"updateStringMorphCache" : "mats 5/23/2018 23:49",
-		"updateStringPosition" : "LS 5/29/2018 09:36" } }
+		"updateStringPosition" : "Max 6/5/2018 10:01" } }
