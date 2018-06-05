@@ -8,7 +8,7 @@ exampleCascade
 	menu add: 'Cascade Transcript'  target: [TranscriptStream open].
 	menu addLine.
 	menu add: 'Cascade Save' icon: #ic_save target: [Smalltalk saveSession].
-	menu addCascade: 'Cascade Cascade' target: [MDMenu example openInHand].
+	menu addCascade: 'Cascade' target: [MDMenu example openInHand].
 	
 	^ menu
 	

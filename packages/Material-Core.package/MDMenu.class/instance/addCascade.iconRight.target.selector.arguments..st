@@ -1,10 +1,9 @@
 construction
-addCascade: aString target: aTarget selector: aSymbol arguments: aArgList
+addCascade: aString iconRight: anIconSymbol target: aTarget selector: aSymbol arguments: aArgList
 
 	| item |
-	item := MDCascadingMenuItem new
+	item := (MDCascadingMenuItem iconRight: anIconSymbol)
 		text: aString;
-		iconRight: #ic_play_arrow;
 		target: aTarget;
 		actionSelector: aSymbol;
 		arguments: aArgList.
