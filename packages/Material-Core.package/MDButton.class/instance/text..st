@@ -2,7 +2,7 @@ accessing
 text: aString
 	
 	| text |
-	text := self setProperty: #text to: (aString asUppercase).
+	text := self textProperty: aString.
 	self updateStringMorphCache.
 	self updateBounds.
 	

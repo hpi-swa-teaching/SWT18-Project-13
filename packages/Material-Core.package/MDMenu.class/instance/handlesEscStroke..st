@@ -1,6 +1,6 @@
 keystrokes
-handlesEscStroke: evt
+handlesEscStroke: anEvent
 
-	evt keyValue = 27 ifFalse: [ ^false ].
-	self deactivate: evt.
+	anEvent keyValue = 27 ifFalse: [ ^false ].
+	self deactivate: anEvent.
 	^true

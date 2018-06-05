@@ -1,5 +1,7 @@
 event handling
-mouseUp: evt
+mouseUp: anEvent
 
-	(self fullContainsPoint: evt position)
-		ifFalse: [self deactivate: evt]
+	(self fullContainsPoint: anEvent position)
+		ifFalse: [self deactivate: anEvent].
+	anEvent hand newMouseFocus: self
+	

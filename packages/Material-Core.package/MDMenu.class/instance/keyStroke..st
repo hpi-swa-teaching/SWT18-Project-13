@@ -1,4 +1,4 @@
 keystrokes
-keyStroke: evt
+keyStroke: anEvent
 
-	self handlesEscStroke: evt.
+	self handlesEscStroke: anEvent.
