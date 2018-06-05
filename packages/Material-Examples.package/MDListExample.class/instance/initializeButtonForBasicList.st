@@ -4,7 +4,7 @@ initializeButtonForBasicList
 	| index |
 	index := self lists size + 1.
 	
-	self addList: self createBasicList.
+	self addList: self class createBasicList.
 	
 	self addWidget:  (MDContainedButton new
 		text: 'Open Basic List';

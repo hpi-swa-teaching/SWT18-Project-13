@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"newOn:" : "mats 6/5/2018 22:22" },
+	"instance" : {
+		"drawOn:" : "mats 6/5/2018 23:08",
+		"initialize" : "mats 6/5/2018 23:09",
+		"maxScrollDelta" : "mats 6/5/2018 22:20",
+		"maxScrollDelta:" : "mats 6/5/2018 22:20",
+		"scrollableWidget" : "mats 6/5/2018 22:20",
+		"scrollableWidget:" : "mats 6/5/2018 23:12",
+		"setUpConnectionsToScrollableWidget" : "mats 6/5/2018 23:12",
+		"setUpPositionUpdateConnectionFrom:" : "mats 6/5/2018 23:12",
+		"updatePosition" : "mats 6/5/2018 23:08" } }

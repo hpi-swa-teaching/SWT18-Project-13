@@ -4,7 +4,7 @@ initializeButtonForCustomList
 	| index |
 	index := self lists size + 1.
 	
-	self addList: self createCustomList.
+	self addList: self class createCustomList.
 	
 	self addWidget:  (MDContainedButton new
 		text: 'Open Custom List';

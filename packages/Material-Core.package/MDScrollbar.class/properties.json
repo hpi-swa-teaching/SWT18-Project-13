@@ -6,11 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"listItems",
-		"scrollOffset",
-		"divider",
-		"scrollbar" ],
-	"name" : "MDList",
+		"maxScrollDelta",
+		"scrollableWidget" ],
+	"name" : "MDScrollbar",
 	"pools" : [
 		 ],
 	"super" : "MDWidget",

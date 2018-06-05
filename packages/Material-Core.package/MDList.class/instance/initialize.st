@@ -1,4 +1,4 @@
-border
+initialization
 initialize 
 
 	super initialize.
@@ -7,4 +7,5 @@ initialize
 		height: 500;
 		width: 300;
 		showDividers: true;
-		backgroundColor: Color white
+		backgroundColor: Color white;
+		scrollbar: (MDScrollbar newOn: self)

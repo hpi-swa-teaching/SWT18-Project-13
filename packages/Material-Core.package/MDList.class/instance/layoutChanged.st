@@ -6,4 +6,5 @@ layoutChanged
 		ifFalse: [
 			self adjustListItemWidth.
 			self divider width: self width.
-			self divider updateFormCache]
+			self divider updateFormCache].
+	self emit

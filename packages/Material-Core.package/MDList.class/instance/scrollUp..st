@@ -12,4 +12,4 @@ scrollUp: aNumber
 				
 		(self listItems at: self firstVisibleRow) mouseLeave: mouseEvent].
 	
-	self changed
+	self emit
