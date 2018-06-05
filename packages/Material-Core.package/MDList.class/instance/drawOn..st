@@ -16,5 +16,5 @@ drawOn: aCanvas
 		aCanvas clipBy: self bounds during: [:clippedCanvas | clippedCanvas drawImage: (self listItems at: each) formCache at: pos].
 		
 		self showDividers ifTrue: [
-			num > 0 ifTrue: [
+			(num > 0 and: num < self listItems size) ifTrue: [
 				aCanvas drawImage: self divider formCache at: pos]]]

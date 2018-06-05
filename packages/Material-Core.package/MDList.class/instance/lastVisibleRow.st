@@ -1,4 +1,4 @@
 as yet unclassified
 lastVisibleRow
 
-	^ (self firstVisibleRow + ((self height / (self class listItemHeight + self listItemPadding)) floor)) min: self listItems size
+	^ (self firstVisibleRow + ((self height / (self class listItemHeight + self listItemPadding)) ceiling)) min: self listItems size
