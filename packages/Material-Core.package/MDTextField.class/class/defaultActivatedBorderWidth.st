@@ -1,4 +1,4 @@
 default properties
 defaultActivatedBorderWidth
 
-	^ 3
+	^ 2

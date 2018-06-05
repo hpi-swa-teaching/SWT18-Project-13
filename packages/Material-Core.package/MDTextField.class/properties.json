@@ -9,7 +9,8 @@
 		"textMorph",
 		"scrollPane",
 		"label",
-		"placeholder" ],
+		"placeholder",
+		"helper" ],
 	"name" : "MDTextField",
 	"pools" : [
 		 ],

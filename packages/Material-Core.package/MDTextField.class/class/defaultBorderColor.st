@@ -1,4 +1,4 @@
 default properties
 defaultBorderColor
 
-	^ '#641ce4'
+	^ '#6200ee'

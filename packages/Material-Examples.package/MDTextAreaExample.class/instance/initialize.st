@@ -4,7 +4,7 @@ initialize
 	super initialize.
 	self 
 		backgroundColor: Color white;
-		width: 450;
-		height: 100.
+		width: 650;
+		height: 150.
 		
 	self addTextArea

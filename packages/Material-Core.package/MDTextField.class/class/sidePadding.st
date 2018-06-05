@@ -1,4 +1,4 @@
 default properties
 sidePadding
 
-	^ 10
+	^ 12

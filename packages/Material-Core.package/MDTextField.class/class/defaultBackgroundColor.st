@@ -1,4 +1,4 @@
 default properties
 defaultBackgroundColor 
 
-	^ '210,210,210'
+	^ Color black alpha: 0.12
