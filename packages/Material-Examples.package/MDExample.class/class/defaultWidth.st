@@ -1,0 +1,4 @@
+properties
+defaultWidth
+
+	^ 450

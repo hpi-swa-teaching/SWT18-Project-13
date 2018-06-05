@@ -1,12 +1,14 @@
 {
 	"class" : {
+		"defaultHeight" : "mats 6/5/2018 09:33",
 		"defaultNumItemsPerRow" : "LS 5/24/2018 10:17",
+		"defaultWidth" : "mats 6/5/2018 09:33",
 		"newWithoutOpening" : "mats 5/26/2018 17:55",
 		"padding" : "mats 5/21/2018 16:53",
 		"widgetPadding" : "mats 5/21/2018 16:41" },
 	"instance" : {
 		"addWidget:" : "LS 5/24/2018 10:21",
-		"initialize" : "Max 5/28/2018 18:15",
+		"initialize" : "mats 6/5/2018 09:33",
 		"itemsPerRow" : "CG 5/31/2018 09:40",
 		"itemsPerRow:" : "CG 5/31/2018 09:40",
 		"maxHeight" : "CG 5/31/2018 09:40",

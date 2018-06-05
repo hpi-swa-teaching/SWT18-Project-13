@@ -1,0 +1,16 @@
+{
+	"category" : "Material-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"widget",
+		"formCache",
+		"padding" ],
+	"name" : "MDDivider",
+	"pools" : [
+		 ],
+	"super" : "MDWidget",
+	"type" : "normal" }
