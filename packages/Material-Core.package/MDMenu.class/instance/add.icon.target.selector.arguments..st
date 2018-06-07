@@ -6,6 +6,6 @@ add: aString icon: anIconSymbol target: aTarget selector: aSymbol arguments: aAr
 		text: aString;
 		target: aTarget;
 		actionSelector: aSymbol;
-		arguments: aArgList.
-	item bounds: (self newItemBounds: item).
+		arguments: aArgList;
+		bounds: self newItemBounds.
 	self addMorphBack: item.

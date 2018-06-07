@@ -2,8 +2,8 @@ construction
 addCascade: aString iconRight: anIconSymbol menu: aMDMenu
 
 	| item |
-	item := (MDMenuItem iconRight: anIconSymbol).
-	item subMenu: aMDMenu.
-	item text: aString.
-	item bounds: (self newItemBounds: item).
+	item := (MDMenuItem iconRight: anIconSymbol)
+		subMenu: aMDMenu;
+		text: aString;
+		bounds: self newItemBounds.
 	self addMorphBack: item.

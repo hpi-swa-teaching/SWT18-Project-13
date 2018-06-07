@@ -3,9 +3,8 @@
 		"defaultIcon" : "Max 6/3/2018 21:05",
 		"defaultText" : "Max 6/3/2018 21:04",
 		"defaultTextColor" : "LS 6/5/2018 16:26",
-		"menu:" : "LS 6/4/2018 10:06" },
+		"menu:" : "LS 6/7/2018 16:54" },
 	"instance" : {
-		"initialize" : "LS 6/5/2018 16:24",
-		"menu" : "LS 6/4/2018 10:04",
-		"menu:" : "LS 6/4/2018 10:04",
-		"openMenu" : "LS 6/4/2018 10:07" } }
+		"defaultTarget" : "LS 6/7/2018 16:53",
+		"initialize" : "LS 6/7/2018 16:56",
+		"mouseUp:" : "LS 6/7/2018 16:57" } }
