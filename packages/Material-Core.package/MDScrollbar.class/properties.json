@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"maxScrollDelta",
-		"scrollableWidget" ],
+		"scrollableWidget",
+		"lastScrollTime" ],
 	"name" : "MDScrollbar",
 	"pools" : [
 		 ],

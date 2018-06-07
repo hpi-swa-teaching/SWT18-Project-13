@@ -13,4 +13,5 @@ scrollDown: aNumber
 	
 		(self listItems at: self lastVisibleRow) mouseLeave: mouseEvent].
 	
+	self changed.
 	self emit
