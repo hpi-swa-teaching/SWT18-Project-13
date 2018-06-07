@@ -1,6 +1,6 @@
-accessing
+control
 activeSubmenu: aSubmenu
 
-	activeSubMenu ifNotNil: [
-		activeSubMenu delete ].
-	activeSubMenu := aSubmenu.
+	self activeSubMenu ifNotNil: [
+		self activeSubMenu delete ].
+	self activeSubMenu: aSubmenu.

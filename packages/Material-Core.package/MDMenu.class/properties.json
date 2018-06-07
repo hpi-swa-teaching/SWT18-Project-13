@@ -7,7 +7,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"activeSubMenu",
-		"selectedItem" ],
+		"selectedItem",
+		"popUpOwner",
+		"originalFocusHolder" ],
 	"name" : "MDMenu",
 	"pools" : [
 		 ],

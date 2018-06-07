@@ -1,3 +1,3 @@
-accessing
+selecting
 isSelected: anObject
 	isSelected := anObject

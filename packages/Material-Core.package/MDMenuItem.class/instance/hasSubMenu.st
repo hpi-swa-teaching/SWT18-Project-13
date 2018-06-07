@@ -1,0 +1,4 @@
+accessing
+hasSubMenu
+
+	^ subMenu notNil 

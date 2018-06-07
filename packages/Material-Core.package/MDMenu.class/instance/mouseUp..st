@@ -2,6 +2,6 @@ event handling
 mouseUp: anEvent
 
 	(self fullContainsPoint: anEvent position)
-		ifFalse: [self deactivate: anEvent].
+		ifFalse: [^ self deleteIfPopUp: anEvent ].
 	anEvent hand newMouseFocus: self
 	
