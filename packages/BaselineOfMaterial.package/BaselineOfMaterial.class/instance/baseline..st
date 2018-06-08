@@ -15,7 +15,7 @@ baseline: spec
 			
 			spec
 				package: 'Material-Tools';
-				package: 'Material-Core' with: [spec requires: #('Animations' 'SVG-Morphic' 'Material-Tools', 'Signals')];
+				package: 'Material-Core' with: [spec requires: #('Animations' 'SVG-Morphic' 'Material-Tools' 'Signals')];
 				package: 'Material-Examples' with: [spec requires: #('Material-Core')];
 				package: 'Material-Tests' with: [spec requires: #('Material-Core' 'Material-Examples')];
 				yourself.
