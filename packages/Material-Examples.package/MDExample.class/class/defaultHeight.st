@@ -1,0 +1,4 @@
+properties
+defaultHeight
+
+	^ 275
