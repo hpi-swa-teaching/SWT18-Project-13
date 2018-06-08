@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "Max 5/17/2018 10:37",
 	"instvars" : [
-		"stringMorphCache" ],
+		"label" ],
 	"name" : "MDButton",
 	"pools" : [
 		 ],

@@ -1,4 +1,4 @@
-as yet unclassified
+default properties
 defaultTextPadding
 
 	^ 16

@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"alwaysUppercase" ],
+	"name" : "MDLabel",
+	"pools" : [
+		 ],
+	"super" : "StringMorph",
+	"type" : "normal" }

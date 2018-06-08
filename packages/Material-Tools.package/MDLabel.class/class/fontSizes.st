@@ -1,4 +1,4 @@
-drawing
+default properties
 fontSizes
 
 	^ Dictionary new

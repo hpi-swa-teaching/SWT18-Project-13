@@ -1,4 +1,4 @@
-drawing
+font loading
 loadFontWithFontTag: aSymbol
 
 	| fontSize |
@@ -6,4 +6,3 @@ loadFontWithFontTag: aSymbol
 	TextConstants at: (self fontFamilies at: aSymbol)
 		ifPresent: [ :textStyle | ^ textStyle addNewFontSize: fontSize]
 		ifAbsent: [ ^ self loadDefaultFontWithSize: fontSize ]
-	

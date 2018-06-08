@@ -1,5 +1,3 @@
 accessing
 textMorphCache
-	^ textMorphCache ifNil: [ ^ textMorphCache := (MDRenderer stringMorphWithText: self text
-																    size: self class containerTextSize
-																    color: self class containerTextColor) ]
+	^ textMorphCache ifNil: [ ^ textMorphCache := (MDLabel contents: self text fontTag: self class containerTextSize) color: self class containerTextColor ]
