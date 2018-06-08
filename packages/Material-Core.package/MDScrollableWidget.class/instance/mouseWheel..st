@@ -1,4 +1,4 @@
-event handling
+as yet unclassified
 mouseWheel: evt
 	
 	evt isWheelUp ifTrue: [self scrollUp: self class scrollDelta ].

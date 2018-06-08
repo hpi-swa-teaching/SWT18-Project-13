@@ -1,3 +1,4 @@
 accessing
 listItems
-	^ listItems ifNil: [ listItems := OrderedCollection new ]
+
+	^ listItems ifNil: [listItems := OrderedCollection new]

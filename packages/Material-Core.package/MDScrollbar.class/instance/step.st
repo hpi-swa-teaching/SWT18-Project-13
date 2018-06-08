@@ -3,6 +3,6 @@ step
 
 	super step.
 	
-	self fadeOutDurationDone
+	self isFadeOutDurationDone
 		ifTrue: [self visible: false]
 		ifFalse: [self visible: true]

@@ -9,4 +9,5 @@ setAvatar: aSymbolOrImage
 
 	value := self setProperty: #avatar to: avatar.
 	self addMorph: (self properties at: #avatar).
+	
 	^ value

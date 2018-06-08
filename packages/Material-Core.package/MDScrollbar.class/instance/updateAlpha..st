@@ -1,7 +1,7 @@
 as yet unclassified
 updateAlpha: aValue
 
-	self fadeOutDurationDone
+	self isFadeOutDurationDone
 		ifTrue: [
 			self backgroundColor: (self class defaultBackgroundColor alpha: (self class defaultBackgroundColor alpha * aValue))].
 		

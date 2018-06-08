@@ -7,4 +7,5 @@ setIcon: aSymbol
 	
 	value := self setProperty: #icon to: icon.
 	self addMorph: (self properties at: #icon).
+	
 	^ value

@@ -1,3 +1,4 @@
 accessing
 scrollOffset: anObject
-	scrollOffset := anObject
+
+	^ scrollOffset := anObject
