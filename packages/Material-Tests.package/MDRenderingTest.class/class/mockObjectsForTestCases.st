@@ -7,6 +7,7 @@ mockObjectsForTestCases
 			at: MDContainedButton put: self containedButtonMockObject_default;
 			at: MDOutlinedButton put: self outlinedButtonMockObject_default;
 			at: MDFloatingActionButton put: self floatingActionButtonMockObject_default;
+			at: MDTextArea put: self textAreaMockObject_default;
 			yourself);
 		
 		at: #alternativeText put: (Dictionary new
@@ -24,6 +25,10 @@ mockObjectsForTestCases
 			at: MDTextButton put: self textButtonMockObject_mouseEnter;
 			at: MDContainedButton put: self containedButtonMockObject_mouseEnter;
 			at: MDOutlinedButton put: self outlinedButtonMockObject_mouseEnter;
+			yourself);
+			
+		at: #mouseDown put: (Dictionary new
+			at: MDTextArea put: self textAreaMockObject_activated;
 			yourself);
 		
 		at: #disabled put: (Dictionary new

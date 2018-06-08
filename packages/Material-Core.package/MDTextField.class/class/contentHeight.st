@@ -1,4 +1,4 @@
 default properties
 contentHeight
 
-	^ 80
+	^ self numberOfLines * self lineHeight

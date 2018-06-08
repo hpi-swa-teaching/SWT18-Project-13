@@ -7,6 +7,7 @@ maxRenderingDurationFactor
 			at: MDContainedButton put: 0.5;
 			at: MDOutlinedButton put: 0.3;
 			at: MDFloatingActionButton put: 0.2;
+			at: MDTextArea put: 1;
 			yourself);
 		
 		at: #alternativeText put: (Dictionary new

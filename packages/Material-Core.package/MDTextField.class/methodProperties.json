@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"bottomToHelperPadding" : "JW 6/5/2018 11:39",
-		"contentHeight" : "JW 6/5/2018 01:43",
+		"contentHeight" : "JW 6/7/2018 10:45",
 		"defaultActivatedBorderWidth" : "JW 6/5/2018 11:19",
 		"defaultBackgroundColor" : "JW 6/5/2018 11:12",
 		"defaultBorderColor" : "JW 6/5/2018 10:32",
@@ -11,12 +11,13 @@
 		"defaultPlaceholderText" : "JW 6/5/2018 01:01",
 		"defaultTextColor" : "JW 6/5/2018 11:15",
 		"defaultWidth" : "JW 6/5/2018 11:24",
-		"height" : "LS 5/31/2018 19:45",
 		"inactiveColor" : "JW 6/5/2018 11:14",
 		"label:" : "JW 6/5/2018 03:16",
 		"label:placeholder:" : "JW 6/5/2018 03:19",
 		"label:placeholder:helper:" : "JW 6/5/2018 11:42",
 		"labelToClassPadding" : "JW 6/5/2018 01:15",
+		"lineHeight" : "JW 6/7/2018 10:45",
+		"numberOfLines" : "JW 6/7/2018 10:46",
 		"padding" : "JW 6/5/2018 00:55",
 		"placeholder:" : "JW 6/5/2018 03:17",
 		"sidePadding" : "JW 6/5/2018 11:20",
