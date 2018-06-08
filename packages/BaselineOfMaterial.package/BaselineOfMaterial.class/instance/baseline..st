@@ -11,7 +11,7 @@ baseline: spec
 				spec repository: 'http://www.squeaksource.com/SVGMorph'].
 			
 			spec package: 'Signals' with: [
-				spec repository: 'http://www.squeaksource.com/Signals'].
+				spec repository: 'github://hpi-swa/signals:master/repository'].
 			
 			spec
 				package: 'Material-Tools';
