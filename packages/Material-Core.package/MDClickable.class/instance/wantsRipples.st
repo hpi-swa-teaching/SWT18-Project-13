@@ -1,4 +1,3 @@
 accessing
 wantsRipples
-
-	^ wantsRipples ifNil: [wantsRipples := true]
+	^ wantsRipples ifNil: [ wantsRipples := true ]

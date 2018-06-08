@@ -2,6 +2,5 @@ accessing
 close
 
 	self background delete.
-	self 
-		delete;
-		changed
+	self delete.
+	self changed

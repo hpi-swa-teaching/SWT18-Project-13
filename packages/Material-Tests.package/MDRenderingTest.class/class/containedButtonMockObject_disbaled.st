@@ -1,6 +1,5 @@
 mock-objects
 containedButtonMockObject_disbaled
-
 	^ '(Form
 	extent: 108@36
 	depth: 32

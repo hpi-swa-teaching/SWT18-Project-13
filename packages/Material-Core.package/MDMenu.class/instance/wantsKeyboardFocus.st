@@ -1,0 +1,4 @@
+keystrokes
+wantsKeyboardFocus 
+
+	^ true

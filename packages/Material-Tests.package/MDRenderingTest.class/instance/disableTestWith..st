@@ -5,7 +5,9 @@ disableTestWith: aBlock
 	defaultRenderedWidgets := self class mockObjectsForTestCases at: #default.
 	widgets := self class mockObjectsForTestCases at: #disabled.
 	widgets keysAndValuesDo: [ :key :value | 
-		widget := key new.
+		key isMorph not
+			ifTrue: [widget := key new]
+			ifFalse: [widget := key].
 		
 		self assert: (value = (defaultRenderedWidgets at: key)) not.
 		

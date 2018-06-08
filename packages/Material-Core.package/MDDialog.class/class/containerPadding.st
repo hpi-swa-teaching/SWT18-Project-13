@@ -1,4 +1,4 @@
 default properties
 containerPadding
 
-	^ 0 @ 20
+	^ 0@20

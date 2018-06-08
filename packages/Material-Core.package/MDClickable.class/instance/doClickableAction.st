@@ -3,4 +3,4 @@ doClickableAction
 	
 	(self target notNil and: [self actionSelector notNil]) 
 		ifTrue: 
-			[self target perform: self actionSelector withArguments: self arguments]
+			[self target perform: self actionSelector withArguments: self arguments].

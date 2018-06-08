@@ -1,0 +1,15 @@
+{
+	"category" : "Material-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"scrollableWidget",
+		"lastScrollTime" ],
+	"name" : "MDScrollbar",
+	"pools" : [
+		 ],
+	"super" : "MDWidget",
+	"type" : "normal" }

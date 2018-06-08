@@ -1,4 +1,3 @@
 accessing
 arguments
-
-	^ arguments ifNil: [arguments := #()]
+	^ arguments ifNil: [ arguments := #() ]

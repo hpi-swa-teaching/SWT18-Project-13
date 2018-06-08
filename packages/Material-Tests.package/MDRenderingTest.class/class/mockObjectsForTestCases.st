@@ -8,6 +8,7 @@ mockObjectsForTestCases
 			at: MDOutlinedButton put: self outlinedButtonMockObject_default;
 			at: MDFloatingActionButton put: self floatingActionButtonMockObject_default;
 			at: MDTextArea put: self textAreaMockObject_default;
+			at: MDBasicListExample put: self listMockObject_basic;
 			yourself);
 		
 		at: #alternativeText put: (Dictionary new

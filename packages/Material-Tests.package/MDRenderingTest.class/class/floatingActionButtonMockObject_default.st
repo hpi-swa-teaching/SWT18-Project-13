@@ -1,6 +1,5 @@
 mock-objects
 floatingActionButtonMockObject_default
-
 	^ '(Form
 	extent: 64@56
 	depth: 32

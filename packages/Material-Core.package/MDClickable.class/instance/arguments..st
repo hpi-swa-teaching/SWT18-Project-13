@@ -1,4 +1,4 @@
 accessing
 arguments: aCollection
 
-	arguments := aCollection asArray copy
+	arguments := aCollection asArray copy.

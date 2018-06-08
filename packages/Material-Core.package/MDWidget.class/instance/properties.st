@@ -1,4 +1,3 @@
 properties
 properties
-
-	^ properties ifNil: [^ properties := Dictionary new]
+	^ properties ifNil: [ ^ properties := Dictionary new ]

@@ -1,6 +1,5 @@
 mock-objects
 floatingActionButtonMockObject_alternativeBackgroundColor
-
 	^ '(Form
 	extent: 64@56
 	depth: 32

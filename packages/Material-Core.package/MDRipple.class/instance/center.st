@@ -1,4 +1,3 @@
 accessing
 center
-
-	^ center ifNil: [center := 0 @ 0]
+	^ center ifNil: [ center := 0@0 ]
