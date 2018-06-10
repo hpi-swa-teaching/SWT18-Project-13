@@ -6,7 +6,6 @@ icon: anIconNameSymbol
 	icon size: self defaultIconSize.
 	
 	^ self new
-		removeAllMorphs;
 		icon: icon;
 		addMorphBack: icon;
 		updateBounds;
