@@ -1,4 +1,4 @@
 default properties
 defaultTextColor
 
-	^ Color white
+	^ Color black

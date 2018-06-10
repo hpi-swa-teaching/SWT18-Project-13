@@ -1,4 +1,5 @@
 construction
 addLine
 
-	self flag: #refactor
+	self flag: #refactor.
+	self addMorph: (MDDivider newOn: self)

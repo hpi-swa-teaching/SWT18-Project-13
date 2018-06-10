@@ -5,5 +5,3 @@ addCascade: aString menu: aMDMenu
 		addCascade: aString
 		iconRight: #ic_play_arrow
 		menu: aMDMenu
-		selector: #value
-		arguments: Array empty

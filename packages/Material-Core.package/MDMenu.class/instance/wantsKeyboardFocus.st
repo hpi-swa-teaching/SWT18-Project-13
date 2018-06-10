@@ -1,4 +1,0 @@
-keystrokes
-wantsKeyboardFocus 
-
-	^ true
