@@ -3,4 +3,6 @@ testExampleCreation
 
 	"MDExample subclasses do: [ :each | each newWithoutOpening ]"
 	MDButtonExample newWithoutOpening.
-	MDDialogExample newWithoutOpening
+	MDDialogExample newWithoutOpening.
+	MDMenuExample newWithoutOpening.
+	MDListExample newWithoutOpening
