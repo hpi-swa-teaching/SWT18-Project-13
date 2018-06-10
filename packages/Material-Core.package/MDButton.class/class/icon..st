@@ -9,4 +9,6 @@ icon: anIconNameSymbol
 		icon: icon;
 		addMorphBack: icon;
 		updateBounds;
+		updateIcon;
+		changed;
 		yourself
