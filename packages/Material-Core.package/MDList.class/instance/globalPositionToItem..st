@@ -1,5 +1,5 @@
 as yet unclassified
-calculatePositionToItem: aPoint
+globalPositionToItem: aPoint
 
 	| position item |
 	position := aPoint - self position + self scrollOffset.
