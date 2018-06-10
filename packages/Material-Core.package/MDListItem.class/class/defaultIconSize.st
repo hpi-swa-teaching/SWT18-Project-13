@@ -1,4 +1,4 @@
-as yet unclassified
+default properties
 defaultIconSize
 
 	^ 24@24

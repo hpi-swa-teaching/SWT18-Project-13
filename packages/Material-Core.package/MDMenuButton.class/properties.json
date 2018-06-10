@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "MDMenuCollapsed",
+	"name" : "MDMenuButton",
 	"pools" : [
 		 ],
 	"super" : "MDTextButton",

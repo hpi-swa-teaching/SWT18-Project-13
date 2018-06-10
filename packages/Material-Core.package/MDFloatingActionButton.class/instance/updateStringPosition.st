@@ -1,4 +1,4 @@
 drawing
 updateStringPosition
 
-	self stringMorphCache position: self bounds center - (self stringMorphCache extent // 2)
+	self label position: self bounds center - (self label extent // 2)

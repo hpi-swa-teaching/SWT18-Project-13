@@ -1,4 +1,4 @@
-drawing
+default properties
 fontFamilies
 
 	^ Dictionary new

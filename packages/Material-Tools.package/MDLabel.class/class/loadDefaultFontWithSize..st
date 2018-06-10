@@ -1,4 +1,4 @@
-drawing
+font loading
 loadDefaultFontWithSize: aFontSize
 
 	| style |

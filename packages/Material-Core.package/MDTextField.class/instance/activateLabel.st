@@ -3,4 +3,4 @@ activateLabel
 
 	self label color: self currentBorderColor.
 	self label walkToPosition: self calculateLabelPosition.
-	self label font: (MDRenderer loadFontWithFontTag: #Caption)
+	self label font: (MDLabel loadFontWithFontTag: #Caption)
