@@ -16,7 +16,6 @@
 		"outlinedButtonMockObject_default" : "mats 5/25/2018 16:12",
 		"outlinedButtonMockObject_disbaled" : "mats 5/26/2018 13:04",
 		"outlinedButtonMockObject_mouseEnter" : "mats 5/25/2018 16:12",
-		"render:andStoreWithName:" : "mats 5/25/2018 17:00",
 		"textAreaMockObject_activated" : "JW 6/8/2018 13:41",
 		"textAreaMockObject_default" : "JW 6/8/2018 13:33",
 		"textAreaMockObject_example" : "JW 6/8/2018 13:29",
@@ -27,17 +26,9 @@
 	"instance" : {
 		"alternativeBackgroundColorTestWith:" : "mats 5/27/2018 13:22",
 		"alternativeTextTestWith:" : "mats 5/27/2018 13:23",
-		"defaultTest" : "mats 5/27/2018 13:23",
 		"defaultTestWith:" : "mats 5/27/2018 13:24",
 		"disableTestWith:" : "mats 6/8/2018 13:34",
 		"mouseDownEventTestWith:" : "JW 6/8/2018 13:52",
 		"mouseEventTestWith:" : "mats 5/27/2018 13:26",
 		"render:" : "mats 5/25/2018 16:02",
-		"render:times:" : "mats 5/29/2018 16:24",
-		"testAlternativeBackgroundColorRendering" : "mats 5/27/2018 13:23",
-		"testAlternativeTextRendering" : "mats 5/27/2018 13:26",
-		"testDefaultRendering" : "mats 5/27/2018 13:26",
-		"testDialog" : "mats 5/25/2018 17:01",
-		"testDisableRendering" : "mats 5/27/2018 13:26",
-		"testMouseEventRendering" : "JW 6/8/2018 13:54",
-		"testTextAreaActivation" : "JW 6/8/2018 13:56" } }
+		"render:times:" : "mats 5/29/2018 16:24" } }

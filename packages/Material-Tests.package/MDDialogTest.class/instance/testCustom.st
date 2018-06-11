@@ -1,5 +1,5 @@
-tests
-testDialog
+testing
+testCustom
 
 	| dialog |
 	dialog := MDDialog new
@@ -10,6 +10,4 @@ testDialog
 			   	showNegative: true;
 			   	yourself.
 				
-	self assert: (self render: dialog) = self class dialogMockObject_custom.
-				
-	
+	self testEquality: dialog with: self class custom

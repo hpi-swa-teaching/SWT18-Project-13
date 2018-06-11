@@ -1,0 +1,4 @@
+testing
+testAlternativeBackgroundColor
+	
+	self testAlternativeBackgroundColor: self classToTest new

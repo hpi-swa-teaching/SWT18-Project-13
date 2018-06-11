@@ -1,0 +1,4 @@
+testing
+classToTest
+
+	^ MDTextArea
