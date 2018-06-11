@@ -1,0 +1,4 @@
+properties
+textColor
+
+	^ Color white.

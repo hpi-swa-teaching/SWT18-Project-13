@@ -1,4 +1,4 @@
 default properties
 defaultBackgroundColor
 
-	^  '#F44336'
+	^ '#6200EE'

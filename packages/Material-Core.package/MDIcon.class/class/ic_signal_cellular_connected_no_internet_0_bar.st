@@ -1,3 +1,3 @@
 icons-import
 ic_signal_cellular_connected_no_internet_0_bar
-	^ self fromCache: #ic_signal_cellular_connected_no_internet_0_bar ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill-opacity=".3" d="M22 8V2L2 22h16V8z"/><path d="M20 22h2v-2h-2v2zm0-12v8h2v-8h-2z"/></svg>']
+	^ self fromCache: #ic_signal_cellular_connected_no_internet_0_bar ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><path fill-opacity=".3" d="M44 16V4L4 44h32V16z"/><path d="M40 44h4v-4h-4v4zm0-24v16h4V20h-4z"/></svg>']

@@ -1,3 +1,3 @@
 icons-import
 ic_functions
-	^ self fromCache: #ic_functions ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M18 4H6v2l6.5 6L6 18v2h12v-3h-7l5-5-5-5h7z"/></svg>']
+	^ self fromCache: #ic_functions ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><path d="M36 8H12v4l13 12-13 12v4h24v-6H22l10-10-10-10h14z"/></svg>']

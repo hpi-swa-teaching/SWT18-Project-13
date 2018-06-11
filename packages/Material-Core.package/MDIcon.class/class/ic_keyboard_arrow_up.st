@@ -1,3 +1,3 @@
 icons-import
 ic_keyboard_arrow_up
-	^ self fromCache: #ic_keyboard_arrow_up ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"/></svg>']
+	^ self fromCache: #ic_keyboard_arrow_up ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><path d="M14.83 30.83L24 21.66l9.17 9.17L36 28 24 16 12 28z"/></svg>']

@@ -1,3 +1,3 @@
 icons-import
 ic_exposure_neg_1
-	^ self fromCache: #ic_exposure_neg_1 ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M4 11v2h8v-2H4zm15 7h-2V7.38L14 8.4V6.7L18.7 5h.3v13z"/></svg>']
+	^ self fromCache: #ic_exposure_neg_1 ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><path d="M8 22v4h16v-4H8zm30 14h-4V14.75l-6 2.05v-3.4l9.4-3.4h.6v26z"/></svg>']

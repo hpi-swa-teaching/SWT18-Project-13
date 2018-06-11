@@ -1,3 +1,3 @@
 icons-import
 ic_brightness_1
-	^ self fromCache: #ic_brightness_1 ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/></svg>']
+	^ self fromCache: #ic_brightness_1 ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><circle cx="24" cy="24" r="20"/></svg>']
