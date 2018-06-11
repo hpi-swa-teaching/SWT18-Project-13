@@ -1,0 +1,1 @@
+I am a scrollbar which fades out after a defined period.

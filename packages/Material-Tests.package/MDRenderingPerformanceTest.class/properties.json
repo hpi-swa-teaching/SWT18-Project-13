@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		"RenderingTimeUnit" ],
-	"commentStamp" : "",
+	"commentStamp" : "LS 6/11/2018 10:12",
 	"instvars" : [
 		 ],
 	"name" : "MDRenderingPerformanceTest",

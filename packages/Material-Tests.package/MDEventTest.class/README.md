@@ -1,0 +1,1 @@
+I test mouse events for MDWidgets.

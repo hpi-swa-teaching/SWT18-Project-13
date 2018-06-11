@@ -1,0 +1,1 @@
+I am a renderer, you give me object specifications and I render it for you.

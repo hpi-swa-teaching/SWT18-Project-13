@@ -1,0 +1,1 @@
+I am a special text field, which has a fixed number of lines. If you enter more text I scroll automatically so you see the text you have written most recently. The Material Design equivalent is the "Text Area".
