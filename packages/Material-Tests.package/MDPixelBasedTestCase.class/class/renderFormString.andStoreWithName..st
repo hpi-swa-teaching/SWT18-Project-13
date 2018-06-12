@@ -7,5 +7,6 @@ renderFormString: aMDWidget andStoreWithName: aString
 	
 	name := aString.
 	source := '{1}
+	
 	^ ''{2}'' ' format: {name. content}.
 	self class compile: source classified: 'forms'

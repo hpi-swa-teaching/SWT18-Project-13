@@ -1,5 +1,10 @@
 {
 	"class" : {
-		"enabled" : "JW 6/12/2018 00:35" },
+		"enabled" : "mats 6/12/2018 11:18",
+		"scrollToBottomWithScrollbar" : "mats 6/12/2018 11:52",
+		"scrolledToBottom" : "mats 6/12/2018 11:51" },
 	"instance" : {
-		"testEnabled" : "JW 6/12/2018 00:36" } }
+		"testEnabled" : "mats 6/12/2018 11:15",
+		"testScrollDown" : "mats 6/12/2018 11:45",
+		"testScrollDownWithScrollbar" : "mats 6/12/2018 11:55",
+		"testScrollUp" : "mats 6/12/2018 11:54" } }
