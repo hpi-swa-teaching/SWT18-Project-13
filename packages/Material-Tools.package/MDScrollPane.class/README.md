@@ -1,0 +1,1 @@
+I am a specialied ScrollPane which reacts differently.

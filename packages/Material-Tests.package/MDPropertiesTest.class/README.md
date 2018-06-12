@@ -1,0 +1,1 @@
+I test if we can set properties for MDWidgets correctly.

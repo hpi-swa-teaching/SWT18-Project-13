@@ -2,7 +2,7 @@ drawing
 drawOn: aCanvas
 
 	self 
-		updateAvatarPosition;
+		updateAvatar;
 		updateIconPosition.
 	super drawOn: aCanvas.
 	

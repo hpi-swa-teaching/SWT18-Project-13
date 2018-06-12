@@ -1,0 +1,1 @@
+I am the base class for MDExamples and provide some convenience methods for nicer display.

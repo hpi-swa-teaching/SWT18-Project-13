@@ -1,3 +1,3 @@
 icons-import
 ic_text_fields
-	^ self fromCache: #ic_text_fields ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M2.5 4v3h5v12h3V7h5V4h-13zm19 5h-9v3h3v7h3v-7h3V9z"/></svg>']
+	^ self fromCache: #ic_text_fields ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><path d="M5 8v6h10v24h6V14h10V8H5zm38 10H25v6h6v14h6V24h6v-6z"/></svg>']

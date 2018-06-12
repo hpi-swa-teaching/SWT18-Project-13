@@ -1,3 +1,3 @@
 icons-import
 ic_volume_mute
-	^ self fromCache: #ic_volume_mute ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M7 9v6h4l5 5V4l-5 5H7z"/></svg>']
+	^ self fromCache: #ic_volume_mute ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><path d="M14 18v12h8l10 10V8L22 18h-8z"/></svg>']

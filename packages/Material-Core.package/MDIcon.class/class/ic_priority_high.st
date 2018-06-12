@@ -1,3 +1,3 @@
 icons-import
 ic_priority_high
-	^ self fromCache: #ic_priority_high ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><circle cx="12" cy="19" r="2"/><path d="M10 3h4v12h-4z"/></svg>']
+	^ self fromCache: #ic_priority_high ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><circle cx="24" cy="38" r="4"/><path d="M20 6h8v24h-8z"/></svg>']

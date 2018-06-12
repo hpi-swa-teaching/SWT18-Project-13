@@ -1,5 +1,5 @@
 accessing
 enable
 
-	self updateStringMorphCache.
+	self label color: self textColor.
 	^ super enable

@@ -1,3 +1,3 @@
 icons-import
 ic_assistant_photo
-	^ self fromCache: #ic_assistant_photo ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M14.4 6L14 4H5v17h2v-7h5.6l.4 2h7V6z"/></svg>']
+	^ self fromCache: #ic_assistant_photo ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><path d="M28.8 12L28 8H10v34h4V28h11.2l.8 4h14V12z"/></svg>']

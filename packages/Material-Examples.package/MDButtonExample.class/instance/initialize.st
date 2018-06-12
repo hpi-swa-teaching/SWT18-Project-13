@@ -4,8 +4,8 @@ initialize
 	super initialize.
 		
 	self
-		addTextButtons;
-		addContainedButtons;
-		addOutlinedButtons;
-		addIconButtons;
-		addFloatingActionButtons
+		addButtons: MDTextButton;
+		addButtons: MDContainedButton;
+		addButtons: MDOutlinedButton;
+		addFloatingActionButtons;
+		adjustButtons.

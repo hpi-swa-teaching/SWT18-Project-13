@@ -3,5 +3,5 @@ textColor: aValue
 
 	| value |
 	value := self setProperty: #textColor to: (self colorFrom: aValue).
-	self updateStringMorphCache.
+	self label color: self textColor.
 	^ value

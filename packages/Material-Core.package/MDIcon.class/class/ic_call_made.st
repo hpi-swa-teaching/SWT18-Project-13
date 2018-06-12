@@ -1,3 +1,3 @@
 icons-import
 ic_call_made
-	^ self fromCache: #ic_call_made ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M9 5v2h6.59L4 18.59 5.41 20 17 8.41V15h2V5z"/></svg>']
+	^ self fromCache: #ic_call_made ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><path d="M18 10v4h13.17L8 37.17 10.83 40 34 16.83V30h4V10z"/></svg>']

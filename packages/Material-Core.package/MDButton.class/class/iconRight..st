@@ -7,7 +7,6 @@ iconRight: anIconNameSymbol
 	icon size: self defaultIconSize.
 	
 	^ button
-		removeAllMorphs;
 		iconRight: icon;
 		addMorphBack: icon;
 		updateBounds;

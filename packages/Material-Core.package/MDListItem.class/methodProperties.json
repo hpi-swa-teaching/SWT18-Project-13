@@ -1,5 +1,6 @@
 {
 	"class" : {
+		"alwaysUppercase" : "JW 6/8/2018 16:09",
 		"defaultAvatarPadding" : "mats 6/5/2018 09:09",
 		"defaultHeight" : "mats 6/4/2018 17:03",
 		"defaultIconPadding" : "mats 6/5/2018 08:26",
@@ -10,7 +11,7 @@
 		"avatar" : "mats 6/5/2018 09:04",
 		"borderRadius" : "mats 6/5/2018 09:44",
 		"changed" : "mats 6/1/2018 15:11",
-		"drawOn:" : "mats 6/5/2018 09:05",
+		"drawOn:" : "LS 6/10/2018 15:44",
 		"formCache" : "mats 6/8/2018 15:32",
 		"formCache:" : "mats 6/8/2018 15:32",
 		"icon" : "mats 6/5/2018 08:31",
@@ -26,8 +27,9 @@
 		"setIcon:" : "mats 6/8/2018 15:33",
 		"startRippleAnimation" : "mats 6/1/2018 15:56",
 		"textColor:" : "mats 6/8/2018 15:33",
-		"updateAvatarPosition" : "mats 6/5/2018 09:10",
+		"updateAvatar" : "LS 6/10/2018 15:43",
+		"updateAvatarPosition" : "LS 6/10/2018 15:43",
 		"updateFormCache" : "mats 6/8/2018 15:33",
 		"updateFormCache:" : "mats 6/8/2018 15:33",
 		"updateIconPosition" : "mats 6/5/2018 09:02",
-		"updateStringPosition" : "mats 6/8/2018 15:35" } }
+		"updateStringPosition" : "JW 6/8/2018 15:09" } }

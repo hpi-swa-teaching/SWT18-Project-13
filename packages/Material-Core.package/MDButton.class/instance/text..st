@@ -1,9 +1,7 @@
 accessing
 text: aString
 	
-	| text |
-	text := self textProperty: aString.
-	self updateStringMorphCache.
+	self label contents: aString.
 	self updateBounds.
 	
-	^ text
+	^ aString

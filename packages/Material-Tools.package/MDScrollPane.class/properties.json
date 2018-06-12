@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "LS 6/11/2018 10:17",
 	"instvars" : [
 		"eventReceiver" ],
 	"name" : "MDScrollPane",

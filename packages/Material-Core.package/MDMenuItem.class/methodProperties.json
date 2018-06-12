@@ -1,5 +1,6 @@
 {
 	"class" : {
+		"alwaysUppercase" : "JW 6/8/2018 16:08",
 		"defaultBorderRadius" : "LS 6/3/2018 18:04",
 		"defaultHeight" : "LS 6/3/2018 17:12",
 		"defaultIconPadding" : "LS 6/8/2018 17:32",
@@ -18,10 +19,10 @@
 		"handlesMouseOverDragging:" : "LS 6/5/2018 21:16",
 		"hasSubMenu" : "LS 6/6/2018 20:59",
 		"hasSubMenu:" : "LS 6/6/2018 21:00",
-		"initialize" : "LS 6/6/2018 21:08",
+		"initialize" : "LS 6/12/2018 09:28",
 		"isSelected" : "LS 6/5/2018 21:21",
 		"isSelected:" : "LS 6/5/2018 21:21",
-		"mouseDown:" : "LS 6/7/2018 14:46",
+		"mouseDown:" : "LS 6/12/2018 09:30",
 		"mouseEnter:" : "LS 6/6/2018 18:03",
 		"mouseEnterDragging:" : "LS 6/5/2018 21:50",
 		"mouseUp:" : "LS 6/7/2018 17:11",
@@ -29,4 +30,4 @@
 		"subMenu" : "LS 6/5/2018 21:20",
 		"subMenu:" : "LS 6/6/2018 21:00",
 		"textProperty:" : "LS 6/5/2018 17:44",
-		"updateStringPosition" : "LS 6/5/2018 17:39" } }
+		"updateStringPosition" : "JW 6/8/2018 15:09" } }
