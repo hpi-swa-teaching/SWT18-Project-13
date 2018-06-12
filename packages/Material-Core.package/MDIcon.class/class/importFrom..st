@@ -7,7 +7,7 @@ importFrom: aFileDirectory
 		entry isDirectory ifTrue: [
 			(entry asFileDirectory / 'svg' / 'production') entriesDo: [:svg | | suffix |
 				suffix := svg name allButFirst: svg name size - 8.
-				suffix = '24px.svg' ifTrue: [
+				suffix = '48px.svg' ifTrue: [
 					svg readStreamDo: [:stream | | source name |
 						name := (svg name allButLast: 9).
 				

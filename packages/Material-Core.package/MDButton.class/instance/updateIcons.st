@@ -2,5 +2,5 @@ drawing
 updateIcons
 
 	self updateIcon.
-	self updateIconRight
+	self updateIconRight.
 	

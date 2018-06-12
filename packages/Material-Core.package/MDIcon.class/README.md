@@ -1,0 +1,1 @@
+I am a icon which you can use for any button you can think of.

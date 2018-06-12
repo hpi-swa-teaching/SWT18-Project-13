@@ -1,3 +1,3 @@
 icons-import
 ic_view_column
-	^ self fromCache: #ic_view_column ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10 18h5V5h-5v13zm-6 0h5V5H4v13zM16 5v13h5V5h-5z"/></svg>']
+	^ self fromCache: #ic_view_column ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><path d="M20 36h10V10H20v26zM8 36h10V10H8v26zm24-26v26h10V10H32z"/></svg>']

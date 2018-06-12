@@ -1,3 +1,3 @@
 icons-import
 ic_fiber_dvr
-	^ self fromCache: #ic_fiber_dvr ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M17.5 10.5h2v1h-2zm-13 0h2v3h-2zM21 3H3c-1.11 0-2 .89-2 2v14c0 1.1.89 2 2 2h18c1.11 0 2-.9 2-2V5c0-1.11-.89-2-2-2zM8 13.5c0 .85-.65 1.5-1.5 1.5H3V9h3.5c.85 0 1.5.65 1.5 1.5v3zm4.62 1.5h-1.5L9.37 9h1.5l1 3.43 1-3.43h1.5l-1.75 6zM21 11.5c0 .6-.4 1.15-.9 1.4L21 15h-1.5l-.85-2H17.5v2H16V9h3.5c.85 0 1.5.65 1.5 1.5v1z"/></svg>']
+	^ self fromCache: #ic_fiber_dvr ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><path d="M35 21h4v2h-4zM9 21h4v6H9zM42 6H6c-2.21 0-4 1.79-4 4v28c0 2.21 1.79 4 4 4h36c2.21 0 4-1.79 4-4V10c0-2.21-1.79-4-4-4zM16 27c0 1.7-1.3 3-3 3H6V18h7c1.7 0 3 1.3 3 3v6zm9.24 3h-3l-3.5-12h3l2 6.86 2-6.86h3l-3.5 12zM42 23c0 1.2-.8 2.3-1.8 2.8L42 30h-3l-1.7-4H35v4h-3V18h7c1.7 0 3 1.3 3 3v2z"/></svg>']

@@ -1,4 +1,4 @@
 properties
 defaultNumItemsPerRow
 
-	^ 3
+	^ 4

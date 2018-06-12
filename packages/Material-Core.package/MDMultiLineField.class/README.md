@@ -1,0 +1,1 @@
+I am a special text field, which can has multiple lines. The Material Design equivalent is the "Multiline Field".

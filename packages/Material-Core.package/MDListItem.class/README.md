@@ -1,0 +1,1 @@
+I am the item of a list which can have a icon and avatars.

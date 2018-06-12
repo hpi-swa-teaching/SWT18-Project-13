@@ -1,3 +1,3 @@
 icons-import
 ic_near_me
-	^ self fromCache: #ic_near_me ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M21 3L3 10.53v.98l6.84 2.65L12.48 21h.98L21 3z"/></svg>']
+	^ self fromCache: #ic_near_me ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><path d="M42 6L6 21.07v1.97l13.67 5.3L24.97 42h1.97L42 6z"/></svg>']

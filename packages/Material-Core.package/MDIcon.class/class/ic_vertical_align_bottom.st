@@ -1,3 +1,3 @@
 icons-import
 ic_vertical_align_bottom
-	^ self fromCache: #ic_vertical_align_bottom ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M16 13h-3V3h-2v10H8l4 4 4-4zM4 19v2h16v-2H4z"/></svg>']
+	^ self fromCache: #ic_vertical_align_bottom ifAbsentPut: ['<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><path d="M32 26h-6V6h-4v20h-6l8 8 8-8zM8 38v4h32v-4H8z"/></svg>']

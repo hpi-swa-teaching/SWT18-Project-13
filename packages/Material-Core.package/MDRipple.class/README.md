@@ -1,0 +1,1 @@
+I am a ripple which can be on a MDClickable. I will give you visual feedback for clicks.

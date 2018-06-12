@@ -1,0 +1,1 @@
+I am a dialog window that pop ups in front of all the windows and needs user action.
