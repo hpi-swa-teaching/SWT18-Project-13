@@ -9,7 +9,8 @@
 		"activeSubMenu",
 		"selectedItem",
 		"popUpOwner",
-		"originalFocusHolder" ],
+		"originalFocusHolder",
+		"x" ],
 	"name" : "MDMenu",
 	"pools" : [
 		 ],
