@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"alternativeBackgroundColor" : "JW 6/11/2018 22:58",
+		"disabled" : "JW 6/11/2018 22:58",
+		"enabled" : "JW 6/11/2018 22:58" },
+	"instance" : {
+		"classToTest" : "JW 6/11/2018 22:57",
+		"testAlternativeBackgroundColor" : "JW 6/11/2018 22:59",
+		"testDisable" : "JW 6/11/2018 22:59",
+		"testDisableAndEnable" : "JW 6/11/2018 23:00",
+		"testEnabled" : "JW 6/11/2018 22:59" } }

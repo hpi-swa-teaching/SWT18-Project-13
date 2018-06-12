@@ -1,3 +1,4 @@
 accessing
 formCache
-	^ formCache ifNil: [ formCache := self updateFormCache ]
+
+	^ formCache ifNil: [formCache := self updateFormCache]

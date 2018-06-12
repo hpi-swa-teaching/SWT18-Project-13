@@ -6,6 +6,5 @@ initialize
 		beSticky;
 		height: 500;
 		width: 300;
-		showDividers: true;
 		backgroundColor: Color white;
-		scrollbar: (MDScrollbar newOn: self)
+		showDividers: true

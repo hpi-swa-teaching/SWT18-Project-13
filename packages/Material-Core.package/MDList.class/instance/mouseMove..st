@@ -2,7 +2,7 @@ event handling
 mouseMove: evt
 
 	| item mouseEvent |
-	item := self calculatePositionToItem: evt position.
+	item := self globalPositionToItem: evt position.
 	mouseEvent := evt position: 0 @ 0.
 	
 	self listItems size > 0

@@ -8,5 +8,5 @@ startFadeOut
 		startValue: 1;
 		endValue: 0;
 		start: #deleteWhenFinished; "Automatic registry clean-up. No need to unregister."
-		finishBlock: [self fadeOutDurationDone ifTrue: [self visible: false]];
+		finishBlock: [self isFadeOutDurationDone ifTrue: [self visible: false]];
 		register. "Add to animation registry."

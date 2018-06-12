@@ -5,5 +5,5 @@ initializeScrollPane
 	scrollPane eventReceiver: self.
 	scrollPane color: Color transparent.
 	scrollPane borderWidth: 0.
-	scrollPane hScrollBarPolicy: #never.
-	scrollPane vScrollBarPolicy: #never
+	scrollPane hScrollBarPolicy: #whenNeeded.
+	scrollPane vScrollBarPolicy: #whenNeeded

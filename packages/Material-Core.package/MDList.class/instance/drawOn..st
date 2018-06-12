@@ -21,5 +21,4 @@ drawOn: aCanvas
 					(num > 0 and: num < self listItems size) ifTrue: [
 						aCanvas clipBy: self bounds during: [:clippedCanvas | clippedCanvas drawImage: self divider formCache at: pos]]]]].
 		
-	self scrollbar 
-		ifNotNil: [self scrollbar drawOn: aCanvas]
+	self drawScrollbarOn: aCanvas

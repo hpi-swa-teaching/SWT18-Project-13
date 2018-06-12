@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MDTextAreaTest",
+	"pools" : [
+		 ],
+	"super" : "MDPixelBasedTestCase",
+	"type" : "normal" }

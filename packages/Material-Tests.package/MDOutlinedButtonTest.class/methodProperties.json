@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"alternativeText" : "JW 6/11/2018 22:07",
+		"disabled" : "JW 6/11/2018 22:06",
+		"enabled" : "JW 6/11/2018 22:07",
+		"mouseEntered" : "JW 6/11/2018 22:06" },
+	"instance" : {
+		"classToTest" : "JW 6/11/2018 22:24",
+		"testAlternativeText" : "JW 6/11/2018 22:24",
+		"testDisable" : "JW 6/11/2018 22:24",
+		"testDisableAndEnable" : "JW 6/11/2018 22:24",
+		"testEnabled" : "JW 6/11/2018 22:24",
+		"testMouseEnter" : "JW 6/11/2018 23:11",
+		"testMouseEnterAndLeave" : "JW 6/11/2018 23:13" } }

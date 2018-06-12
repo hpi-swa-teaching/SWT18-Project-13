@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"activated" : "JW 6/11/2018 22:35",
+		"deactivated" : "JW 6/11/2018 22:35" },
+	"instance" : {
+		"classToTest" : "JW 6/11/2018 22:37",
+		"testAcitivate" : "JW 6/11/2018 22:39",
+		"testAcitivateAndDeactivate" : "JW 6/11/2018 22:40",
+		"testDeactivated" : "JW 6/11/2018 22:39" } }

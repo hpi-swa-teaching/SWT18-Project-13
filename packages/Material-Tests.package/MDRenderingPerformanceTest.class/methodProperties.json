@@ -2,14 +2,15 @@
 	"class" : {
 		"calculateAvgMaxAndMinRenderingTime:" : "mats 5/29/2018 17:39",
 		"makeNumberPrintable:" : "mats 5/29/2018 17:43",
-		"maxRenderingDurationFactor" : "JW 6/8/2018 13:37",
+		"maxRenderingDurationFactor" : "mats 6/10/2018 16:09",
 		"renderingTimeUnit" : "CG 5/31/2018 09:42",
 		"renderingTimeUnit:" : "CG 5/31/2018 09:42" },
 	"instance" : {
 		"calculateMaxRenderingDurationForTest:forWidget:" : "mats 5/29/2018 17:57",
+		"render:times:" : "JW 6/11/2018 23:55",
 		"renderingPerformanceCheckBlockFor:withRenderer:" : "mats 5/29/2018 18:24",
 		"testAlternativeBackgroundColorRenderingPerformance" : "mats 5/29/2018 18:23",
 		"testAlternativeTextRenderingPerformance" : "mats 5/29/2018 18:23",
-		"testDefaultRenderingPerformance" : "mats 5/29/2018 18:22",
+		"testDefaultRenderingPerformance" : "JW 6/11/2018 23:55",
 		"testDisableRenderingPerformance" : "mats 5/29/2018 18:23",
 		"testMouseEventRenderingPerformance" : "mats 5/29/2018 18:23" } }
