@@ -1,1 +1,1 @@
-I am a menu, following the material guideline specs for dense desktop menus
+I am a menu, following the material guideline specs for dense desktop menus. I am inspired by MorphicMenu.

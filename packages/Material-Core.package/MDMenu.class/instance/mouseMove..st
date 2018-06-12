@@ -1,7 +1,6 @@
 event handling
 mouseMove: anEvent
 
-	self flag: #refactor.
 	super mouseMove: anEvent.
 	self selectedItem 
 		ifNil: [

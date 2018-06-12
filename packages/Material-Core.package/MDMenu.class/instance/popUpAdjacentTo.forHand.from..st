@@ -1,8 +1,9 @@
 control
 popUpAdjacentTo: rightOrLeftPoint forHand: hand from: sourceItem 
-	"Present this menu at the given point under control of the given hand."
+	"Copied from MorphicMenu."
 	
 	| tryToPlace selectedOffset rightPoint leftPoint |
+	self flag: #refactor.
 	hand world startSteppingSubmorphsOf: self.
 	self popUpOwner: sourceItem.
 
