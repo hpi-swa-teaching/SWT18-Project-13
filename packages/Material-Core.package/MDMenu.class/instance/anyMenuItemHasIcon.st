@@ -1,4 +1,4 @@
 accessing
 anyMenuItemHasIcon
 
-	^ self submorphs anySatisfy: [ :each | each icon notNil ]. 
+	^ self items anySatisfy: [ :each | each hasIcon ]. 

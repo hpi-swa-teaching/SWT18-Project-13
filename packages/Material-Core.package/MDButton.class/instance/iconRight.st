@@ -1,3 +1,3 @@
 accessing
 iconRight
-	^ self properties at: #iconRight ifAbsent: [ ^ self iconRight: nil ]
+	^ self properties at: #iconRight ifAbsent: [ ^ nil ]
