@@ -39,6 +39,8 @@
 		"initializeLabel" : "JW 6/8/2018 16:04",
 		"label" : "JW 6/8/2018 15:11",
 		"label:" : "JW 6/8/2018 15:11",
+		"labelPositionIconNotPresent" : "LS 6/12/2018 20:14",
+		"labelPositionIconPresent" : "LS 6/12/2018 20:14",
 		"removeIcon" : "LS 6/12/2018 16:27",
 		"text" : "JW 6/8/2018 16:00",
 		"text:" : "JW 6/8/2018 15:03",
@@ -47,9 +49,9 @@
 		"textColorDisabled" : "JW 5/23/2018 16:26",
 		"textProperty:" : "LS 6/5/2018 17:43",
 		"updateBounds" : "LS 6/10/2018 17:48",
-		"updateContents:" : "LS 6/10/2018 15:31",
+		"updateContents:" : "LS 6/12/2018 20:11",
 		"updateIcon" : "LS 6/10/2018 17:42",
 		"updateIconColor:" : "LS 6/10/2018 15:33",
 		"updateIconRight" : "LS 6/10/2018 17:43",
 		"updateIcons" : "LS 6/10/2018 15:42",
-		"updateStringPosition" : "JW 6/8/2018 15:09" } }
+		"updateLabelPosition" : "LS 6/12/2018 20:19" } }

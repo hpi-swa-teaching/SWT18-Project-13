@@ -1,5 +1,5 @@
 drawing
 updateContents: aCanvas
 
-	self updateStringPosition.
+	self updateLabelPosition.
 	self updateIcons.
