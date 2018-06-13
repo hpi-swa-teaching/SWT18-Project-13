@@ -1,7 +1,6 @@
 forms
 alternativeBackgroundColor
-	"backgroundColor: '#2196f3'"
-
+	
 	^ '(Form
 	extent: 56@56
 	depth: 32

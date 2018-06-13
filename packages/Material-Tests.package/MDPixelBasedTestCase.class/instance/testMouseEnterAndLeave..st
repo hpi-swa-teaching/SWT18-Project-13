@@ -1,6 +1,7 @@
 testing
 testMouseEnterAndLeave: aMDWidget
 
-	aMDWidget mouseEnter: (MouseEvent new setType: #mouseEnter).
-	aMDWidget mouseLeave: (MouseEvent new setType: #mouseLeave).
+	self 
+		performMouseEnterOn: aMDWidget;
+		performMouseLeaveOn: aMDWidget.
 	self testEquality: aMDWidget with: self class enabled

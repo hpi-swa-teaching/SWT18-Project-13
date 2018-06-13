@@ -1,9 +1,12 @@
 {
 	"class" : {
-		"activated" : "JW 6/11/2018 22:35",
-		"deactivated" : "JW 6/11/2018 22:35" },
+		"activated" : "mats 6/13/2018 10:39",
+		"classToTest" : "mats 6/13/2018 10:19",
+		"deactivated" : "mats 6/13/2018 10:39",
+		"updateActivatedMockObject" : "mats 6/13/2018 10:37",
+		"updateAllMockObjects" : "mats 6/13/2018 10:39",
+		"updateDeactivatedMockObject" : "mats 6/13/2018 10:39" },
 	"instance" : {
-		"classToTest" : "JW 6/11/2018 22:37",
 		"testAcitivate" : "JW 6/11/2018 22:39",
 		"testAcitivateAndDeactivate" : "JW 6/11/2018 22:40",
 		"testDeactivated" : "JW 6/11/2018 22:39" } }

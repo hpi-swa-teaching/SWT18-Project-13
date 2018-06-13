@@ -1,7 +1,6 @@
 tests
 testBorderRadius
 
-	self testBorderRadiusWith: MDWidget new.
-	self testBorderRadiusWith: MDClickable new.
-	self testBorderRadiusWith: MDButton new.
+	MDWidget subclasses do: [:each |
+		self testBorderRadiusWith: each new]
 	

@@ -1,8 +1,14 @@
 {
 	"class" : {
-		"basic" : "JW 6/11/2018 22:53",
-		"custom" : "JW 6/11/2018 22:43" },
+		"basic" : "mats 6/13/2018 11:26",
+		"classToTest" : "mats 6/13/2018 10:16",
+		"custom" : "mats 6/13/2018 11:26",
+		"updateAllMockObjects" : "mats 6/13/2018 11:19",
+		"updateBasicMockObject" : "mats 6/13/2018 11:19",
+		"updateCustomMockObject" : "mats 6/13/2018 11:19" },
 	"instance" : {
-		"classToTest" : "JW 6/11/2018 22:41",
-		"testBasic" : "JW 6/11/2018 22:53",
-		"testCustom" : "JW 6/11/2018 22:44" } }
+		"basicDialog" : "mats 6/13/2018 11:17",
+		"customDialog" : "mats 6/13/2018 11:17",
+		"renderOnFormString:" : "mats 6/13/2018 11:25",
+		"testBasic" : "mats 6/13/2018 11:17",
+		"testCustom" : "mats 6/13/2018 11:18" } }

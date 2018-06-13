@@ -1,16 +1,17 @@
 {
 	"class" : {
-		"alternativeBackgroundColor" : "LS 6/12/2018 10:08",
-		"alternativeText" : "LS 6/12/2018 10:09",
-		"disabled" : "LS 6/12/2018 10:11",
-		"enabled" : "LS 6/12/2018 10:10",
-		"mouseEntered" : "LS 6/12/2018 10:17" },
+		"alternativeBackgroundColor" : "mats 6/13/2018 10:28",
+		"alternativeText" : "mats 6/13/2018 10:28",
+		"classToTest" : "mats 6/13/2018 10:15",
+		"disabled" : "mats 6/13/2018 10:33",
+		"enabled" : "mats 6/13/2018 10:32",
+		"mouseEntered" : "mats 6/13/2018 11:24",
+		"tests" : "mats 6/13/2018 10:27" },
 	"instance" : {
-		"classToTest" : "JW 6/11/2018 22:18",
-		"testAlternativeBackgroundColor" : "JW 6/11/2018 22:22",
-		"testAlternativeText" : "JW 6/11/2018 22:22",
-		"testDisable" : "JW 6/11/2018 22:22",
-		"testDisableAndEnable" : "JW 6/11/2018 22:22",
-		"testEnabled" : "JW 6/11/2018 22:22",
-		"testMouseEnter" : "JW 6/11/2018 23:10",
-		"testMouseEnterAndLeave" : "JW 6/11/2018 23:13" } }
+		"testAlternativeBackgroundColor" : "mats 6/13/2018 10:17",
+		"testAlternativeText" : "mats 6/13/2018 10:17",
+		"testDisable" : "mats 6/13/2018 10:17",
+		"testDisableAndEnable" : "mats 6/13/2018 10:17",
+		"testEnabled" : "mats 6/13/2018 10:17",
+		"testMouseEnter" : "mats 6/13/2018 10:17",
+		"testMouseEnterAndLeave" : "mats 6/13/2018 10:17" } }

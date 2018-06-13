@@ -1,4 +1,4 @@
-testing
-classToTest
+helper methods
+classToTest 
 
-	self subclassResponsibility
+	^ self class classToTest

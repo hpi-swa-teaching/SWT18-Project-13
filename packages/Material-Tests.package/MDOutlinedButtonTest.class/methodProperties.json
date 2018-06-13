@@ -1,11 +1,13 @@
 {
 	"class" : {
-		"alternativeText" : "LS 6/12/2018 10:13",
-		"disabled" : "LS 6/12/2018 10:13",
-		"enabled" : "LS 6/12/2018 10:13",
-		"mouseEntered" : "LS 6/12/2018 10:17" },
+		"alternativeBackgroundColor" : "mats 6/13/2018 10:28",
+		"alternativeText" : "mats 6/13/2018 10:28",
+		"classToTest" : "mats 6/13/2018 10:18",
+		"disabled" : "mats 6/13/2018 10:33",
+		"enabled" : "mats 6/13/2018 10:33",
+		"mouseEntered" : "mats 6/13/2018 11:24",
+		"tests" : "mats 6/13/2018 10:28" },
 	"instance" : {
-		"classToTest" : "JW 6/11/2018 22:24",
 		"testAlternativeText" : "JW 6/11/2018 22:24",
 		"testDisable" : "JW 6/11/2018 22:24",
 		"testDisableAndEnable" : "JW 6/11/2018 22:24",

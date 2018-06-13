@@ -1,5 +1,6 @@
 forms
 enabled
+	
 	^ '(Form
 	extent: 56@56
 	depth: 32

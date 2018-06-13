@@ -1,12 +1,10 @@
 tests
-testTextOn: anObject
-	
+testTextOn: aMDWidget
+
 	| testValues |
-	
-	self assert: anObject text = anObject class defaultText.
+	self assert: aMDWidget text = aMDWidget class defaultText.
 	
 	testValues := #('Button' '1234' 'test123').
 	testValues do: [:each | 
-		anObject text: each.
-		self assert: (anObject text) = each asUppercase]
-	
+		aMDWidget text: each.
+		self assert: (aMDWidget text) = each asUppercase]

@@ -2,10 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testBackgroundColor" : "mats 5/3/2018 17:22",
-		"testBorderRadius" : "mats 5/11/2018 15:21",
+		"testBackgroundColor" : "mats 6/13/2018 10:51",
+		"testBackgroundColorWith:" : "mats 6/13/2018 10:52",
+		"testBorderRadius" : "mats 6/13/2018 10:46",
 		"testBorderRadiusWith:" : "mats 5/11/2018 15:21",
-		"testText" : "LS 5/24/2018 15:39",
-		"testTextColor" : "LS 6/11/2018 11:11",
-		"testTextColorOn:" : "mats 5/26/2018 15:37",
-		"testTextOn:" : "JW 5/17/2018 14:30" } }
+		"testText" : "mats 6/13/2018 10:56",
+		"testTextColor" : "mats 6/13/2018 10:58",
+		"testTextColorOn:" : "mats 6/13/2018 10:54",
+		"testTextOn:" : "mats 6/13/2018 10:56" } }

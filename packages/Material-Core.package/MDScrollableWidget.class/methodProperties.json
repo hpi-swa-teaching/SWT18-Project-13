@@ -6,6 +6,7 @@
 		"drawScrollbarOn:" : "mats 6/8/2018 15:20",
 		"initialize" : "mats 6/8/2018 15:02",
 		"layoutChanged" : "mats 6/8/2018 15:25",
+		"maxScrollDelta" : "mats 6/13/2018 10:50",
 		"mouseWheel:" : "mats 6/12/2018 11:29",
 		"scrollDown:" : "mats 6/8/2018 15:00",
 		"scrollOffset" : "mats 6/8/2018 15:12",

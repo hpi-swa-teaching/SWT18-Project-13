@@ -1,3 +1,4 @@
 accessing
 maxHeight
-	^ maxHeight ifNil: [ ^ maxHeight := 0 ]
+
+	^ maxHeight ifNil: [^ maxHeight := 0]

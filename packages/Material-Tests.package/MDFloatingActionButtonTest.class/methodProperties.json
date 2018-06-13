@@ -1,10 +1,13 @@
 {
 	"class" : {
-		"alternativeBackgroundColor" : "LS 6/12/2018 10:12",
-		"disabled" : "LS 6/12/2018 10:11",
-		"enabled" : "LS 6/12/2018 10:11" },
+		"alternativeBackgroundColor" : "mats 6/13/2018 10:28",
+		"alternativeText" : "mats 6/13/2018 10:28",
+		"classToTest" : "mats 6/13/2018 10:18",
+		"disabled" : "mats 6/13/2018 10:33",
+		"enabled" : "mats 6/13/2018 10:33",
+		"mouseEntered" : "mats 6/13/2018 10:28",
+		"tests" : "mats 6/13/2018 10:28" },
 	"instance" : {
-		"classToTest" : "JW 6/11/2018 22:57",
 		"testAlternativeBackgroundColor" : "JW 6/11/2018 22:59",
 		"testDisable" : "JW 6/11/2018 22:59",
 		"testDisableAndEnable" : "JW 6/11/2018 23:00",

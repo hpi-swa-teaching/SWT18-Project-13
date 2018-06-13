@@ -1,6 +1,7 @@
 tests
 testTextColor
 
-	self testTextColorOn: MDTextButton new.
-	self testTextColorOn: MDOutlinedButton new
+	self testTextColorOn: MDOutlinedButton new.
+	MDTextButton subclasses do: [:each |
+		self testTextColorOn: each new]
 	
