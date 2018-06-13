@@ -1,0 +1,4 @@
+widget classes
+buttonClass
+
+	^ MDPluggableButton

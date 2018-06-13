@@ -1,0 +1,14 @@
+{
+	"category" : "Material-ToolBuilder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MDPluggablePanel",
+	"pools" : [
+		 ],
+	"super" : "PluggablePanelMorph",
+	"type" : "normal" }
