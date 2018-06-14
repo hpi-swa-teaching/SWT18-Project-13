@@ -6,9 +6,12 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"getStateSelector",
+		"getColorSelector",
+		"getEnabledSelector",
+		"model" ],
 	"name" : "MDPluggableButton",
 	"pools" : [
 		 ],
-	"super" : "PluggableButtonMorphPlus",
+	"super" : "MDContainedButton",
 	"type" : "normal" }

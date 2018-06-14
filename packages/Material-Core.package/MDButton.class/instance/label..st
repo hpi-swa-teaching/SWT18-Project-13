@@ -1,3 +1,6 @@
 accessing
 label: anObject
-	label := anObject
+
+	anObject isString 
+		ifTrue: [ self text: anObject ]
+		ifFalse: [ label := anObject ]

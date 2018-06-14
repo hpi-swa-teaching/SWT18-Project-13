@@ -1,5 +1,16 @@
 {
 	"class" : {
-		 },
+		"on:getState:action:label:" : "LS 6/14/2018 14:41" },
 	"instance" : {
-		 } }
+		"doClickableAction" : "LS 6/14/2018 15:16",
+		"getColorSelector" : "LS 6/14/2018 14:49",
+		"getColorSelector:" : "LS 6/14/2018 14:49",
+		"getEnabledSelector" : "LS 6/14/2018 14:49",
+		"getEnabledSelector:" : "LS 6/14/2018 14:49",
+		"getStateSelector" : "LS 6/14/2018 14:43",
+		"getStateSelector:" : "LS 6/14/2018 14:43",
+		"model" : "LS 6/14/2018 14:43",
+		"model:" : "LS 6/14/2018 14:43",
+		"on:getState:action:label:" : "LS 6/14/2018 14:42",
+		"style:" : "LS 6/14/2018 14:46",
+		"whenChanged:update:" : "LS 6/14/2018 14:52" } }
