@@ -5,4 +5,4 @@ mouseDown: evt
 	
 	self 
 		state: #hover;
-		startRippleAnimation
+		updateFormCacheDuringRippleAnimation

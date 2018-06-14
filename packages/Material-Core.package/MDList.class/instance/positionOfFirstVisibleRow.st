@@ -1,7 +1,7 @@
 drawing
 positionOfFirstVisibleRow
 	
-	| firstPos |
-	firstPos := -1 * (self scrollOffset \\ (self class listItemHeight + self listItemPadding)).
+	| posY |
+	posY := -1 * (self scrollOffset \\ self listItemHeightWithPadding).
 	
-	^ 0@firstPos
+	^ 0 @ posY

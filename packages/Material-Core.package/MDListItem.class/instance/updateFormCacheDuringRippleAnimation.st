@@ -1,5 +1,5 @@
 as yet unclassified
-startRippleAnimation
+updateFormCacheDuringRippleAnimation
 	
 	AnimPropertyAnimation new
 		duration: MDRipple defaultAnimationDuration + MDRipple fadeOutDuration;

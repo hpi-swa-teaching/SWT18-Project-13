@@ -1,6 +1,6 @@
-fonts
+forms
 enabled
-
+	
 	^ '(Form
 	extent: 300@500
 	depth: 32

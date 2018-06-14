@@ -1,0 +1,4 @@
+testing
+testScrollDownToBottomWithScrollbar
+	
+	self testEquality: self listWithScrollbarScrolledDownToBottom with: self class listWithScrollbarScrolledDownToBottom

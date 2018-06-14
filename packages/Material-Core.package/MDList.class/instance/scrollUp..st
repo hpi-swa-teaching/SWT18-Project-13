@@ -4,8 +4,8 @@ scrollUp: aNumber
 	| mouseEvent |
 	super scrollUp: aNumber.
 	
-	self scrollOffset = 0 
-		ifFalse: [
+	self scrollOffset > 0 
+		ifTrue: [
 			mouseEvent := MouseEvent new 
 					setType: #mouseLeave;
 					position: 0 @ 0;
