@@ -6,11 +6,14 @@
 		"disabled" : "mats 6/13/2018 10:33",
 		"enabled" : "mats 6/13/2018 10:33",
 		"mouseEntered" : "mats 6/13/2018 11:24",
-		"tests" : "mats 6/13/2018 10:28" },
+		"tests" : "mats 6/13/2018 10:28",
+		"toggled" : "JW 6/15/2018 13:06" },
 	"instance" : {
 		"testAlternativeText" : "JW 6/11/2018 22:24",
 		"testDisable" : "JW 6/11/2018 22:24",
 		"testDisableAndEnable" : "JW 6/11/2018 22:24",
 		"testEnabled" : "JW 6/11/2018 22:24",
 		"testMouseEnter" : "JW 6/11/2018 23:11",
-		"testMouseEnterAndLeave" : "JW 6/11/2018 23:13" } }
+		"testMouseEnterAndLeave" : "JW 6/11/2018 23:13",
+		"testToggled" : "JW 6/15/2018 13:11",
+		"testToggledOnAndOff" : "JW 6/15/2018 13:11" } }

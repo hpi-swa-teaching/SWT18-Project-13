@@ -1,4 +1,4 @@
-accessing
+event handling
 enable
 
 	self label color: self textColor.
