@@ -1,4 +1,4 @@
-drawing
+layout
 setBoundsWidth: aWidth
 	
 	| textPosition |
