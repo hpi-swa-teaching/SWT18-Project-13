@@ -1,4 +1,4 @@
 testing
 classToTest
 
-	^ MDTextArea
+	^ MDMultiLineField
