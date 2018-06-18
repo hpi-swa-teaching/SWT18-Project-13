@@ -1,4 +1,4 @@
-drawing
+layout
 calculateHelperPosition
 	
-	^ (self calculateLabelPosition x) @ (self height + self class bottomToHelperPadding)
+	^ (self calculateLabelPosition x) @ (self bounds corner y + self class bottomToHelperPadding)

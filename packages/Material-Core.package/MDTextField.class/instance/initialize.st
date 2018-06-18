@@ -7,6 +7,6 @@ initialize
 	self initializeHelper: self class defaultHelperText.
 	self initializeTextMorph.
 	self initializeScrollPane.
-	scrollPane scroller addMorph: textMorph.
-	self addMorph: scrollPane.
+	self scrollPane scroller addMorph: self textMorph.
+	self addMorph: self scrollPane.
 	self setBoundsWidth: self class defaultWidth

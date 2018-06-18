@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MDMultiLineFieldTest",
+	"pools" : [
+		 ],
+	"super" : "MDTextFieldTest",
+	"type" : "normal" }

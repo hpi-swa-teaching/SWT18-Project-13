@@ -2,6 +2,7 @@
 	"class" : {
 		"classToTest" : "mats 6/13/2018 10:13",
 		"compareForm:toForm:" : "mats 6/13/2018 09:43",
+		"compareWidget:toForm:" : "JW 6/16/2018 13:58",
 		"convertToForm:" : "mats 6/13/2018 09:34",
 		"openForm:" : "mats 6/13/2018 10:42",
 		"renderFormString:andStoreWithName:" : "mats 6/13/2018 09:44",
@@ -33,5 +34,7 @@
 		"testMouseEnter:" : "LS 6/18/2018 13:26",
 		"testMouseEnter:with:" : "LS 6/18/2018 13:26",
 		"testMouseEnterAndLeave:" : "mats 6/13/2018 10:30",
+		"testToggled:" : "JW 6/15/2018 13:09",
+		"testToggledOnAndOff:" : "JW 6/15/2018 13:10",
 		"widget" : "LS 6/18/2018 10:29",
 		"widget:" : "LS 6/18/2018 10:29" } }

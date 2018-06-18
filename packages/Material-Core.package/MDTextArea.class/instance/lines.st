@@ -1,0 +1,4 @@
+accessing
+lines
+
+	^ 4

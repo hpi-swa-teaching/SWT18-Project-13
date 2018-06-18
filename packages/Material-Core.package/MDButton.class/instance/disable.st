@@ -1,4 +1,4 @@
-accessing
+event handling
 disable
 
 	self label color: self textColorDisabled.

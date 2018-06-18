@@ -1,4 +1,4 @@
-drawing
+layout
 calculateHeight
 	
-	^ self class contentHeight + (2 * self class topPadding) + self label height
+	^ self calculateScrollPaneHeight + (2 * self class topPadding) + self label height + self scrollBarExtent y
