@@ -2,5 +2,5 @@ as yet unclassified
 updateActivatedMockObject
 
 	| widget |
-	widget := self classToTest new activate.
+	widget := self new objectToTest. 
 	self renderFormString: widget andStoreWithName: 'activated'

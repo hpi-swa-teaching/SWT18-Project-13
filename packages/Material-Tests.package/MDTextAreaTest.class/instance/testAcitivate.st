@@ -1,4 +1,4 @@
 testing
 testAcitivate
 
-	self testEquality: (self classToTest new activate) with: self class activated
+	self testEquality: (self widget activate) with: self class activated

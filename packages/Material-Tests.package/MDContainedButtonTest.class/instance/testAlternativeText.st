@@ -1,4 +1,4 @@
 testing
 testAlternativeText
 	
-	self testAlternativeText: self classToTest new
+	self testAlternativeText: self widget

@@ -1,7 +1,13 @@
 {
 	"class" : {
+		"classToTest" : "LS 6/18/2018 10:32",
 		"enabled" : "LS 6/18/2018 10:12",
-		"tests" : "mats 6/14/2018 14:30",
-		"updateEnabledMockObject" : "mats 6/14/2018 14:29" },
+		"mouseEntered" : "LS 6/18/2018 10:26",
+		"mouseEnteredCascade" : "LS 6/18/2018 10:50",
+		"tests" : "LS 6/18/2018 10:24",
+		"updateMouseEnteredCascadeMockObject" : "LS 6/18/2018 10:50",
+		"updateMouseEnteredMockObject" : "LS 6/18/2018 10:35" },
 	"instance" : {
-		"testEnabled" : "LS 6/12/2018 10:53" } }
+		"objectToTest" : "LS 6/18/2018 10:34",
+		"testEnabled" : "LS 6/18/2018 10:33",
+		"testMouseEnter" : "LS 6/18/2018 10:33" } }

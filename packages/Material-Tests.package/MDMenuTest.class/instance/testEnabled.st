@@ -1,4 +1,4 @@
 testing
 testEnabled
 
-	self testEnabled: MDMenu example
+	self testEnabled: self widget

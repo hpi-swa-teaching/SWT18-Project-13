@@ -2,6 +2,6 @@ mock object helper methods
 updateAlternativeBackgroundColorMockObject
 
 	| widget |
-	widget := self classToTest new.
+	widget := self new objectToTest.
 	self new setAlternativeBackgroundColorFor: widget.
 	self renderFormString: widget andStoreWithName: 'alternativeBackgroundColor'

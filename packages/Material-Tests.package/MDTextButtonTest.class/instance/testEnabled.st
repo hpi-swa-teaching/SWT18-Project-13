@@ -1,4 +1,4 @@
 testing
 testEnabled
 	
-	self testEnabled: self classToTest new
+	self testEnabled: self widget 

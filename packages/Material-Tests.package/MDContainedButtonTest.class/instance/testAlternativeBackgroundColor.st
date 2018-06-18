@@ -1,4 +1,4 @@
 testing
 testAlternativeBackgroundColor
 	
-	self testAlternativeBackgroundColor: self classToTest new
+	self testAlternativeBackgroundColor: self widget

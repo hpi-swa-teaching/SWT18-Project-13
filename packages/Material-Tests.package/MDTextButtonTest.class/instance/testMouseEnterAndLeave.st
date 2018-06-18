@@ -1,4 +1,4 @@
 testing
 testMouseEnterAndLeave
 	
-	self testMouseEnterAndLeave: self classToTest new
+	self testMouseEnterAndLeave: self widget 
