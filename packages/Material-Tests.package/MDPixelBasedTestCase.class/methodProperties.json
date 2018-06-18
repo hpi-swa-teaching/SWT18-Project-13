@@ -15,7 +15,8 @@
 	"instance" : {
 		"classToTest" : "mats 6/13/2018 10:18",
 		"objectToTest" : "LS 6/18/2018 10:30",
-		"performMouseEnterOn:" : "LS 6/18/2018 10:49",
+		"performMouseDownOn:" : "LS 6/18/2018 14:18",
+		"performMouseEnterOn:" : "LS 6/18/2018 14:18",
 		"performMouseLeaveOn:" : "mats 6/13/2018 10:04",
 		"renderOnFormString:" : "mats 6/13/2018 09:44",
 		"setAlternativeBackgroundColorFor:" : "mats 6/13/2018 09:59",
@@ -27,6 +28,8 @@
 		"testDisableAndEnable:" : "JW 6/11/2018 22:14",
 		"testEnabled:" : "JW 6/11/2018 22:16",
 		"testEquality:with:" : "mats 6/13/2018 09:44",
+		"testMouseDown:" : "LS 6/18/2018 14:09",
+		"testMouseDown:with:" : "LS 6/18/2018 14:10",
 		"testMouseEnter:" : "LS 6/18/2018 13:26",
 		"testMouseEnter:with:" : "LS 6/18/2018 13:26",
 		"testMouseEnterAndLeave:" : "mats 6/13/2018 10:30",
