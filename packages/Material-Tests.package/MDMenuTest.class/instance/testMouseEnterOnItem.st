@@ -1,5 +1,5 @@
 testing
 testMouseEnterOnItem
 
-	self performMouseEnterOn: (self widget items at: 1).
+	self performMouseEnterOn: (self normalMenuItem).
 	self testMouseEnter: self widget
