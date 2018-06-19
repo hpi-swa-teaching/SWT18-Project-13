@@ -1,8 +1,8 @@
-drawing
+layout
 updateScrollPaneBounds
 	
 	| textWidth |
 	textWidth := self textMorphWidth.
 	self textMorph width: textWidth.
-	self scrollPane position: self label position.
-	self scrollPane extent: (textWidth + self scrollPane vScrollBar width) @ self class contentHeight
+	self scrollPane position: self calculateTextPosition.
+	self scrollPane extent: (self scrollPaneExtent: textWidth)

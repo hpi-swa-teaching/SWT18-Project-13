@@ -2,8 +2,12 @@ control
 popUpAt: aPoint forHand: hand in: aWorld
 	"Present this menu at the given point under control of the given hand.  Allow keyboard input into the menu."
 
-	self
-		position: aPoint;
+	| x  y |
+	x := self getXPosition: aPoint.
+	y := self getYPosition: aPoint.
+	
+	self 
+		position: x @ y;
 		openInWorld.
 	
 	aWorld addMorphFront: self.

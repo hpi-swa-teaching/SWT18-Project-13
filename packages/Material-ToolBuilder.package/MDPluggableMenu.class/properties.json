@@ -1,0 +1,14 @@
+{
+	"category" : "Material-ToolBuilder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MDPluggableMenu",
+	"pools" : [
+		 ],
+	"super" : "MenuMorph",
+	"type" : "normal" }

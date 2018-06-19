@@ -2,6 +2,6 @@ mock object helper methods
 updateDisabledMockObject
 
 	| widget |
-	widget := self classToTest new.
+	widget := self new objectToTest.
 	widget disable.
 	self renderFormString: widget andStoreWithName: 'disabled'

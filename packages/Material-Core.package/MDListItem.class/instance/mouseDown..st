@@ -3,6 +3,4 @@ mouseDown: evt
 
 	super mouseDown: evt.
 	
-	self 
-		state: #hover;
-		updateFormCacheDuringRippleAnimation
+	self updateFormCacheDuringRippleAnimation

@@ -3,11 +3,11 @@ exampleCascade
 
 	| menu |
 	menu := self new.
-	menu add: 'Cascade Browser'  target: [SystemBrowser defaultOpenBrowser].
-	menu add: 'Cascade Workspace'  target: [Workspace open].
-	menu add: 'Cascade Transcript'  target: [Transcript open].
-	menu addLine.
-	menu add: 'Cascade Save' icon: #ic_save target: [Smalltalk saveSession].
+	menu add: 'Cascade Browser'  target: [SystemBrowser defaultOpenBrowser];
+		add: 'Cascade Workspace'  target: [Workspace open];
+		add: 'Cascade Transcript'  target: [Transcript open];
+		add: 'Cascade Save' target: [Smalltalk saveSession];
+		updateBounds.
 	
 	^ menu
 	

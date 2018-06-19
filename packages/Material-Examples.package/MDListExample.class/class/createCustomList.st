@@ -11,7 +11,7 @@ createCustomList
 			item
 			text: 'ListItem ', each;
 			setAvatar: #ic_turned_in;
-			setIcon: #ic_info;
+			icon: #ic_info;
 			yourself)].
 		
 	^ list

@@ -1,5 +1,6 @@
 {
 	"class" : {
+		"blankIcon" : "LS 6/12/2018 17:12",
 		"clearCache" : "JW 5/27/2018 11:14",
 		"fromCache:ifAbsentPut:" : "JW 5/27/2018 01:38",
 		"ic_3d_rotation" : "LS 6/11/2018 10:42",
@@ -94,6 +95,7 @@
 		"ic_battery_unknown" : "LS 6/11/2018 10:42",
 		"ic_beach_access" : "LS 6/11/2018 10:42",
 		"ic_beenhere" : "LS 6/11/2018 10:42",
+		"ic_blank" : "LS 6/12/2018 17:12",
 		"ic_block" : "LS 6/11/2018 10:42",
 		"ic_bluetooth" : "LS 6/11/2018 10:42",
 		"ic_bluetooth_audio" : "LS 6/11/2018 10:42",

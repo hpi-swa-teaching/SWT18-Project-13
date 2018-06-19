@@ -5,7 +5,7 @@ mouseUp: evt
 		| index item |
 		index := self globalPositionToIndex: evt position.
 		
-		self forVisibleRowsDo: [:each |
+		self forVisibleRowIndicesDo: [:each |
 			item := self listItems at: each.
 			item mouseUp: evt.
 			each = index 

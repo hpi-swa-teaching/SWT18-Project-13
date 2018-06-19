@@ -1,9 +1,9 @@
 initialization
 initializeScrollPane
 
-	scrollPane := MDScrollPane new.
-	scrollPane eventReceiver: self.
-	scrollPane color: Color transparent.
-	scrollPane borderWidth: 0.
-	scrollPane hScrollBarPolicy: #whenNeeded.
-	scrollPane vScrollBarPolicy: #whenNeeded
+	self scrollPane: MDScrollPane new.
+	self scrollPane eventReceiver: self.
+	self scrollPane color: Color transparent.
+	self scrollPane borderWidth: 0.
+	self scrollPane hScrollBarPolicy: self hScrollBarPolicy.
+	self scrollPane vScrollBarPolicy: self vScrollBarPolicy

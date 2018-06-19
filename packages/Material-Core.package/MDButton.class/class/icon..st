@@ -1,12 +1,7 @@
 class initialization
-icon: anIconNameSymbol
-	
-	| icon |
-	icon := MDIcon perform: anIconNameSymbol.
-	icon size: self defaultIconSize.
+icon: aMDIconOrSymbol
 	
 	^ self new
-		icon: icon;
-		addMorphBack: icon;
+		icon: aMDIconOrSymbol;
 		updateBounds;
 		yourself

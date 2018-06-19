@@ -1,0 +1,14 @@
+{
+	"category" : "Material-ToolBuilder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MDPluggableList",
+	"pools" : [
+		 ],
+	"super" : "PluggableListMorphPlus",
+	"type" : "normal" }

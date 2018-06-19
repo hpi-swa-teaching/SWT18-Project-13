@@ -1,5 +1,9 @@
 helper methods
 performMouseEnterOn: aMDWidget
-
-	aMDWidget mouseEnter: (MouseEvent new setType: #mouseEnter).
+	
+	| event |
+	event := MouseEvent new
+		setType: #mouseEnter;
+		setHand: ActiveHand.
+	aMDWidget mouseEnter: event.
 	^ aMDWidget

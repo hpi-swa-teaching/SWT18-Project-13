@@ -1,7 +1,6 @@
 accessing
 newItemBounds
 	
-	self flag: #refactor.
 	self lastItem 
 		ifNil: [^ (self bounds origin + (0 @ self class paddingY) extent:
 				  self class defaultWidth @ MDMenuItem defaultHeight)]

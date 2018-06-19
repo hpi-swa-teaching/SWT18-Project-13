@@ -1,12 +1,12 @@
 {
 	"class" : {
-		"activated" : "mats 6/13/2018 10:39",
+		"activated" : "JW 6/16/2018 14:00",
 		"classToTest" : "mats 6/13/2018 10:19",
-		"deactivated" : "mats 6/13/2018 10:39",
+		"deactivated" : "JW 6/16/2018 14:00",
 		"updateActivatedMockObject" : "mats 6/13/2018 10:37",
 		"updateAllMockObjects" : "mats 6/13/2018 10:39",
 		"updateDeactivatedMockObject" : "mats 6/13/2018 10:39" },
 	"instance" : {
-		"testAcitivate" : "JW 6/11/2018 22:39",
-		"testAcitivateAndDeactivate" : "JW 6/11/2018 22:40",
-		"testDeactivated" : "JW 6/11/2018 22:39" } }
+		"testAcitivate" : "LS 6/18/2018 10:41",
+		"testAcitivateAndDeactivate" : "LS 6/18/2018 10:41",
+		"testDeactivated" : "LS 6/18/2018 10:41" } }

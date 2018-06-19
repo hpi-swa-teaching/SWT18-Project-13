@@ -6,11 +6,14 @@
 		"disabled" : "mats 6/13/2018 10:34",
 		"enabled" : "mats 6/13/2018 10:34",
 		"mouseEntered" : "mats 6/13/2018 10:28",
-		"tests" : "mats 6/13/2018 10:28" },
+		"tests" : "mats 6/13/2018 10:28",
+		"toggled" : "JW 6/15/2018 13:07" },
 	"instance" : {
-		"testAlternativeText" : "JW 6/11/2018 22:25",
-		"testDisable" : "JW 6/11/2018 22:26",
-		"testDisableAndEnable" : "JW 6/11/2018 22:26",
-		"testEnabled" : "JW 6/11/2018 22:26",
-		"testMouseEnter" : "JW 6/11/2018 23:12",
-		"testMouseEnterAndLeave" : "JW 6/11/2018 23:13" } }
+		"testAlternativeText" : "LS 6/18/2018 10:42",
+		"testDisable" : "LS 6/18/2018 10:42",
+		"testDisableAndEnable" : "LS 6/18/2018 10:42",
+		"testEnabled" : "LS 6/18/2018 10:42",
+		"testMouseEnter" : "LS 6/18/2018 10:42",
+		"testMouseEnterAndLeave" : "LS 6/18/2018 10:42",
+		"testToggled" : "JW 6/15/2018 13:11",
+		"testToggledOnAndOff" : "JW 6/15/2018 13:11" } }

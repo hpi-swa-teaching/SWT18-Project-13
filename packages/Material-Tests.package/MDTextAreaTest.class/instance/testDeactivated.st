@@ -1,4 +1,4 @@
 testing
 testDeactivated
 
-	self testEquality: (self classToTest new) with: self class deactivated
+	self testEquality: self widget with: self class deactivated

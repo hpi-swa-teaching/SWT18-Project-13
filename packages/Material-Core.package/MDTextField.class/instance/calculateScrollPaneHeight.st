@@ -1,0 +1,4 @@
+layout
+calculateScrollPaneHeight
+
+	^ self contentHeight

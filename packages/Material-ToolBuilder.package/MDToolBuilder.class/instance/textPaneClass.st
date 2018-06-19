@@ -1,0 +1,4 @@
+widget classes
+textPaneClass
+
+	^ MDPluggableText
