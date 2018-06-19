@@ -9,7 +9,9 @@
 		"getStateSelector",
 		"getColorSelector",
 		"getEnabledSelector",
-		"model" ],
+		"getLabelSelector",
+		"model",
+		"updateMap" ],
 	"name" : "MDPluggableButton",
 	"pools" : [
 		 ],
