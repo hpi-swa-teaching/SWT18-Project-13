@@ -5,4 +5,4 @@ testScrollDown
 	list := MDBasicListExample new.
 	list scrollDown: list maxScrollDelta.
 	
-	self testEquality: list with: self class scrolledToBottom
+	self testEquality: list with: self class listScrolledDownToBottom

@@ -8,5 +8,4 @@ mouseDown: evt
 		mouseEvtPos :=  self globalPositionToPositionInListItem: evt position.
 		mouseEvent := evt position: mouseEvtPos.
 
-		self listItems size >= index
-			ifTrue: [(self listItems at: index) mouseDown: mouseEvent]]
+		self ifInBounds: index do: [:listItem | listItem mouseDown: mouseEvent]]

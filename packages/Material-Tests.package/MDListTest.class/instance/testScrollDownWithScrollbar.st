@@ -6,4 +6,4 @@ testScrollDownWithScrollbar
 	list scrollDown: list maxScrollDelta.
 	list scrollbar step.
 	
-	self testEquality: list with: self class scrollToBottomWithScrollbar
+	self testEquality: list with: self class listWithScrollbarScrolledDownToBottom

@@ -1,9 +1,11 @@
 {
 	"class" : {
 		"classToTest" : "mats 6/13/2018 10:13",
-		"compareForm:toForm:" : "mats 6/13/2018 09:43",
+		"compareForm:toForm:" : "mats 6/19/2018 12:28",
 		"compareWidget:toForm:" : "JW 6/16/2018 13:58",
 		"convertToForm:" : "mats 6/13/2018 09:34",
+		"formComparisonColorActualValue" : "mats 6/19/2018 12:27",
+		"formComparisonColorExpectedValue" : "mats 6/19/2018 12:27",
 		"openForm:" : "mats 6/13/2018 10:42",
 		"renderFormString:andStoreWithName:" : "mats 6/13/2018 09:44",
 		"tests" : "mats 6/13/2018 10:27",

@@ -10,7 +10,14 @@ compareForm: aForm1 toForm: aForm2
 	
 	1 to: form1 width do: [:x |
 		1 to: form1 height do: [:y |
-			(form1 colorAt: x @ y) = (form2 colorAt: x @ y)
-				ifFalse: [diffForm colorAt: x @ y put: (Color red)]]].
+			| color1 color2 newColor |
+			color1 := form1 colorAt: x @ y.
+			color2 := form2 colorAt: x @ y.
+			color1 = color2
+				ifFalse: [
+					color1 = Color white 
+						ifTrue: [newColor := self formComparisonColorExpectedValue]
+						ifFalse: [newColor := self formComparisonColorActualValue].
+					diffForm colorAt: x @ y put: newColor]]].
 		
 	diffForm asMorph openInHand

@@ -10,8 +10,8 @@ createCustomList
 	list addListItem: (
 			item
 			text: 'ListItem ', each;
-			setAvatar: #ic_turned_in;
-			icon: #ic_info;
+			icon: #ic_turned_in;
+			iconRight: #ic_info;
 			yourself)].
 		
 	^ list
