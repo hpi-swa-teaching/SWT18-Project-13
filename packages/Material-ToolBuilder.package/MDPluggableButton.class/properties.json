@@ -22,5 +22,5 @@
 	"name" : "MDPluggableButton",
 	"pools" : [
 		 ],
-	"super" : "MDOutlinedButton",
+	"super" : "MDContainedButton",
 	"type" : "normal" }
