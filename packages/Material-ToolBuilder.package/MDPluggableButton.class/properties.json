@@ -14,7 +14,11 @@
 		"updateMap",
 		"allButtons",
 		"triggerOnMouseDown",
-		"getMenuSelector" ],
+		"getMenuSelector",
+		"argumentsProvider",
+		"argumentsSelector",
+		"askBeforeChanging",
+		"action" ],
 	"name" : "MDPluggableButton",
 	"pools" : [
 		 ],

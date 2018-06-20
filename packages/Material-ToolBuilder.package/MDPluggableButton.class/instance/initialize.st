@@ -3,4 +3,5 @@ initialize
 
 	super initialize.
 	self triggerOnMouseDown: false.
-	self allButtons: nil.
+	self askBeforeChanging: false.
+	
