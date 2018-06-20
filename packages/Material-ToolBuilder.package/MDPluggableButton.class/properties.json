@@ -11,9 +11,12 @@
 		"getEnabledSelector",
 		"getLabelSelector",
 		"model",
-		"updateMap" ],
+		"updateMap",
+		"allButtons",
+		"triggerOnMouseDown",
+		"getMenuSelector" ],
 	"name" : "MDPluggableButton",
 	"pools" : [
 		 ],
-	"super" : "MDContainedButton",
+	"super" : "MDOutlinedButton",
 	"type" : "normal" }

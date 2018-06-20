@@ -4,7 +4,5 @@ doClickableAction
 
 	self actionSelector ifNotNil:
 		[self actionSelector numArgs = 0
-			ifTrue:
-				[self model perform: self actionSelector]
-			ifFalse:
-				[self model perform: actionSelector withArguments: arguments]]
+			ifTrue: [self model perform: self actionSelector]
+			ifFalse: [self model perform: actionSelector withArguments: arguments]]

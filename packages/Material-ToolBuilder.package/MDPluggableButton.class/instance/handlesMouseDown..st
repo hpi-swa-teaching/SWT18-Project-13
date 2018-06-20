@@ -1,3 +1,3 @@
 as yet unclassified
 handlesMouseDown: evt
-	^ self enabled
+	^ self isEnabled

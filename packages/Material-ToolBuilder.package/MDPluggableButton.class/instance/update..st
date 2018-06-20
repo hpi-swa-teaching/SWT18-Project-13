@@ -5,7 +5,7 @@ update: anObject
 		anObject == sel ifTrue: [self label: (model perform: sel)]].
 
 	self getStateSelector ifNotNil: [:sel |
-		anObject == sel ifTrue: [self updateFillStyle]].
+		anObject == sel ifTrue: [self enable]].
 
 	self getEnabledSelector ifNotNil: [:sel |
 		anObject == sel ifTrue: [self enabled: (model perform: sel)]].
