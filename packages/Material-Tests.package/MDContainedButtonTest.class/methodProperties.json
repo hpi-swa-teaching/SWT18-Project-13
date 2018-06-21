@@ -6,7 +6,8 @@
 		"disabled" : "mats 6/13/2018 10:33",
 		"enabled" : "mats 6/13/2018 10:32",
 		"mouseEntered" : "mats 6/13/2018 11:24",
-		"tests" : "mats 6/13/2018 10:27" },
+		"tests" : "mats 6/13/2018 10:27",
+		"toggled" : "LS 6/21/2018 20:28" },
 	"instance" : {
 		"testAlternativeBackgroundColor" : "LS 6/18/2018 10:36",
 		"testAlternativeText" : "LS 6/18/2018 10:36",
@@ -14,4 +15,5 @@
 		"testDisableAndEnable" : "LS 6/18/2018 10:36",
 		"testEnabled" : "LS 6/18/2018 10:37",
 		"testMouseEnter" : "LS 6/18/2018 10:37",
-		"testMouseEnterAndLeave" : "LS 6/18/2018 10:38" } }
+		"testMouseEnterAndLeave" : "LS 6/18/2018 10:38",
+		"testMouseEnterWhenToggled" : "LS 6/21/2018 20:23" } }

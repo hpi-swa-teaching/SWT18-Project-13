@@ -14,7 +14,8 @@
 		"updateAlternativeTextMockObject" : "LS 6/18/2018 10:40",
 		"updateDisabledMockObject" : "LS 6/18/2018 10:40",
 		"updateEnabledMockObject" : "LS 6/18/2018 10:40",
-		"updateMouseEnteredMockObject" : "LS 6/18/2018 10:40" },
+		"updateMouseEnteredMockObject" : "LS 6/18/2018 10:40",
+		"updateToggledMockObject" : "LS 6/21/2018 20:27" },
 	"instance" : {
 		"classToTest" : "mats 6/13/2018 10:18",
 		"objectToTest" : "LS 6/18/2018 10:30",

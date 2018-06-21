@@ -1,3 +1,4 @@
 accessing
 getEnabledSelector: anObject
-	getEnabledSelector := anObject
+	getEnabledSelector := anObject.
+	self update: self getEnabledSelector 
