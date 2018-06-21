@@ -11,5 +11,6 @@ initializeNewContact
 		backgroundColor: '#e0e0e0';
 		beSticky.
 	label := MDLabel contents: 'New Contact' fontTag: #H5.
-	label position: 40@10.
+	self newContact position: (self bounds corner x + 50) @ self y.
+		label position: 40@10 + self newContact position.
 	self newContact addMorph: label.

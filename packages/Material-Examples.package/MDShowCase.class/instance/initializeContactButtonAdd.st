@@ -7,5 +7,5 @@ initializeContactButtonAdd
 		icon: #ic_person_add;
 		addClickedActionBlock: self contactButtonAddBlock;
 		disable.
-	self contactButtonAdd position: (130 @ 370).
+	self contactButtonAdd position: (130 @ 370) + self newContact position.
 	self newContact addMorphBack: self contactButtonAdd

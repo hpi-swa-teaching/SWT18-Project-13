@@ -11,4 +11,5 @@ newListItem: aForeName surname: aSurname phone: aNumber
 		ifFalse: [item text: item surname, ', ', item forename].
 	item iconRight: #ic_sd_storage.
 	item icon: #ic_contact_mail.
+	item addClickedActionBlock: [self infoDialog title: item forename, ' ', item surname. self infoDialog content: (item phoneNumber asString). self infoDialog open].
 	^ item

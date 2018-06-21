@@ -7,6 +7,6 @@ initializeCloseButton
 		iconRight: #ic_clear;
 		addClickedActionBlock: [self delete];
 		addClickedActionBlock: [self newContact delete].
-	self closeButton position: 310@25.
+	self closeButton position: 310@25 + self position. .
 	self closeButton updateBounds.
 	self addMorphBack: self closeButton

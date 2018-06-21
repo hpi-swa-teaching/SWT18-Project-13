@@ -2,7 +2,7 @@
 	"class" : {
 		"defaultBackgroundColor" : "LS 6/3/2018 16:57",
 		"defaultBorderRadius" : "LS 6/3/2018 17:08",
-		"defaultWidth" : "LS 6/3/2018 18:03",
+		"defaultWidth" : "JW 6/21/2018 20:54",
 		"example" : "LS 6/18/2018 10:10",
 		"exampleCascade" : "LS 6/18/2018 10:11",
 		"paddingY" : "LS 6/3/2018 17:11" },
@@ -44,6 +44,8 @@
 		"keyStroke:" : "LS 6/5/2018 18:04",
 		"keyboardFocusColor" : "LS 6/12/2018 15:14",
 		"lastItem" : "LS 6/4/2018 08:53",
+		"menuWidth" : "JW 6/21/2018 20:53",
+		"menuWidth:" : "JW 6/21/2018 20:59",
 		"mouseDown:" : "LS 6/7/2018 10:21",
 		"mouseLeave:" : "LS 6/7/2018 10:21",
 		"mouseMove:" : "LS 6/12/2018 12:23",
@@ -62,5 +64,5 @@
 		"selectItem:event:" : "LS 6/5/2018 21:22",
 		"selectedItem" : "LS 6/5/2018 21:20",
 		"selectedItem:" : "LS 6/5/2018 21:20",
-		"updateBounds" : "LS 6/3/2018 18:03",
+		"updateBounds" : "JW 6/21/2018 20:52",
 		"wantsEveryMouseMove" : "Max 6/5/2018 09:14" } }
