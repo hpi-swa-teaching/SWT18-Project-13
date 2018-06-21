@@ -1,0 +1,22 @@
+{
+	"category" : "Material-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"list",
+		"textfield",
+		"contactButtonAdd",
+		"contactButtonDelete",
+		"basicDialog",
+		"menuButton",
+		"menu",
+		"closeButton",
+		"newContact" ],
+	"name" : "MDShowCase",
+	"pools" : [
+		 ],
+	"super" : "MDWidget",
+	"type" : "normal" }

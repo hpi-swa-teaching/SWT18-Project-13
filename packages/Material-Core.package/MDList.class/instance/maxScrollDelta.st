@@ -1,10 +1,10 @@
 as yet unclassified
 maxScrollDelta
 
-	| visibleItemCount inVisibleItemCount maxScrollDelta |
-	visibleItemCount := (self height / self listItemHeightWithPadding).
-	inVisibleItemCount := self listItems size - visibleItemCount.
-	
-	maxScrollDelta := inVisibleItemCount * self listItemHeightWithPadding.
-	
-	^ maxScrollDelta
+	self listItems
+		ifEmpty: [^ super maxScrollDelta]
+		ifNotEmpty: [
+			| visibleItemCount inVisibleItemCount |
+			visibleItemCount := (self height / self listItemHeightWithPadding).
+			inVisibleItemCount := self listItems size - visibleItemCount.
+			^ inVisibleItemCount * self listItemHeightWithPadding]
