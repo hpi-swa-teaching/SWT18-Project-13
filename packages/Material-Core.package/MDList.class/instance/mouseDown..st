@@ -8,4 +8,5 @@ mouseDown: evt
 		mouseEvtPos :=  self globalPositionToPositionInListItem: evt position.
 		mouseEvent := evt position: mouseEvtPos.
 
-		self ifInBounds: index do: [:listItem | listItem mouseDown: mouseEvent]]
+		self ifInBounds: index do: [:listItem | listItem mouseDown: mouseEvent.
+                                            self newSelectedItem: listItem]]
