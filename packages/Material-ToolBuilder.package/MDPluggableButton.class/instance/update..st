@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 update: anObject
 
 	self getLabelSelector ifNotNil: [:sel |
@@ -6,6 +6,9 @@ update: anObject
 
 	self getStateSelector ifNotNil: [:sel |
 		anObject == sel ifTrue: [self enable]].
+
+	"self getColorSelector ifNotNil: [:sel |
+		anObject == sel ifTrue: [self backgroundColor: (self model perform: sel) ]]."
 
 	self getEnabledSelector ifNotNil: [:sel |
 		anObject == sel ifTrue: [self enabled: (model perform: sel)]].

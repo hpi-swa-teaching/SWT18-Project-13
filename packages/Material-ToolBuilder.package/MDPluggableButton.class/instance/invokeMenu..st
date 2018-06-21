@@ -1,4 +1,4 @@
-as yet unclassified
+private
 invokeMenu: evt
 	"Invoke my menu in response to the given event."
 	| menu |
