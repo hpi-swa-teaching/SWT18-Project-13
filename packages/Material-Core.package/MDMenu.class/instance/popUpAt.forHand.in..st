@@ -6,7 +6,8 @@ popUpAt: aPoint forHand: hand in: aWorld
 	x := self getXPosition: aPoint.
 	y := self getYPosition: aPoint.
 	
-	self 
+	self
+		deleteAllRipples; 
 		position: x @ y;
 		openInWorld.
 	

@@ -5,7 +5,8 @@ mouseUp: anEvent
 	self updateStateWithAction: #mouseUp.
 	self isDisabled ifFalse: [ 
 		(self bounds containsPoint: anEvent position) 
-			ifTrue: [self doClickableAction]
+			ifTrue: [self doClickableAction.
+					self executeClickedActionBlocks]
 			ifFalse: [self mouseLeave: anEvent].
 			(self wantsRipples and: self ripples size > 0)
 				ifTrue: [self ripples last isAnimationRunning 
