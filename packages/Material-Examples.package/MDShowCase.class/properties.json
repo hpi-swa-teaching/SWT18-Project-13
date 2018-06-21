@@ -14,7 +14,10 @@
 		"menuButton",
 		"menu",
 		"closeButton",
-		"newContact" ],
+		"newContact",
+		"foreNameFirst",
+		"textFieldSurname",
+		"textFieldPhoneNumber" ],
 	"name" : "MDShowCase",
 	"pools" : [
 		 ],

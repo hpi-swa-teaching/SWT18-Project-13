@@ -5,7 +5,8 @@ initializeCloseButton
 	self closeButton
 		text: 'Close';
 		iconRight: #ic_clear;
-		addClickedActionBlock: [self textfield text size <= 8 ifTrue: [self list addListItem: self newListItem] ifFalse: [self basicDialog open]].
-	self closeButton position: 300@10.
+		addClickedActionBlock: [self delete];
+		addClickedActionBlock: [self newContact delete].
+	self closeButton position: 310@25.
 	self closeButton updateBounds.
 	self addMorphBack: self closeButton

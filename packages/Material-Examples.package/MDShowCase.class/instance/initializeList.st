@@ -1,10 +1,10 @@
 initialization
 initializeList
 
-	| item |
 	self list: MDList new.
-	item := MDListItem newOnList: list.
-	item text: 'Lasse'.
-	self list addListItem: item.
-	self list bounds: (30@100 extent: 200@250).
+	self list addListItem: (self newListItem: 'Lasse' surname: 'Steffen' phone: 012).
+	self list addListItem: (self newListItem: 'A' surname: 'Y' phone: 012).
+	self sortListItems.
+	self list bounds: (30@100 extent: 350@250).
+	self list x: self width / 2.
 	self addMorph: self list

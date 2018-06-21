@@ -3,10 +3,9 @@ initializeContactButtonAdd
 
 	self contactButtonAdd: MDContainedButton new.
 	self contactButtonAdd
-		text: 'Add contact';
+		text: 'Add';
 		icon: #ic_person_add;
-		addClickedActionBlock: [self textfield text size <= 8 ifTrue: [self list addListItem: self newListItem] ifFalse: [self basicDialog open]];
+		addClickedActionBlock: self contactButtonAddBlock;
 		disable.
-	self contactButtonAdd x: self textfield x.
-	self contactButtonAdd y: 250.
+	self contactButtonAdd position: (130 @ 370).
 	self newContact addMorphBack: self contactButtonAdd
