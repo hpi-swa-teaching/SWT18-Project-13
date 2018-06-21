@@ -20,7 +20,7 @@
 		"addIconRight:" : "JW 6/19/2018 11:37",
 		"calculateTextColor" : "JW 5/23/2018 15:40",
 		"calculateWidth" : "JW 5/27/2018 11:47",
-		"calculateWidthByText" : "mats 6/19/2018 12:06",
+		"calculateWidthByText" : "mats 6/21/2018 11:31",
 		"checkToggled" : "JW 6/15/2018 12:45",
 		"decreaseSize" : "mats 5/22/2018 11:06",
 		"disable" : "JW 6/8/2018 15:07",
@@ -37,7 +37,7 @@
 		"iconPosition" : "LS 6/10/2018 17:42",
 		"iconRight" : "LS 6/12/2018 16:24",
 		"iconRight:" : "JW 6/19/2018 11:38",
-		"iconRightPosition" : "LS 6/10/2018 17:43",
+		"iconRightPosition" : "mats 6/21/2018 11:01",
 		"increaseShadow" : "mats 5/22/2018 11:07",
 		"increaseSize" : "mats 5/22/2018 11:11",
 		"initialize" : "JW 6/8/2018 16:03",
@@ -47,6 +47,7 @@
 		"label:" : "LS 6/14/2018 15:03",
 		"labelPositionIconNotPresent" : "LS 6/12/2018 20:14",
 		"labelPositionIconPresent" : "LS 6/12/2018 20:14",
+		"labelPositionOnlyIconRightPresent" : "mats 6/21/2018 11:47",
 		"removeIcon" : "LS 6/12/2018 16:27",
 		"removeIconRight" : "JW 6/19/2018 11:38",
 		"text" : "JW 6/8/2018 16:00",
@@ -64,4 +65,4 @@
 		"updateIconColor:" : "LS 6/10/2018 15:33",
 		"updateIconRight" : "LS 6/10/2018 17:43",
 		"updateIcons" : "LS 6/10/2018 15:42",
-		"updateLabelPosition" : "LS 6/12/2018 20:19" } }
+		"updateLabelPosition" : "mats 6/21/2018 11:48" } }
