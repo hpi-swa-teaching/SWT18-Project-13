@@ -1,4 +1,4 @@
 accessing
 isEnabled
 
-	^ self state = #enabled
+	^ self isDisabled not

@@ -27,6 +27,7 @@
 	"instance" : {
 		"activate" : "JW 6/5/2018 03:23",
 		"activateLabel" : "JW 6/8/2018 16:45",
+		"addTextChangedActionBlock:" : "JW 6/20/2018 23:14",
 		"calculateHeight" : "JW 6/16/2018 13:31",
 		"calculateHelperPosition" : "JW 6/16/2018 13:50",
 		"calculateLabelPosition" : "JW 6/5/2018 11:32",
@@ -40,6 +41,7 @@
 		"deactivate" : "JW 6/5/2018 11:16",
 		"deactivateLabel" : "JW 6/8/2018 16:45",
 		"drawOn:" : "JW 6/8/2018 16:45",
+		"executeTextChangedActionBlocks" : "JW 6/21/2018 00:20",
 		"focusChanged:" : "JW 6/5/2018 01:56",
 		"hScrollBarPolicy" : "JW 6/16/2018 13:06",
 		"hasUnacceptedEdits:" : "JW 6/5/2018 00:37",
@@ -68,7 +70,10 @@
 		"scrollSelectionIntoView:" : "JW 6/5/2018 00:36",
 		"setBoundsWidth:" : "JW 6/16/2018 13:39",
 		"setScrollDeltas" : "JW 6/5/2018 00:38",
-		"textChanged" : "JW 6/5/2018 02:33",
+		"text" : "JW 6/19/2018 11:45",
+		"textChanged" : "JW 6/21/2018 00:20",
+		"textChangedActionBlocks" : "JW 6/21/2018 00:24",
+		"textChangedActionBlocks:" : "JW 6/21/2018 00:24",
 		"textEdited:" : "JW 6/5/2018 00:38",
 		"textMorph" : "LS 5/31/2018 15:01",
 		"textMorph:" : "LS 5/31/2018 15:01",
@@ -76,4 +81,5 @@
 		"updateBounds" : "JW 6/16/2018 13:32",
 		"updateScrollPaneBounds" : "JW 6/16/2018 13:48",
 		"vScrollBarPolicy" : "JW 6/16/2018 13:06",
+		"width:" : "JW 6/19/2018 12:14",
 		"wrapFlag" : "JW 6/16/2018 11:52" } }

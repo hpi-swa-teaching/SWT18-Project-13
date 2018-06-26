@@ -5,7 +5,9 @@ popUpAdjacentTo: rightOrLeftPoint forHand: hand from: sourceItem
 	| tryToPlace selectedOffset rightPoint leftPoint |
 	self flag: #refactor.
 	hand world startSteppingSubmorphsOf: self.
-	self popUpOwner: sourceItem.
+	self 
+		deleteAllRipples;
+		popUpOwner: sourceItem.
 
 	"ensure layout is current"
 	selectedOffset := (self selectedItem

@@ -1,4 +1,4 @@
 event handling
 handlesMouseOver: anEvent
 	
-	^ true
+	^ self isEnabled

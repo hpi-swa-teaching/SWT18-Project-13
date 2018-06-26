@@ -1,0 +1,16 @@
+{
+	"category" : "Material-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"forename",
+		"surname",
+		"phoneNumber" ],
+	"name" : "MDContactListItem",
+	"pools" : [
+		 ],
+	"super" : "MDListItem",
+	"type" : "normal" }
