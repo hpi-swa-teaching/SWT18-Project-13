@@ -1,4 +1,4 @@
-as yet unclassified
+construction
 removeListItem: aMDWidget
 
 	self selectedItem = aMDWidget ifTrue: [self selectedItem: nil]. 

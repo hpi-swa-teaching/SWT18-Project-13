@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 listItemPadding: aValue
 
 	^ self setProperty: #listItemPadding to: aValue

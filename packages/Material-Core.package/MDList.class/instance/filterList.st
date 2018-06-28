@@ -5,7 +5,6 @@ filterList
 	self hasFilter
 		ifTrue:
 			[ | frontMatching substringMatching newList |
-			self indicateFiltered.
 			frontMatching := OrderedCollection new.
 			substringMatching := OrderedCollection new.
 			self filteredListItems withIndexDo:

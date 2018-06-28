@@ -1,9 +1,9 @@
 {
 	"class" : {
 		"classToTest" : "LS 6/18/2018 10:31",
-		"enabled" : "mats 6/12/2018 11:18",
-		"listScrolledDownToBottom" : "mats 6/14/2018 14:09",
-		"listWithScrollbarScrolledDownToBottom" : "mats 6/14/2018 14:09",
+		"enabled" : "LS 6/28/2018 17:42",
+		"listScrolledDownToBottom" : "LS 6/28/2018 17:42",
+		"listWithScrollbarScrolledDownToBottom" : "LS 6/28/2018 17:42",
 		"updateAllMockObjects" : "mats 6/14/2018 14:01",
 		"updateEnabledMockObject" : "mats 6/14/2018 14:00",
 		"updateScrolledToBottomMockObject" : "mats 6/14/2018 14:08",

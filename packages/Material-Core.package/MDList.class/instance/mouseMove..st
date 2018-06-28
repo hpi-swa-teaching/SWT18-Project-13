@@ -6,7 +6,7 @@ mouseMove: evt
 	mouseEvent := evt position: 0 @ 0.
 	
 	self filteredListItems ifNotEmpty: [
-		self forVisibleRowIndicesDo: [:each |
+		self forVisibleItemIndicesDo: [:each |
 			each = item 
 				ifTrue: [(self filteredListItems at: each) mouseEnter: mouseEvent]
 				ifFalse: [(self filteredListItems at: each) mouseLeave: mouseEvent]]]

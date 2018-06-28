@@ -1,4 +1,4 @@
-as yet unclassified
+event handling
 scrollUp: aNumber
 
 	| mouseEvent |
@@ -11,4 +11,4 @@ scrollUp: aNumber
 					position: 0 @ 0;
 					yourself.
 					
-			(self filteredListItems at: self firstVisibleRow) mouseLeave: mouseEvent]
+			(self filteredListItems at: self firstVisibleItem) mouseLeave: mouseEvent]

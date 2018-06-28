@@ -1,4 +1,4 @@
-accessing
+construction
 createDivider
 
 	^ (MDDivider newOn: self)

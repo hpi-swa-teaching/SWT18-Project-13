@@ -1,12 +1,12 @@
 drawing
-drawRow: aRowNumber on: aCanvas
+drawItem: anIndex on: aCanvas
 
 	| num pos |
-	num := aRowNumber - self firstVisibleRow.
-	pos := self absolutePositionOfItemAt: num.
+	num := (anIndex - self firstVisibleItem) + 1.
+	pos := self globalPositionOfItemAt: num.
 	aCanvas clipBy: self bounds during: [:clippedCanvas |
 		clippedCanvas 
-			drawImage: (self filteredListItems at: aRowNumber) formCache
+			drawImage: (self filteredListItems at: anIndex) formCache
 			at: pos].
 	
 	self drawFilterFor: num on: aCanvas.

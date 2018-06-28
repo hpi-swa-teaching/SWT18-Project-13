@@ -1,4 +1,4 @@
-event handling
+drawing
 globalPositionToPositionInListItem: aPoint
 
 	| position mouseEvtPos |
