@@ -1,8 +1,5 @@
 testing
 listScrolledDownToBottom
 
-	| list |
-	list := MDBasicListExample new.
-	list scrollDown: list maxScrollDelta.
-	
-	^ list
+	self widget scrollDown: self widget maxScrollDelta.
+	^ self widget

@@ -2,18 +2,22 @@
 	"class" : {
 		"classToTest" : "LS 6/18/2018 10:31",
 		"enabled" : "LS 6/28/2018 17:42",
+		"filtered" : "LS 6/28/2018 18:00",
 		"listScrolledDownToBottom" : "LS 6/28/2018 17:42",
 		"listWithScrollbarScrolledDownToBottom" : "LS 6/28/2018 17:42",
 		"updateAllMockObjects" : "mats 6/14/2018 14:01",
 		"updateEnabledMockObject" : "mats 6/14/2018 14:00",
+		"updateFilteredMockObject" : "LS 6/28/2018 17:59",
 		"updateScrolledToBottomMockObject" : "mats 6/14/2018 14:08",
 		"updateScrolledToBottomWithScrollbarMockObject" : "mats 6/14/2018 14:09" },
 	"instance" : {
-		"listScrolledDownToBottom" : "mats 6/14/2018 14:07",
+		"listScrolledDownToBottom" : "LS 6/28/2018 17:57",
 		"listWithScrollbarScrolledDownToBottom" : "mats 6/14/2018 14:07",
-		"testEnabled" : "mats 6/12/2018 11:15",
-		"testScrollDown" : "mats 6/19/2018 12:13",
+		"objectToTest" : "LS 6/28/2018 17:55",
+		"testEnabled" : "LS 6/28/2018 17:56",
+		"testFilter" : "LS 6/28/2018 17:59",
+		"testScrollDown" : "LS 6/28/2018 17:56",
 		"testScrollDownToBottom" : "mats 6/14/2018 14:09",
 		"testScrollDownToBottomWithScrollbar" : "mats 6/14/2018 14:09",
-		"testScrollDownWithScrollbar" : "mats 6/19/2018 12:13",
-		"testScrollUp" : "mats 6/12/2018 11:54" } }
+		"testScrollDownWithScrollbar" : "LS 6/28/2018 17:56",
+		"testScrollUp" : "LS 6/28/2018 17:57" } }

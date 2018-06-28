@@ -1,4 +1,4 @@
 testing
 testEnabled
 
-	self testEquality: MDBasicListExample new with: self class enabled
+	self testEquality: self widget with: self class enabled
