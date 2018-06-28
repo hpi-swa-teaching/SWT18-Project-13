@@ -4,4 +4,5 @@ updateAllMockObjects
 	self
 		updateEnabledMockObject;
 		updateScrolledToBottomMockObject;
-		updateScrolledToBottomWithScrollbarMockObject
+		updateScrolledToBottomWithScrollbarMockObject;
+		updateFilteredMockObject

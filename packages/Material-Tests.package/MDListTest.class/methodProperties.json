@@ -1,15 +1,15 @@
 {
 	"class" : {
 		"classToTest" : "LS 6/18/2018 10:31",
-		"enabled" : "LS 6/28/2018 17:42",
-		"filtered" : "LS 6/28/2018 18:00",
-		"listScrolledDownToBottom" : "LS 6/28/2018 17:42",
-		"listWithScrollbarScrolledDownToBottom" : "LS 6/28/2018 17:42",
-		"updateAllMockObjects" : "mats 6/14/2018 14:01",
+		"enabled" : "LS 6/28/2018 22:04",
+		"filtered" : "LS 6/28/2018 22:04",
+		"listScrolledDownToBottom" : "LS 6/28/2018 22:04",
+		"listWithScrollbarScrolledDownToBottom" : "LS 6/28/2018 22:04",
+		"updateAllMockObjects" : "LS 6/28/2018 22:04",
 		"updateEnabledMockObject" : "mats 6/14/2018 14:00",
 		"updateFilteredMockObject" : "LS 6/28/2018 17:59",
-		"updateScrolledToBottomMockObject" : "mats 6/14/2018 14:08",
-		"updateScrolledToBottomWithScrollbarMockObject" : "mats 6/14/2018 14:09" },
+		"updateScrolledToBottomMockObject" : "LS 6/28/2018 22:02",
+		"updateScrolledToBottomWithScrollbarMockObject" : "LS 6/28/2018 22:03" },
 	"instance" : {
 		"listScrolledDownToBottom" : "LS 6/28/2018 17:57",
 		"listWithScrollbarScrolledDownToBottom" : "mats 6/14/2018 14:07",
