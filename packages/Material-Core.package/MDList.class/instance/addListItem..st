@@ -6,4 +6,4 @@ addListItem: aMDWidget
 		position: self position;
 		updateFormCache;
 		yourself).
-	self filteredListItems: self listItems
+	self resetFilteredListItems

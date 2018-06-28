@@ -21,7 +21,6 @@ filterList
 			(newList isEmpty not or: [ self allowEmptyFilterResult ])
 				ifTrue: [ self filteredListItems: newList ]
 				ifFalse: 
-					[ self lastKeystrokes: (self lastKeystrokes allButLast: 1).
-					self
-						 "flash ;"
-						 filterList ] ]
+					[ self 
+						removeLastKeystroke;
+						filterList ] ]

@@ -1,15 +1,15 @@
 drawing
 drawItem: anIndex on: aCanvas
 
-	| num pos |
-	num := (anIndex - self firstVisibleItem) + 1.
-	pos := self globalPositionOfItemAt: num.
+	| row pos |
+	row := (anIndex - self firstVisibleItem) + 1.
+	pos := self globalPositionOfItemAt: row.
 	aCanvas clipBy: self bounds during: [:clippedCanvas |
 		clippedCanvas 
 			drawImage: (self filteredListItems at: anIndex) formCache
 			at: pos].
 	
-	self drawFilterFor: num on: aCanvas.
-	(self showDividers and: (self dividersDrawable: num)) 
+	self drawFilterFor: anIndex on: aCanvas.
+	(self showDividers and: (self dividersDrawable: row)) 
 		ifTrue: [ self drawDividersAt: pos on: aCanvas ].
 	

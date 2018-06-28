@@ -1,4 +1,4 @@
 drawing
-dividersDrawable: aNum
+dividersDrawable: row
 
-	^ aNum > 0 and: aNum < self filteredListItems size
+	^ row > 1 and: row <= self filteredListItems size
