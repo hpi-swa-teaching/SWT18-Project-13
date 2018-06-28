@@ -1,7 +1,7 @@
 as yet unclassified
 maxScrollDelta
 
-	self listItems
+	self filteredListItems
 		ifEmpty: [^ super maxScrollDelta]
 		ifNotEmpty: [
 			| visibleItemCount inVisibleItemCount |

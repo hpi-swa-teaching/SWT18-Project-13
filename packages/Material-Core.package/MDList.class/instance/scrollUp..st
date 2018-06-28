@@ -11,4 +11,4 @@ scrollUp: aNumber
 					position: 0 @ 0;
 					yourself.
 					
-			(self listItems at: self firstVisibleRow) mouseLeave: mouseEvent]
+			(self filteredListItems at: self firstVisibleRow) mouseLeave: mouseEvent]

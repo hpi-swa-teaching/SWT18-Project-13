@@ -1,13 +1,14 @@
 filtering
 filterList
 
+	self resetScrollOffset.
 	self hasFilter
 		ifTrue:
 			[ | frontMatching substringMatching newList |
 			self indicateFiltered.
 			frontMatching := OrderedCollection new.
 			substringMatching := OrderedCollection new.
-			self filteredList withIndexDo:
+			self filteredListItems withIndexDo:
 				[ : each : n | | foundPos |
 				foundPos := each
 					findString: self lastKeystrokes
@@ -19,10 +20,9 @@ filterList
 						[ foundPos = 0 ifFalse: [ substringMatching add: each ] ] ].
 			newList := frontMatching , substringMatching.
 			(newList isEmpty not or: [ self allowEmptyFilterResult ])
-				ifTrue: [ self filteredList: newList ]
+				ifTrue: [ self filteredListItems: newList ]
 				ifFalse: 
 					[ self lastKeystrokes: (self lastKeystrokes allButLast: 1).
 					self
-						 flash ;
+						 "flash ;"
 						 filterList ] ]
-		ifFalse: [ self indicateUnfiltered ]

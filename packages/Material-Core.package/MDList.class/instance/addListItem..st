@@ -5,4 +5,5 @@ addListItem: aMDWidget
 		width: self width;
 		position: self position;
 		updateFormCache;
-		yourself)
+		yourself).
+	self filteredListItems: self listItems

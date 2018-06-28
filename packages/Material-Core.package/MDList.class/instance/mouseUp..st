@@ -1,7 +1,7 @@
 event handling
 mouseUp: evt
 	
-	self listItems ifNotEmpty: [
+	self filteredListItems ifNotEmpty: [
 		| index item |
 		index := self globalPositionToIndex: evt position.
 		item := self listItems at: index.
