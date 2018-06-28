@@ -1,4 +1,0 @@
-filtering
-updateList 
-
-	self changed

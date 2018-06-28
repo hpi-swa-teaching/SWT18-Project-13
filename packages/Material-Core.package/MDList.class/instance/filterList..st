@@ -6,6 +6,6 @@ filterList: aString
 	self lastKeystrokes: aString.
 	self 
 		filterList;
-		updateList.
+		changed.
 	self flag: #incomplete
 	"self changeModelSelection: (list ifEmpty: [0] ifNotEmpty: [self modelIndexFor: 1])."
