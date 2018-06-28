@@ -5,6 +5,11 @@ drawRow: aRowNumber on: aCanvas
 	num := aRowNumber - self firstVisibleRow.
 	pos := self absolutePositionOfItemAt: num.
 	aCanvas clipBy: self bounds during: [:clippedCanvas |
-		clippedCanvas drawImage: (self filteredListItems at: aRowNumber) formCache at: pos].
+		clippedCanvas 
+			drawImage: (self filteredListItems at: aRowNumber) formCache
+			at: pos].
 	
-	(self showDividers and: (self dividersDrawable: num)) ifTrue: [ self drawDividersAt: pos on: aCanvas ]
+	self drawFilterFor: num on: aCanvas.
+	(self showDividers and: (self dividersDrawable: num)) 
+		ifTrue: [ self drawDividersAt: pos on: aCanvas ].
+	
