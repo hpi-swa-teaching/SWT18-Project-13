@@ -1,5 +1,5 @@
 drawing
-positionOfFirstVisibleRow
+relativePositionOfFirstVisibleRow
 	
 	| posY |
 	posY := -1 * (self scrollOffset \\ self listItemHeightWithPadding).
