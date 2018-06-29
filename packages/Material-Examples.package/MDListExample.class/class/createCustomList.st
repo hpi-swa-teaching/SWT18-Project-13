@@ -7,11 +7,12 @@ createCustomList
 	1 to: 60 do: [ :each |
 	| item |
 	item := MDListItem newOnList: list.
-	list addListItem: (
-			item
-			text: 'ListItem ', each;
-			icon: #ic_turned_in;
-			iconRight: #ic_info;
-			yourself)].
+	item
+		text: 'ListItem ', each;
+		icon: #ic_turned_in;
+		iconRight: #ic_info;
+		yourself.
+
+	list addListItem: item].
 		
 	^ list

@@ -3,8 +3,8 @@ mouseUp: anEvent
 
 	self isMouseDown: false.
 	self updateStateWithAction: #mouseUp.
-	self isDisabled ifFalse: [ 
-		(self bounds containsPoint: anEvent position) 
+	self isDisabled ifFalse: [
+		(self containsPoint: anEvent position)
 			ifTrue: [self doClickableAction.
 					self executeClickedActionBlocks]
 			ifFalse: [self mouseLeave: anEvent].
