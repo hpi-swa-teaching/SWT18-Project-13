@@ -1,5 +1,5 @@
 drawing
-drawFilterFor: anIndex on: aCanvas
+drawFilterFor: anIndex on: aCanvas at: aRow
 	
 	| offsets |
 	offsets := self filterOffsets: anIndex.
@@ -7,8 +7,8 @@ drawFilterFor: anIndex on: aCanvas
 	
 	offsets do: [ :offset | 
 		aCanvas
-			frameAndFillRoundRect: (self filterBoundsForItem: anIndex with: offset)	
+			frameAndFillRoundRect: (self filterBoundsForItem: anIndex with: offset at: aRow)	
 			radius: 3
 			fillStyle: (SolidFillStyle color: self filterColor)
-			borderWidth: 1
+			borderWidth: 0
 			borderColor: Color black]

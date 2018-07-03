@@ -9,7 +9,7 @@ drawItem: anIndex on: aCanvas
 			drawImage: (self filteredListItems at: anIndex) formCache
 			at: pos].
 	
-	self drawFilterFor: anIndex on: aCanvas.
+	self drawFilterFor: anIndex on: aCanvas at: row.
 	(self showDividers and: (self dividersDrawable: row)) 
 		ifTrue: [ self drawDividersAt: pos on: aCanvas].
 	
