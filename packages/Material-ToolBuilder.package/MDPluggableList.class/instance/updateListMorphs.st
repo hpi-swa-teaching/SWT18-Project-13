@@ -1,12 +1,10 @@
 as yet unclassified
 updateListMorphs
 
-	| listData |
-	listData := self model perform: self list.
-	self listItems clear.
-	1 to: listData size do: [:num | 
+	self listItems removeAll.
+	1 to: self listCollection size do: [:num | 
 		| text |
-		text := listData at: num.
+		text := self listCollection at: num.
 		self addListItem: (
 			(MDListItem newOnList: self)
 				text: text;
