@@ -2,11 +2,12 @@ event handling
 mouseUp: evt
 	
 	self listItems ifNotEmpty: [
-		| index item |
+		| index |
 		index := self globalPositionToIndex: evt position.
-		item := self listItems at: index.
-		item mouseUp: evt.
-		item mouseEnter: evt
+		self ifInBounds: index do: [:item |
+			item mouseUp: evt.
+			item mouseEnter: evt].
+		
 		"self forVisibleRowIndicesDo: [:each |
 			item := self listItems at: each.
 			item mouseUp: evt.

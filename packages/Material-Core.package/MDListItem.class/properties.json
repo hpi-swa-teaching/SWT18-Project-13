@@ -7,7 +7,8 @@
 	"commentStamp" : "LS 6/11/2018 10:06",
 	"instvars" : [
 		"formCache",
-		"list" ],
+		"list",
+		"selected" ],
 	"name" : "MDListItem",
 	"pools" : [
 		 ],
