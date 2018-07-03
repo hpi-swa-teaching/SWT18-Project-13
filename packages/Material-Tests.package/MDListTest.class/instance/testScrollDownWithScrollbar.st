@@ -1,9 +1,7 @@
 testing
 testScrollDownWithScrollbar
 
-	| list |
-	list := MDBasicListExample new.
-	list scrollDown: list maxScrollDelta.
-	list scrollbar step.
+	self widget scrollDown: self widget maxScrollDelta.
+	self widget scrollbar step.
 	
-	self testEquality: list with: self class listWithScrollbarScrolledDownToBottom
+	self testEquality: self widget with: self class listWithScrollbarScrolledDownToBottom

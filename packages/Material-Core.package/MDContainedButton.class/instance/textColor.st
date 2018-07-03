@@ -1,4 +1,4 @@
 properties
 textColor
 
-	^ Color white.
+	^ Color white

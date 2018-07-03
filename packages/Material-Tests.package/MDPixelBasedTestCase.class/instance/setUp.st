@@ -1,4 +1,4 @@
 as yet unclassified
 setUp
 
-	self widget: self objectToTest.
+	self widget: self objectToTest

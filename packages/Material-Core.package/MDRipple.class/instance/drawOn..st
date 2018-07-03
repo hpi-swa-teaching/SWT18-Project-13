@@ -13,4 +13,4 @@ drawOn: aCanvas
 					(shapeNegated colorAt: x @ y) = Color black
 						ifTrue: [ripple colorAt: x @ y put: Color transparent]]]].
 	
-	aCanvas translucentImage: ripple at: self clickableMorph position.
+	aCanvas translucentImage: ripple at: self clickableMorph position

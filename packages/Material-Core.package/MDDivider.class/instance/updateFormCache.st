@@ -1,5 +1,6 @@
 accessing
 updateFormCache
+
 	| form backgroundColor |				
 	backgroundColor := Color white.
 	self widget

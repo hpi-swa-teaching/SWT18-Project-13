@@ -4,9 +4,9 @@ testBorderRadiusWith: aMDWidget
 	| testValues |
 	testValues := #(10 20 100 0.5 4).
 	
-	testValues do: [ :each |
+	testValues do: [:each |
 		aMDWidget borderRadius: each.
-		self assert: (aMDWidget borderRadius ) = (Rectangle left: each right: each top: each bottom: each) ].
+		self assert: (aMDWidget borderRadius ) = (Rectangle left: each right: each top: each bottom: each)].
 	
 	testValues := #(10 20 30 0.5).
 	
@@ -18,5 +18,5 @@ testBorderRadiusWith: aMDWidget
 	self assert: aMDWidget borderTopRightRadius = (testValues at: 1).
 	self assert: aMDWidget borderTopLeftRadius = (testValues at: 2).
 	self assert: aMDWidget borderBottomRightRadius = (testValues at: 3).
-	self assert: aMDWidget borderBottomLeftRadius = (testValues at: 4).
+	self assert: aMDWidget borderBottomLeftRadius = (testValues at: 4)
 	

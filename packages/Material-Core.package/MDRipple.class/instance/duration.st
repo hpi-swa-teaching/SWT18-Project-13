@@ -1,3 +1,4 @@
 accessing
 duration
-	^ duration ifNil: [ duration := self class defaultAnimationDuration ]
+
+	^ duration ifNil: [duration := self class defaultAnimationDuration]

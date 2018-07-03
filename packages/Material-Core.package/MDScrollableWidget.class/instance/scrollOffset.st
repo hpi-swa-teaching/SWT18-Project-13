@@ -1,4 +1,4 @@
 accessing
 scrollOffset
 
-	^ scrollOffset ifNil: [ ^ scrollOffset := 0 ]
+	^ scrollOffset ifNil: [^ scrollOffset := 0]

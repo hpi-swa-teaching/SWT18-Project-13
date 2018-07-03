@@ -1,3 +1,4 @@
 selecting
 isSelected
+
 	^ isSelected

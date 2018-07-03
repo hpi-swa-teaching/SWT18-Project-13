@@ -1,4 +1,4 @@
 control
 deleteAllRipples
 
-	self items do: [ :item | item removeRipples ]
+	self items do: [:item | item removeRipples]

@@ -7,7 +7,10 @@
 	"commentStamp" : "LS 6/11/2018 10:05",
 	"instvars" : [
 		"listItems",
-		"divider" ],
+		"divider",
+		"lastKeystrokes",
+		"filteredListItems",
+		"filterOffsets" ],
 	"name" : "MDList",
 	"pools" : [
 		 ],

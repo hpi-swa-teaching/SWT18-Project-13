@@ -9,5 +9,5 @@ drawOn: aCanvas
 		borderWidth: self borderWidth
 		borderColor: Color black.
 	(self wantsRipples and: ((self state = #disabled) not))
-		ifTrue: [ self drawRipplesOn: aCanvas ]
+		ifTrue: [self drawRipplesOn: aCanvas]
 	

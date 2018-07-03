@@ -4,15 +4,15 @@
 		"backgroundColorSelected" : "mats 7/3/2018 14:43",
 		"checkToggled" : "mats 7/3/2018 13:02",
 		"defaultAvatarPadding" : "mats 6/5/2018 09:09",
+		"defaultBorderRadius" : "LS 6/28/2018 20:47",
 		"defaultHeight" : "mats 6/4/2018 17:03",
 		"defaultIconPadding" : "mats 6/5/2018 08:26",
 		"defaultTextPadding" : "mats 6/5/2018 09:11",
 		"newOnList:" : "mats 5/30/2018 11:58",
 		"textColorSelected" : "mats 7/3/2018 14:43" },
 	"instance" : {
-		"borderRadius" : "mats 6/5/2018 09:44",
 		"calculateColor" : "mats 7/3/2018 14:51",
-		"calculateWidthByText" : "mats 6/28/2018 00:04",
+		"calculateWidthByText" : "CG 7/1/2018 11:40",
 		"changed" : "mats 6/1/2018 15:11",
 		"checkToggled" : "mats 7/3/2018 14:44",
 		"containsPoint:" : "mats 6/28/2018 00:15",
@@ -20,6 +20,7 @@
 		"formCache" : "mats 6/8/2018 15:32",
 		"formCache:" : "mats 6/8/2018 15:32",
 		"isSelected" : "mats 7/3/2018 14:40",
+		"labelBounds" : "LS 6/28/2018 15:25",
 		"labelPositionIconNotPresent" : "mats 6/19/2018 12:30",
 		"list" : "mats 6/8/2018 15:32",
 		"list:" : "mats 6/8/2018 15:32",
@@ -28,4 +29,4 @@
 		"selected:" : "mats 7/3/2018 14:52",
 		"textColor:" : "mats 6/8/2018 15:33",
 		"updateFormCache" : "mats 7/3/2018 14:41",
-		"updateFormCache:" : "mats 6/8/2018 15:33" } }
+		"updateFormCache:" : "LS 6/28/2018 21:32" } }

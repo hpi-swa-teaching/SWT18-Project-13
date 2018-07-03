@@ -6,4 +6,4 @@ action: aSymbolOrString
 	 [aSymbolOrString isEmpty]])
 		ifTrue: [^ actionSelector := nil].
 
-	actionSelector := aSymbolOrString asSymbol.
+	actionSelector := aSymbolOrString asSymbol

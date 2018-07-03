@@ -17,4 +17,4 @@ popUpAt: aPoint forHand: hand in: aWorld
 		newMouseFocus: self;
 		newKeyboardFocus: self.
 	self selectItem: nil event: hand lastEvent.
-	self changed.
+	self changed

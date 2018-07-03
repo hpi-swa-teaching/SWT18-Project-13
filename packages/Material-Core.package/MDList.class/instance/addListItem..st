@@ -1,8 +1,9 @@
-as yet unclassified
+construction
 addListItem: aMDWidget
 
 	self listItems add: (aMDWidget 
 		width: self width;
 		position: self position;
 		updateFormCache;
-		yourself)
+		yourself).
+	self resetFilteredListItems

@@ -1,3 +1,4 @@
 accessing
 icon
-	^ self properties at: #icon ifAbsent: [ ^ nil ]
+
+	^ self properties at: #icon ifAbsent: [^ nil]

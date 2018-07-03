@@ -7,4 +7,5 @@ performMouseDownOn: aMDWidget
 		setHand: ActiveHand;
 		setPosition: aMDWidget position.
 	aMDWidget mouseDown: event.
+	
 	^ aMDWidget

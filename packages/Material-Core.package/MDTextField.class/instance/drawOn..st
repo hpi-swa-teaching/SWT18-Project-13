@@ -13,4 +13,4 @@ drawOn: aCanvas
 	
 	self flag: #todo.
 	"Find a way to fix this bug of resizing of the textMorph when there is no text inside"
-	self textMorph font: (MDLabel loadFontWithFontTag: #Body2).
+	self textMorph font: (MDLabel loadFontWithFontTag: #Body2)

@@ -1,4 +1,4 @@
 event handling
 mouseEnter: anEvent
 	
-	self updateStateWithAction: #mouseEnter.
+	self updateStateWithAction: #mouseEnter

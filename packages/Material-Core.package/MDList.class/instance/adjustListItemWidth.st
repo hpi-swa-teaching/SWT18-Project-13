@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 adjustListItemWidth
 
 	self listItems do: [:each | 

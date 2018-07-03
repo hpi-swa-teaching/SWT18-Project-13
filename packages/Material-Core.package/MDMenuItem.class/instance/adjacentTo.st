@@ -1,4 +1,4 @@
 selecting
 adjacentTo
 
-	^{ self outerBounds topRight. self bounds topLeft }
+	^{self outerBounds topRight. self bounds topLeft}

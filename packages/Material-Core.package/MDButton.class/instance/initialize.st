@@ -2,5 +2,6 @@ initialization
 initialize
 
 	super initialize.
-	self initializeLabel.
-	self updateBounds
+	self 
+		initializeLabel;
+		updateBounds

@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"blankIcon" : "LS 6/12/2018 17:12",
+		"blankIcon" : "CG 7/1/2018 12:26",
 		"clearCache" : "JW 5/27/2018 11:14",
 		"fromCache:ifAbsentPut:" : "JW 5/27/2018 01:38",
 		"ic_3d_rotation" : "LS 6/11/2018 10:42",
@@ -942,16 +942,16 @@
 		"importFrom:" : "LS 6/11/2018 10:40",
 		"supersamplingFactor" : "JW 5/27/2018 01:42" },
 	"instance" : {
-		"cachedForm" : "LS 5/29/2018 09:42",
-		"cachedForm:" : "LS 5/29/2018 09:42",
+		"cachedForm" : "CG 7/1/2018 11:53",
+		"cachedForm:" : "CG 7/1/2018 11:53",
 		"cachedFormFor:" : "LS 5/29/2018 09:43",
 		"changeIconName:" : "LS 5/29/2018 09:43",
 		"drawOn:" : "JW 5/27/2018 01:39",
-		"iconName" : "JW 5/27/2018 01:38",
-		"iconName:" : "JW 5/27/2018 01:38",
+		"iconName" : "CG 7/1/2018 11:53",
+		"iconName:" : "CG 7/1/2018 11:53",
 		"renderForm" : "JW 5/27/2018 11:13",
 		"size:" : "JW 5/27/2018 03:09",
-		"svg" : "JW 5/27/2018 01:39",
-		"svg:" : "JW 5/27/2018 01:39",
+		"svg" : "CG 7/1/2018 11:54",
+		"svg:" : "CG 7/1/2018 11:54",
 		"svgColor" : "JW 5/27/2018 02:57",
-		"svgColor:" : "LS 5/29/2018 09:45" } }
+		"svgColor:" : "CG 7/1/2018 11:54" } }

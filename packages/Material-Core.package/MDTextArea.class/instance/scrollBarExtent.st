@@ -1,4 +1,4 @@
 layout
 scrollBarExtent
 
-	^ (self scrollPane vScrollBar width)@0
+	^ (self scrollPane vScrollBar width) @ 0

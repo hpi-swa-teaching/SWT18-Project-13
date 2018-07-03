@@ -5,4 +5,4 @@ performMouseEnter: aMouseEvent On: aMDClickable
 	
 	mouseEvent := aMouseEvent setType: #mouseEnter.
 	aMDClickable mouseEnter: mouseEvent.
-	self assert: self tmp = #notclicked.
+	self assert: self tmp = #notclicked

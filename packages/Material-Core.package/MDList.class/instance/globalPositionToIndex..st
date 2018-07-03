@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 globalPositionToIndex: aPoint
 
 	| position index |

@@ -1,5 +1,6 @@
 drawing
 calculateTextColor
 
-	self isDisabled ifTrue: [ ^ self textColorDisabled ].
+	self isDisabled ifTrue: [^ self textColorDisabled].
+	
 	^ self textColor

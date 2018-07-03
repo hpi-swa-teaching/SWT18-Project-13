@@ -1,0 +1,4 @@
+filtering
+allowEmptyFilterResult
+
+	^ false

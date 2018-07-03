@@ -8,4 +8,4 @@ add: aString target: aTarget selector: aSymbol arguments: aArgList
 		actionSelector: aSymbol;
 		arguments: aArgList;
 		bounds: self newItemBounds.
-	self addMorphBack: item.
+	self addMorphBack: item

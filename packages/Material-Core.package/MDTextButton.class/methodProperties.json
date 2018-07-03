@@ -4,4 +4,6 @@
 		"defaultText" : "mats 5/22/2018 13:19",
 		"defaultTextColor" : "LS 5/21/2018 14:03" },
 	"instance" : {
-		"calculateColor" : "mats 7/3/2018 13:12" } }
+		"calculateColor" : "CG 7/1/2018 11:40",
+		"findString:startingAt:caseSensitive:" : "LS 6/26/2018 17:25",
+		"highlightSubstring" : "LS 6/26/2018 17:05" } }

@@ -1,4 +1,4 @@
 accessing
 currentBackgroundColor
 	
-	^ self properties at: #currentBackgroundColor ifAbsent: [ self currentBackgroundColor: self backgroundColor ]
+	^ self properties at: #currentBackgroundColor ifAbsent: [self currentBackgroundColor: self backgroundColor]

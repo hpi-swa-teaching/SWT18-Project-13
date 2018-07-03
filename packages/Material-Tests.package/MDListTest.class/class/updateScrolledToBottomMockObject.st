@@ -1,4 +1,6 @@
 forms
 updateScrolledToBottomMockObject
 	
-	self renderFormString: self new listScrolledDownToBottom andStoreWithName: 'listScrolledDownToBottom'
+	| test |
+	test := self new setUp.
+	self renderFormString: test listScrolledDownToBottom andStoreWithName: 'listScrolledDownToBottom'

@@ -1,3 +1,4 @@
 accessing
 isMouseDown
-	^ isMouseDown ifNil: [ isMouseDown := false ]
+
+	^ isMouseDown ifNil: [isMouseDown := false]

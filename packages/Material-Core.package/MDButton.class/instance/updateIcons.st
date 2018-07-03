@@ -1,6 +1,7 @@
 drawing
 updateIcons
 
-	self updateIcon.
-	self updateIconRight.
+	self 
+		updateIcon;
+		updateIconRight
 	

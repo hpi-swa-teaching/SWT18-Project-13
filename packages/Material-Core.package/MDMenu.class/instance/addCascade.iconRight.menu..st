@@ -6,4 +6,4 @@ addCascade: aString iconRight: anIconSymbol menu: aMDMenu
 		subMenu: aMDMenu;
 		text: aString;
 		bounds: self newItemBounds.
-	self addMorphBack: item.
+	self addMorphBack: item

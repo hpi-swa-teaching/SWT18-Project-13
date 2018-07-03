@@ -1,4 +1,4 @@
 accessing
 items
 
-	^ submorphs select: [:m | m isKindOf: MDMenuItem ]
+	^ submorphs select: [:m | m isKindOf: MDMenuItem]

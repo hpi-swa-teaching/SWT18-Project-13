@@ -26,4 +26,4 @@ popUpAdjacentTo: rightOrLeftPoint forHand: hand from: sourceItem
 	tryToPlace
 		value: rightPoint value: false;
 		 value: leftPoint value: false;
-		 value: rightPoint value: true.
+		 value: rightPoint value: true

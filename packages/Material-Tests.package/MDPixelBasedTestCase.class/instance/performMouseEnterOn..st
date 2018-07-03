@@ -6,4 +6,5 @@ performMouseEnterOn: aMDWidget
 		setType: #mouseEnter;
 		setHand: ActiveHand.
 	aMDWidget mouseEnter: event.
+	
 	^ aMDWidget

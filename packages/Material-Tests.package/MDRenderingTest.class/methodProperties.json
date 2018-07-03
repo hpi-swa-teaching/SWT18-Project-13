@@ -25,9 +25,9 @@
 		"textButtonMockObject_disbaled" : "mats 5/26/2018 13:05",
 		"textButtonMockObject_mouseEnter" : "mats 5/25/2018 16:06" },
 	"instance" : {
-		"alternativeBackgroundColorTestWith:" : "mats 5/27/2018 13:22",
-		"alternativeTextTestWith:" : "mats 5/27/2018 13:23",
-		"defaultTestWith:" : "mats 5/27/2018 13:24",
-		"disableTestWith:" : "mats 6/8/2018 13:34",
-		"mouseEventTestWith:" : "mats 5/27/2018 13:26",
-		"render:times:" : "mats 6/12/2018 11:14" } }
+		"alternativeBackgroundColorTestWith:" : "CG 6/30/2018 12:09",
+		"alternativeTextTestWith:" : "CG 6/30/2018 12:09",
+		"defaultTestWith:" : "CG 6/30/2018 12:10",
+		"disableTestWith:" : "CG 6/30/2018 12:10",
+		"mouseEventTestWith:" : "CG 6/30/2018 12:11",
+		"render:times:" : "CG 6/30/2018 12:11" } }

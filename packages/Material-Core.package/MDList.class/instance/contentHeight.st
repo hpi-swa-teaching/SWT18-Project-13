@@ -1,4 +1,4 @@
-event handling
+accessing
 contentHeight
 
-	^ self listItems size * self listItemHeightWithPadding
+	^ self filteredListItems size * self listItemHeightWithPadding

@@ -3,4 +3,4 @@ addIcon: aMDIcon
 	
 	self removeIcon.
 	aMDIcon size: self class defaultIconSize.
-	self addMorphBack: aMDIcon.
+	self addMorphBack: aMDIcon

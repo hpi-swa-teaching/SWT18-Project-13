@@ -2,4 +2,4 @@ drawing
 updateContents: aCanvas
 
 	self updateLabelPosition.
-	self updateIcons.
+	self updateIcons

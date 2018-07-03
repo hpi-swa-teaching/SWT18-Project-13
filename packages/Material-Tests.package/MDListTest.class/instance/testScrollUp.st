@@ -1,10 +1,8 @@
 testing
 testScrollUp
 
-	| list |
-	list := MDBasicListExample new.
-	list 
-		scrollDown: list maxScrollDelta;
-		scrollUp: list maxScrollDelta.
+	self widget 
+		scrollDown: self widget maxScrollDelta;
+		scrollUp: self widget maxScrollDelta.
 	
-	self testEquality: list with: self class enabled
+	self testEquality: self widget with: self class enabled

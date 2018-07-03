@@ -5,4 +5,4 @@ performMouseDown: aMouseEvent On: aMDClickable
 	
 	mouseEvent := aMouseEvent setType: #mouseDown.
 	aMDClickable mouseDown: mouseEvent.
-	self assert: self tmp = #notclicked.
+	self assert: self tmp = #notclicked

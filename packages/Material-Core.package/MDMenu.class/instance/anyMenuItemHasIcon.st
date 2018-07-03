@@ -1,4 +1,4 @@
 accessing
 anyMenuItemHasIcon
 
-	^ self items anySatisfy: [ :each | each hasIcon ]. 
+	^ self items anySatisfy: [:each | each hasIcon]. 
