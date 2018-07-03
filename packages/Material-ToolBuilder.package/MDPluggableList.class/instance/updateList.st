@@ -3,5 +3,5 @@ updateList
 	"the list has changed -- update from the model"
 	| index |
 	self flag: #incomplete.
-	self layoutChanged.
+	self changed.
 	index := self getCurrentSelectionIndex.
