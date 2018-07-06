@@ -1,4 +1,4 @@
 widget classes
 listClass
 
-	^ MDPluggableList
+	^ MDPluggableListPlus
