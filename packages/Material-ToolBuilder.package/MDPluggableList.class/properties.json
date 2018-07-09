@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"model",
-		"list",
+		"getListSelector",
 		"listCollection",
 		"selected",
 		"changeSelected",
@@ -23,7 +23,12 @@
 		"getListElementSelector",
 		"getListSizeSelector",
 		"keystrokePreviewSelector",
-		"wantsDropSelector" ],
+		"wantsDropSelector",
+		"lastKeystrokeTime",
+		"priorSelection",
+		"keystrokeActionSelector",
+		"handlesBasicKeys",
+		"getMenuTitleSelector" ],
 	"name" : "MDPluggableList",
 	"pools" : [
 		 ],
