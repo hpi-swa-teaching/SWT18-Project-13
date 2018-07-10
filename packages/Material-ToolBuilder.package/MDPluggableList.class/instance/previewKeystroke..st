@@ -2,6 +2,6 @@ as yet unclassified
 previewKeystroke: event
 	"Let the model decide if it's going to handle the event for us"
 
-	^ keystrokePreviewSelector 
+	^ self keystrokePreviewSelector 
 		ifNil: [ false ]
-		ifNotNil: [ model perform: keystrokePreviewSelector with: event ]
+		ifNotNil: [ self model perform: self keystrokePreviewSelector with: event ]

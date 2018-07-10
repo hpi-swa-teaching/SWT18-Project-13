@@ -3,7 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"ClearFilterAutomatically" ],
 	"commentStamp" : "",
 	"instvars" : [
 		"model",
@@ -28,7 +28,8 @@
 		"priorSelection",
 		"keystrokeActionSelector",
 		"handlesBasicKeys",
-		"getMenuTitleSelector" ],
+		"getMenuTitleSelector",
+		"clearFilterAutomatically" ],
 	"name" : "MDPluggableList",
 	"pools" : [
 		 ],

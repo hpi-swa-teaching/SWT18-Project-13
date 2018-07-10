@@ -1,4 +1,4 @@
 as yet unclassified
 initForKeystrokes
-	lastKeystrokeTime := 0.
-	lastKeystrokes := ''
+	self lastKeystrokeTime: 0.
+	self lastKeystrokes: ''

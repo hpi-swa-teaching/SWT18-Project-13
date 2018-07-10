@@ -4,11 +4,10 @@ keyboardFocusChange: aBoolean
 	The given argument indicates that the receiver is gaining (versus losing) the keyboard focus.
 	In this case, all we need to do is to redraw border feedback"
 	aBoolean ifFalse: [
-		self hoverRow: nil.
 		self clearFilterAutomatically ifTrue:
 			[ self hasFilter ifTrue:
 				[ self
-					 removeFilter ;
+					 removeFilter;
 					 updateList ] ] ].
 		
 	super keyboardFocusChange: aBoolean.

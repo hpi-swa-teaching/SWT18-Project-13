@@ -8,8 +8,8 @@ specialKeyPressed: asciiValue
 		self removeFilter.
 		priorSelection ifNotNil:
 			[ | prior |
-			prior := priorSelection.
-			priorSelection := self getCurrentSelectionIndex.
+			prior := self priorSelection.
+			self priorSelection: self getCurrentSelectionIndex.
 			asciiValue = 8 ifTrue: [ self changeModelSelection: prior ] ].
 		^ self updateList ].
 	asciiValue = 27 ifTrue: 
@@ -47,4 +47,5 @@ specialKeyPressed: asciiValue
 	model okToChange ifFalse: [^ self].
 	"No change if model is locked"
 	oldSelection = nextSelection ifTrue: [^ self flash].
+	
 	^ self changeModelSelection: (self modelIndexFor: nextSelection)

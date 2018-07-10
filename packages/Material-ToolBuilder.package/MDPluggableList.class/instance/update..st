@@ -1,5 +1,5 @@
 accessing
 update: aSymbol
 	
-	(aSymbol == #list)
-		ifTrue: [self checkForChangedContent]
+	(aSymbol == #messageList or: aSymbol == #relabel)
+		ifTrue: [self changed]

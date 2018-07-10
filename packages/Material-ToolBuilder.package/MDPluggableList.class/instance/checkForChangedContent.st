@@ -9,4 +9,4 @@ checkForChangedContent
 			self listCollection = stringCollection
 				ifFalse: [
 					self listCollection: stringCollection.
-					self updateListMorphs]]
+					self updateList]]

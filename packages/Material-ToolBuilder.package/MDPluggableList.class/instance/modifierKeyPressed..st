@@ -1,13 +1,13 @@
 as yet unclassified
 modifierKeyPressed: aChar 
 	| args |
-	keystrokeActionSelector isNil ifTrue: [^nil].
-	args := keystrokeActionSelector numArgs.
-	args = 1 ifTrue: [^model perform: keystrokeActionSelector with: aChar].
+	self keystrokeActionSelector isNil ifTrue: [^nil].
+	args := self keystrokeActionSelector numArgs.
+	args = 1 ifTrue: [^ self model perform: self keystrokeActionSelector with: aChar].
 	args = 2 
 		ifTrue: 
-			[^model 
-				perform: keystrokeActionSelector
+			[^ self model 
+				perform: self keystrokeActionSelector
 				with: aChar
 				with: self].
 	^self error: 'keystrokeActionSelector must be a 1- or 2-keyword symbol'
