@@ -9,8 +9,7 @@
 		"listItems",
 		"divider",
 		"lastKeystrokes",
-		"filteredListItems",
-		"filterOffsets" ],
+		"filteredListItems" ],
 	"name" : "MDList",
 	"pools" : [
 		 ],

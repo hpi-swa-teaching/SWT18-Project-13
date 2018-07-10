@@ -1,9 +1,10 @@
 event handling
 mouseMove: evt
 
-	| item mouseEvent |
+	| item mouseEvent evtCopy |
 	item := self globalPositionToIndex: evt position.
-	mouseEvent := evt position: 0 @ 0.
+	evtCopy := evt copy.
+	mouseEvent := evtCopy position: 0 @ 0.
 	
 	self filteredListItems ifNotEmpty: [
 		self forVisibleItemIndicesDo: [:each |

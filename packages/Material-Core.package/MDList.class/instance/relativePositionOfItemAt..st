@@ -1,4 +1,4 @@
 drawing
-relativePositionOfItemAt: aNum
+relativePositionOfItemAt: aRow
 	
-	^ (0 @ (self listItemHeight + self listItemPadding) * (aNum - 1))
+^ (0 @ (self listItemHeight + self listItemPadding) * (aRow - 1))
