@@ -1,10 +1,15 @@
 as yet unclassified
-updateListMorphs
+updateList
 
 	self listItems removeAll.
 	1 to: self listCollection size do: [:num | 
-		| text |
+		| text icon |
 		text := self listCollection at: num.
+		self getIconSelector 
+			ifNotNil: [icon := self model perform: self getIconSelector with: num].
+			
+		self flag: #TODO. "set correct icons"
+			
 		self addListItem: (
 			(MDListItem newOnList: self)
 				text: text;
