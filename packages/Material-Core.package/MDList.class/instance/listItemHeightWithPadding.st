@@ -1,4 +1,4 @@
 event handling
 listItemHeightWithPadding
 
-	^ self class listItemHeight + self listItemPadding
+	^ self listItemHeight + self listItemPadding

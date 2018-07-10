@@ -13,6 +13,7 @@ updateList
 		self addListItem: (
 			(MDListItem newOnList: self)
 				text: text;
+				denseLayout: self hasDenseLayout;
 				target: [
 					((self model perform: self selected) = 0)
 						ifFalse: [(self listItems at: (self model perform: self selected)) deselect].
