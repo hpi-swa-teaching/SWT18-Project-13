@@ -1,12 +1,12 @@
 filtering
-filterOffsets: anIndex
+filterOffsets: aMDMenuItem
 	"Calculate matching character indexes for the current filter term."
 	
 	| label filter offsets currentIndex sub font |
 	filter := self filterTerm.
 	filter ifEmpty: [^ Array empty].
 
-	label := (self filteredListItems at: anIndex) label.
+	label := aMDMenuItem label.
 	font := label font.
 	label := label contents.
 	offsets := OrderedCollection new.

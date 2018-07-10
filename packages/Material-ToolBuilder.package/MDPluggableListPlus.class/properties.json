@@ -1,0 +1,18 @@
+{
+	"category" : "Material-ToolBuilder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dragItemSelector",
+		"dropItemSelector",
+		"wantsDropSelector",
+		"dragTypeSelector",
+		"dragStartedSelector" ],
+	"name" : "MDPluggableListPlus",
+	"pools" : [
+		 ],
+	"super" : "MDPluggableList",
+	"type" : "normal" }
