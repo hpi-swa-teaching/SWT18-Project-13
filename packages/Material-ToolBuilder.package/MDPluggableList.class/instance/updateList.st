@@ -3,15 +3,12 @@ updateList
 
 	self listItems removeAll.
 	1 to: self listCollection size do: [:num | 
-		| text icon |
+		| text icon listItem |
 		text := self listCollection at: num.
 		self getIconSelector 
-			ifNotNil: [icon := self model perform: self getIconSelector with: num].
-			
-		self flag: #TODO. "set correct icons"
-			
-		self addListItem: (
-			(MDListItem newOnList: self)
+			ifNotNil: [icon := self getMaterialIconFrom: (self model perform: self getIconSelector with: num)].
+		
+		listItem := (MDListItem newOnList: self)
 				text: text;
 				denseLayout: self hasDenseLayout;
 				target: [
@@ -20,4 +17,7 @@ updateList
 					self model perform: self changeSelected with: num.
 					(self listItems at: num) select];
 				actionSelector: #value; 
-				yourself)]
+				yourself.
+		
+		icon ifNotNil: [listItem icon: icon].
+		self addListItem: listItem]

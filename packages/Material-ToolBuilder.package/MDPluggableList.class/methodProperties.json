@@ -2,7 +2,8 @@
 	"class" : {
 		"clearFilterAutomatically" : "mats 7/10/2018 11:11",
 		"clearFilterAutomatically:" : "mats 7/10/2018 11:11",
-		"on:list:selected:changeSelected:menu:keystroke:" : "mats 7/9/2018 22:38" },
+		"on:list:selected:changeSelected:menu:keystroke:" : "mats 7/9/2018 22:38",
+		"toolIconsToMaterialIcons" : "mats 7/10/2018 14:29" },
 	"instance" : {
 		"autoDeselect" : "mats 6/26/2018 11:32",
 		"autoDeselect:" : "mats 6/26/2018 11:32",
@@ -35,6 +36,7 @@
 		"getListSize" : "mats 7/9/2018 16:47",
 		"getListSizeSelector" : "mats 6/26/2018 11:34",
 		"getListSizeSelector:" : "mats 6/26/2018 11:34",
+		"getMaterialIconFrom:" : "mats 7/10/2018 14:06",
 		"getMenu:" : "mats 7/9/2018 16:40",
 		"getMenuTitleSelector" : "mats 7/9/2018 16:39",
 		"getMenuTitleSelector:" : "mats 7/9/2018 16:39",
@@ -72,8 +74,8 @@
 		"selected:" : "mats 7/3/2018 10:17",
 		"selectionIndex" : "mats 7/9/2018 16:53",
 		"specialKeyPressed:" : "mats 7/10/2018 11:08",
-		"update:" : "mats 7/10/2018 11:31",
-		"updateList" : "mats 7/10/2018 12:51",
+		"update:" : "mats 7/10/2018 14:00",
+		"updateList" : "mats 7/10/2018 13:54",
 		"updateListMorphs" : "mats 7/3/2018 14:57",
 		"wantsDropSelector" : "mats 6/26/2018 11:34",
 		"wantsDropSelector:" : "mats 6/26/2018 11:34",
