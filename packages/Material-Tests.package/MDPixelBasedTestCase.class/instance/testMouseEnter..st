@@ -1,4 +1,5 @@
 testing
 testMouseEnter: aMDWidget
 
-	self testMouseEnter: aMDWidget with: self class mouseEntered
+	self performMouseEnterOn: aMDWidget.
+	self testEquality: aMDWidget with: self class mouseEntered

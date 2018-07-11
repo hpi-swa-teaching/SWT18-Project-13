@@ -6,7 +6,11 @@
 		"disabled" : "mats 6/13/2018 10:33",
 		"enabled" : "mats 6/13/2018 10:33",
 		"mouseEntered" : "mats 6/13/2018 11:24",
-		"tests" : "mats 6/13/2018 10:28",
+		"rippleWithFactor0_25" : "mats 7/11/2018 19:43",
+		"rippleWithFactor0_5" : "mats 7/11/2018 19:43",
+		"rippleWithFactor0_75" : "mats 7/11/2018 19:43",
+		"rippleWithFactor1" : "mats 7/11/2018 19:43",
+		"tests" : "mats 7/11/2018 19:44",
 		"toggled" : "JW 6/15/2018 13:06" },
 	"instance" : {
 		"testAlternativeText" : "LS 6/18/2018 10:38",
@@ -15,5 +19,6 @@
 		"testEnabled" : "LS 6/18/2018 10:39",
 		"testMouseEnter" : "LS 6/18/2018 10:39",
 		"testMouseEnterAndLeave" : "LS 6/18/2018 10:39",
+		"testRipples" : "mats 7/11/2018 19:04",
 		"testToggled" : "JW 6/15/2018 13:11",
 		"testToggledOnAndOff" : "JW 6/15/2018 13:11" } }
