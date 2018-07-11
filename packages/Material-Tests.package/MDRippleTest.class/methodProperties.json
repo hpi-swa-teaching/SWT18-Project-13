@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"classToTest" : "mats 7/11/2018 21:11" },
+	"instance" : {
+		"objectToTest" : "mats 7/11/2018 21:11",
+		"setUp" : "mats 7/11/2018 21:14",
+		"testRippleDeletion:" : "mats 7/11/2018 22:00",
+		"testRippleInitialization:" : "mats 7/11/2018 21:17",
+		"widget" : "mats 7/11/2018 21:14",
+		"widget:" : "mats 7/11/2018 21:14" } }

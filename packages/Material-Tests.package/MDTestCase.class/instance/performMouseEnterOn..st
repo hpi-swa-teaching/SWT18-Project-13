@@ -1,4 +1,4 @@
-helper methods
+as yet unclassified
 performMouseEnterOn: aMDWidget
 	
 	| event |

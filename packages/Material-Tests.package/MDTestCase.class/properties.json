@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"widget" ],
-	"name" : "MDPixelBasedTestCase",
+		 ],
+	"name" : "MDTestCase",
 	"pools" : [
 		 ],
-	"super" : "MDTestCase",
+	"super" : "TestCase",
 	"type" : "normal" }

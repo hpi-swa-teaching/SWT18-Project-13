@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"widget" ],
-	"name" : "MDPixelBasedTestCase",
+		 ],
+	"name" : "MDTextButtonRippleTest",
 	"pools" : [
 		 ],
-	"super" : "MDTestCase",
+	"super" : "MDRippleTest",
 	"type" : "normal" }

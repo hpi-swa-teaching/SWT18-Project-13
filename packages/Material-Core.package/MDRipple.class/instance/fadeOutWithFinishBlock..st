@@ -2,7 +2,7 @@ animation
 fadeOutWithFinishBlock: aClosure
 
 	AnimPropertyAnimation new
-   		duration: self class fadeOutDuration;
+   		duration: self fadeOutDuration;
    		target: self;
    		property: #updateAlpha;
    		startValue: self colorAlpha;
