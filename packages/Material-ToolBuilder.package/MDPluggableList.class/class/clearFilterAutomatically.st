@@ -1,4 +1,4 @@
-as yet unclassified
+preferences
 clearFilterAutomatically
 	<preference: 'Filterable Lists Clear Automatically'
 		category: 'scrolling'

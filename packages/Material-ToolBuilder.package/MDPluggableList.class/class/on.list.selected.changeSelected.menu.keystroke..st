@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 on: model list: getListSelector selected: index changeSelected: setIndex menu: menu keystroke: keyPress
 	
 	| newItem |
@@ -9,6 +9,6 @@ on: model list: getListSelector selected: index changeSelected: setIndex menu: m
 		selected: index;
 		changeSelected: setIndex;
 		menu: menu;
-		keystroke: keyPress.
+		keystrokeActionSelector: keyPress.
 		
 	^ newItem

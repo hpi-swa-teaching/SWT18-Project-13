@@ -1,4 +1,4 @@
-as yet unclassified
+preferences
 clearFilterAutomatically: aBoolean
 
 	ClearFilterAutomatically := aBoolean

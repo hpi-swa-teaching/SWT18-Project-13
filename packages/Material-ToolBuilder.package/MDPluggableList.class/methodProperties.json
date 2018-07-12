@@ -2,7 +2,7 @@
 	"class" : {
 		"clearFilterAutomatically" : "LS 7/12/2018 11:53",
 		"clearFilterAutomatically:" : "CG 7/11/2018 18:03",
-		"on:list:selected:changeSelected:menu:keystroke:" : "CG 7/11/2018 18:03",
+		"on:list:selected:changeSelected:menu:keystroke:" : "LS 7/12/2018 13:30",
 		"toolIconsToMaterialIcons" : "mats 7/10/2018 14:29" },
 	"instance" : {
 		"autoDeselect" : "CG 7/11/2018 17:39",
@@ -41,8 +41,6 @@
 		"initialize" : "mats 7/10/2018 12:49",
 		"keyStroke:" : "mats 7/9/2018 15:24",
 		"keyboardFocusChange:" : "CG 7/11/2018 17:44",
-		"keystroke" : "CG 7/11/2018 17:44",
-		"keystroke:" : "CG 7/11/2018 17:45",
 		"keystrokeActionSelector" : "mats 7/10/2018 13:01",
 		"keystrokeActionSelector:" : "mats 7/9/2018 15:31",
 		"keystrokePreviewSelector" : "CG 7/11/2018 17:45",
@@ -73,7 +71,7 @@
 		"selected" : "CG 7/11/2018 17:58",
 		"selected:" : "CG 7/11/2018 17:58",
 		"selectionIndex" : "mats 7/9/2018 16:53",
-		"specialKeyPressed:" : "CG 7/11/2018 17:59",
+		"specialKeyPressed:" : "LS 7/12/2018 13:27",
 		"update:" : "mats 7/10/2018 14:00",
 		"updateList" : "mats 7/10/2018 13:54",
 		"updateListMorphs" : "mats 7/3/2018 14:57",
