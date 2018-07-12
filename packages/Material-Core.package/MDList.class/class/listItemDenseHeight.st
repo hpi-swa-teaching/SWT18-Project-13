@@ -1,4 +1,4 @@
 as yet unclassified
-listItemHeightDense
+listItemDenseHeight
 
 	^ MDListItem denseHeight

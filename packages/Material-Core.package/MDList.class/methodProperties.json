@@ -2,8 +2,8 @@
 	"class" : {
 		"defaultDividerPadding" : "mats 6/1/2018 23:29",
 		"defaultListItemPadding" : "mats 6/1/2018 15:57",
+		"listItemDenseHeight" : "Max 7/12/2018 11:45",
 		"listItemHeight" : "mats 7/10/2018 12:43",
-		"listItemHeightDense" : "mats 7/10/2018 12:43",
 		"scrollDelta" : "mats 5/30/2018 14:13" },
 	"instance" : {
 		"addListItem:" : "LS 6/28/2018 20:53",
@@ -49,7 +49,7 @@
 		"lastKeystrokes:" : "CG 7/1/2018 12:08",
 		"lastVisibleItem" : "mats 7/10/2018 12:51",
 		"layoutChanged" : "mats 6/8/2018 15:25",
-		"listItemHeight" : "mats 7/10/2018 12:51",
+		"listItemHeight" : "Max 7/12/2018 11:33",
 		"listItemHeightWithPadding" : "mats 7/10/2018 12:51",
 		"listItemPadding" : "mats 6/1/2018 16:00",
 		"listItemPadding:" : "mats 6/1/2018 15:58",

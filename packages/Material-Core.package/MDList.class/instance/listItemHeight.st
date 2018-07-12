@@ -2,5 +2,5 @@ accessing
 listItemHeight
 
 	self hasDenseLayout
-		ifTrue: [^ self class listItemHeightDense]
+		ifTrue: [^ self class listItemDenseHeight]
 		ifFalse: [^ self class listItemHeight]
