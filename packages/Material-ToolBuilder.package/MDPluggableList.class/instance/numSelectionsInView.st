@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 numSelectionsInView
 
 	^ self lastVisibleItem - self firstVisibleItem

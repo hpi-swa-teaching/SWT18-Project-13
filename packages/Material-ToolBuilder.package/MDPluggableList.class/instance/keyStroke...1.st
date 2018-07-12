@@ -1,4 +1,4 @@
-as yet unclassified
+keystrokes
 keyStroke: event 
 	"Process keys 
 	The model is allowed to preview all keystrokes. If it's not interested:

@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 checkForChangedContent
 	
 	self model = nil

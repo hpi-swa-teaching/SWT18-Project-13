@@ -1,4 +1,4 @@
-as yet unclassified
+keystrokes
 basicKeyPressed: aChar 
 
 	| milliseconds slowKeyStroke listSize newSelectionIndex oldSelectionIndex |

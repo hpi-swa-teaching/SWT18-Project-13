@@ -1,4 +1,4 @@
-as yet unclassified
+keystrokes
 specialKeyPressed: asciiValue
 	"A special key with the given ascii-value was pressed; dispatch it"
 	

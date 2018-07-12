@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 getCurrentSelectionIndex
 	"Answer the index of the current selection."
 

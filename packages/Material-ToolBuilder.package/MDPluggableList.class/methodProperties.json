@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"clearFilterAutomatically" : "CG 7/11/2018 18:03",
+		"clearFilterAutomatically" : "LS 7/12/2018 11:53",
 		"clearFilterAutomatically:" : "CG 7/11/2018 18:03",
 		"on:list:selected:changeSelected:menu:keystroke:" : "CG 7/11/2018 18:03",
 		"toolIconsToMaterialIcons" : "mats 7/10/2018 14:29" },
@@ -58,7 +58,9 @@
 		"model:" : "mats 7/10/2018 11:07",
 		"modifierKeyPressed:" : "CG 7/11/2018 17:56",
 		"mouseDown:" : "mats 7/9/2018 16:43",
+		"mouseEnter:" : "LS 7/12/2018 11:45",
 		"mouseEnterDragging:" : "CG 7/11/2018 17:56",
+		"mouseLeave:" : "LS 7/12/2018 11:37",
 		"mouseLeaveDragging:" : "CG 7/11/2018 17:56",
 		"mouseMove:" : "CG 7/11/2018 17:56",
 		"numSelectionsInView" : "mats 7/10/2018 11:33",

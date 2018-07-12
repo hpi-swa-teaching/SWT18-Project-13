@@ -1,4 +1,4 @@
-as yet unclassified
+keystrokes
 initForKeystrokes
 
 	self lastKeystrokeTime: 0.

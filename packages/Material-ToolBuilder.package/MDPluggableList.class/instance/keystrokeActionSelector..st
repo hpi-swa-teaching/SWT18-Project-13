@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 keystrokeActionSelector: keyActionSel
 	"Set the keystroke action selector as specified"
 

@@ -1,4 +1,4 @@
-as yet unclassified
+keystrokes
 commandKeyTypedIntoMenu: evt
 	"The user typed a command-key into a menu which has me as its command-key handler"
 

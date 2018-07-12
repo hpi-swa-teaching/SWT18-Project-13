@@ -1,4 +1,4 @@
-as yet unclassified
+keystrokes
 modifierKeyPressed: aChar 
 
 	| args |
