@@ -1,4 +1,4 @@
-as yet unclassified
+mock object helper methods
 updateAllMockObjects
 
 	self

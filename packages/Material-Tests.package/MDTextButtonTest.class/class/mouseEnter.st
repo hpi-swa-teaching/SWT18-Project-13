@@ -1,5 +1,5 @@
 forms
-mouseEntered
+mouseEnter
 	
 	^ '(Form
 	extent: 65@36

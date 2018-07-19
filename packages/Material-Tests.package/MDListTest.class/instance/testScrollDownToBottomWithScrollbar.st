@@ -1,4 +1,4 @@
 testing
 testScrollDownToBottomWithScrollbar
 	
-	self testEquality: self listWithScrollbarScrolledDownToBottom with: self class listWithScrollbarScrolledDownToBottom
+	self testEquality: self listWithScrollbarScrolledDownToBottomWidget with: self class listWithScrollbarScrolledDownToBottom

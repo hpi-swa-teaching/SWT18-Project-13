@@ -1,4 +1,6 @@
 testing
 testScrollDownToBottom
 	
-	self testEquality: self listScrolledDownToBottom with: self class listScrolledDownToBottom
+	self 
+		testEquality: self listScrolledDownToBottomWidget
+		with: self class listScrolledDownToBottom

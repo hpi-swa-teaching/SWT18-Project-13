@@ -1,4 +1,4 @@
-forms
+mock object helper methods
 updateMouseEnteredCascadeMockObject
 
 	| menu |

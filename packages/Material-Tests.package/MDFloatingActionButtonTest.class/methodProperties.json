@@ -1,19 +1,20 @@
 {
 	"class" : {
-		"alternativeBackgroundColor" : "mats 6/13/2018 10:28",
-		"alternativeText" : "mats 6/13/2018 10:28",
+		"alternativeBackgroundColor" : "LS 7/19/2018 16:18",
+		"alternativeText" : "LS 7/19/2018 16:18",
 		"classToTest" : "mats 6/13/2018 10:18",
-		"disabled" : "mats 6/13/2018 10:33",
-		"enabled" : "mats 6/13/2018 10:33",
-		"mouseEntered" : "mats 6/13/2018 10:28",
-		"rippleWithFactor0_25" : "mats 7/11/2018 19:43",
-		"rippleWithFactor0_5" : "mats 7/11/2018 19:43",
-		"rippleWithFactor0_75" : "mats 7/11/2018 19:43",
-		"rippleWithFactor1" : "mats 7/11/2018 19:43",
+		"disabled" : "LS 7/19/2018 16:18",
+		"enabled" : "LS 7/19/2018 16:18",
+		"mouseEnter" : "LS 7/19/2018 16:18",
+		"rippleWithFactor0_25" : "LS 7/19/2018 16:18",
+		"rippleWithFactor0_5" : "LS 7/19/2018 16:18",
+		"rippleWithFactor0_75" : "LS 7/19/2018 16:18",
+		"rippleWithFactor1" : "LS 7/19/2018 16:18",
 		"tests" : "mats 7/11/2018 19:44" },
 	"instance" : {
 		"testAlternativeBackgroundColor" : "LS 7/19/2018 14:06",
 		"testDisable" : "LS 7/19/2018 14:08",
 		"testDisableAndEnable" : "LS 7/19/2018 14:16",
 		"testEnabled" : "LS 7/19/2018 14:18",
-		"testRipples" : "mats 7/11/2018 19:04" } }
+		"testMouseEnter" : "LS 7/19/2018 14:43",
+		"testRipples" : "LS 7/19/2018 14:41" } }

@@ -1,5 +1,5 @@
 forms
-toggled
+toggleOn
 	
 	^ '(Form
 	extent: 96@36

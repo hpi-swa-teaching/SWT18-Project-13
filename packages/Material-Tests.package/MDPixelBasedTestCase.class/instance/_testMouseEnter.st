@@ -1,4 +1,4 @@
 tests
 _testMouseEnter
 
-	self testEquality: self mouseEnterWidget with: self class mouseEntered
+	self testEquality: self mouseEnterWidget with: self class mouseEnter
