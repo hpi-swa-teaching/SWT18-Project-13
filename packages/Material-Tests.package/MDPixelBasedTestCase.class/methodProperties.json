@@ -21,6 +21,7 @@
 		"updateToggledMockObject" : "LS 6/21/2018 20:27" },
 	"instance" : {
 		"classToTest" : "mats 6/13/2018 10:18",
+		"enabled" : "LS 7/19/2018 12:35",
 		"objectToTest" : "LS 6/18/2018 10:30",
 		"performRippleSimulationOn:withScaleFactor:" : "mats 7/11/2018 18:20",
 		"renderOnFormString:" : "mats 6/19/2018 15:12",

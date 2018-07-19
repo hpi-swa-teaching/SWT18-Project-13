@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "LS 6/11/2018 10:13",
+	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "MDRenderingTest",
+	"name" : "MDRenderingButtonPerformanceTest",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "MDRenderingPerformanceTest",
 	"type" : "normal" }

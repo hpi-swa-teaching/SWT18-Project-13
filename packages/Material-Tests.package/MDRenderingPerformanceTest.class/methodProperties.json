@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"calculateAvgMaxAndMinRenderingTime:" : "CG 7/1/2018 12:19",
+		"calculateAvgMaxAndMinRenderingTime:" : "LS 7/19/2018 12:30",
 		"makeNumberPrintable:" : "mats 5/29/2018 17:43",
 		"maxRenderingDurationFactor" : "mats 6/10/2018 16:09",
 		"renderingTimeUnit" : "CG 7/1/2018 12:20",
@@ -8,9 +8,4 @@
 	"instance" : {
 		"calculateMaxRenderingDurationForTest:forWidget:" : "mats 5/29/2018 17:57",
 		"render:times:" : "CG 6/30/2018 12:08",
-		"renderingPerformanceCheckBlockFor:withRenderer:" : "CG 6/30/2018 12:08",
-		"testAlternativeBackgroundColorRenderingPerformance" : "mats 5/29/2018 18:23",
-		"testAlternativeTextRenderingPerformance" : "mats 5/29/2018 18:23",
-		"testDefaultRenderingPerformance" : "JW 6/11/2018 23:55",
-		"testDisableRenderingPerformance" : "mats 5/29/2018 18:23",
-		"testMouseEventRenderingPerformance" : "mats 5/29/2018 18:23" } }
+		"renderingPerformanceCheckBlockFor:" : "LS 7/19/2018 12:24" } }

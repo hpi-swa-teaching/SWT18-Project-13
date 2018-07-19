@@ -1,13 +1,12 @@
 helper methods
 calculateAvgMaxAndMinRenderingTime: aMDWidget
 
-	| aCollection renderer  |
+	| aCollection  |
 	aCollection := OrderedCollection new.
-	renderer := MDRenderingTest new.
 	
 	1 to: 100 do: [ :num |
 		| duration |
-		duration := [renderer render: aMDWidget times: 100] timeToRun.
+		duration := [self new render: aMDWidget times: 100] timeToRun.
 		aCollection add: duration].
 	
 	Transcript show: '-----------------------------------', Character cr.

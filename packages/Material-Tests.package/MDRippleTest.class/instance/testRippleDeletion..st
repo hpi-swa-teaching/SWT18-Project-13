@@ -16,5 +16,5 @@ testRippleDeletion: aMDWidget
 		startAnimation;
 		finishedAnimation.
 
-	(Delay forMilliseconds: 100) wait. "ensure that deletion of ripple was scheduled"
+	(Delay forMilliseconds: 500) wait. "ensure that deletion of ripple was scheduled"
 	self assert: aMDWidget ripples isEmpty

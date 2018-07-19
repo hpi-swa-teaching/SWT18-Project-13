@@ -1,8 +1,8 @@
 tests
-renderingPerformanceCheckBlockFor: aSymbol withRenderer: aRenderer
+renderingPerformanceCheckBlockFor: aSymbol
 
-	^ [:widget :mockObject |
+	^ [:widget |
 		| duration |
-		duration := [aRenderer render: widget times: 100] timeToRun.
+		duration := [self render: widget times: 100] timeToRun.
 		Transcript show: widget className, ': ', (self class makeNumberPrintable: duration), Character cr.
 		self assert: duration <= (self calculateMaxRenderingDurationForTest: aSymbol forWidget: widget)]
