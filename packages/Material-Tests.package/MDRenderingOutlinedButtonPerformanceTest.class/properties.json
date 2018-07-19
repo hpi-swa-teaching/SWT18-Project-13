@@ -3,12 +3,12 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"RenderingTimeUnit" ],
-	"commentStamp" : "LS 6/11/2018 10:12",
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "MDRenderingPerformanceTest",
+	"name" : "MDRenderingOutlinedButtonPerformanceTest",
 	"pools" : [
 		 ],
-	"super" : "MDTestCase",
+	"super" : "MDRenderingPerformanceTest",
 	"type" : "normal" }

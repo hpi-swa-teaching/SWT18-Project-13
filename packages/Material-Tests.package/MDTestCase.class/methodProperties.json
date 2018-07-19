@@ -2,8 +2,21 @@
 	"class" : {
 		"classToTest" : "LS 7/19/2018 16:33" },
 	"instance" : {
+		"alternativeBackgroundColorWidget" : "LS 7/19/2018 14:14",
+		"alternativeTextWidget" : "LS 7/19/2018 13:48",
+		"disabledAndEnabledWidget" : "LS 7/19/2018 14:16",
+		"disabledWidget" : "LS 7/19/2018 14:10",
+		"enabledWidget" : "LS 7/19/2018 13:39",
+		"mouseDownWidget" : "LS 7/19/2018 13:49",
+		"mouseEnterAndLeaveWidget" : "LS 7/19/2018 13:49",
+		"mouseEnterWhenToggledWidget" : "LS 7/19/2018 13:53",
+		"mouseEnterWidget" : "LS 7/19/2018 13:38",
+		"objectToTest" : "LS 7/19/2018 16:55",
 		"performMouseDownOn:" : "mats 7/11/2018 21:06",
 		"performMouseEnterOn:" : "mats 7/11/2018 21:06",
 		"performMouseLeaveOn:" : "mats 7/11/2018 21:07",
+		"setUp" : "LS 7/19/2018 16:54",
+		"toggleOnAndOffWidget" : "LS 7/19/2018 13:52",
+		"toggleOnWidget" : "LS 7/19/2018 14:17",
 		"widget" : "LS 7/19/2018 16:33",
 		"widget:" : "LS 7/19/2018 16:33" } }

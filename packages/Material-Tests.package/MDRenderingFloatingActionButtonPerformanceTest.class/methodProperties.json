@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"classToTest" : "LS 7/19/2018 17:06" },
+	"instance" : {
+		"testAlternativeBackgroundColorRenderingPerformance" : "LS 7/19/2018 17:08",
+		"testDisabledRenderingPerformance" : "LS 7/19/2018 17:07",
+		"testEnabledRenderingPerformance" : "LS 7/19/2018 17:06" } }

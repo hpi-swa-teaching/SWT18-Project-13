@@ -1,0 +1,4 @@
+tests
+testMouseEnterRenderingPerformance
+
+	self _testMouseEnterRenderingPerformance

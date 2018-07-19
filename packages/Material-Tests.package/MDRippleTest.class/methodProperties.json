@@ -3,6 +3,4 @@
 		 },
 	"instance" : {
 		"_testRippleDeletion" : "LS 7/19/2018 16:30",
-		"_testRippleInitialization" : "LS 7/19/2018 16:31",
-		"objectToTest" : "mats 7/11/2018 21:11",
-		"setUp" : "mats 7/11/2018 21:14" } }
+		"_testRippleInitialization" : "LS 7/19/2018 16:31" } }

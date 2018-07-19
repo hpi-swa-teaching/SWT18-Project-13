@@ -1,0 +1,4 @@
+tests
+testAlternativeTextRenderingPerformance
+
+	self _testAlternativeTextRenderingPerformance
