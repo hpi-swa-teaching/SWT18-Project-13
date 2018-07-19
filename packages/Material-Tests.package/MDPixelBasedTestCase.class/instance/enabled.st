@@ -1,4 +1,0 @@
-testing
-enabled
-
-	^ self widget

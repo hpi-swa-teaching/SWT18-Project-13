@@ -2,5 +2,5 @@ forms
 updateScrolledToBottomWithScrollbarMockObject
 	
 	| test |
-	test := self new setUp.
+	test := self new.
 	self renderFormString: test listWithScrollbarScrolledDownToBottom andStoreWithName: 'listWithScrollbarScrolledDownToBottom'

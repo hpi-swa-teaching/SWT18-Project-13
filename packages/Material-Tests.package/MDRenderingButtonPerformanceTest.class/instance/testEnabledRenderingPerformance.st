@@ -3,5 +3,5 @@ testEnabledRenderingPerformance
 
 	| widget |
 	Transcript show: Character cr asString, 'Default Rendering Performance', Character cr.
-	widget := MDContainedButtonTest enabled.
+	widget := MDContainedButtonTest new enabledWidget.
 	self renderingPerformanceCheckBlockFor: #default

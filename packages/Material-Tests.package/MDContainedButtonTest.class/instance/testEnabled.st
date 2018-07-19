@@ -1,4 +1,4 @@
 testing
 testEnabled
 	
-	self testEnabled: self enabled
+	self testEnabled: self enabledWidget
