@@ -1,3 +1,4 @@
 accessing
 askBeforeChanging
-	^ askBeforeChanging ifNil: [ askBeforeChanging := false]
+
+	^ askBeforeChanging ifNil: [askBeforeChanging := false]

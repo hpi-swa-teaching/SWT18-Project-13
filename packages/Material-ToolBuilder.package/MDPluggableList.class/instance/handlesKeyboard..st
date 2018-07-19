@@ -1,0 +1,4 @@
+keystrokes
+handlesKeyboard: evt
+
+	^ true

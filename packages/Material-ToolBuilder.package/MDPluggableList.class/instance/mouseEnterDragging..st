@@ -10,4 +10,4 @@ mouseEnterDragging: evt
 			evt hand newMouseFocus: self.
 			self changed.
 			"above is ugly but necessary for now"
-		].
+		]

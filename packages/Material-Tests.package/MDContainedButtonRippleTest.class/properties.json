@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MDContainedButtonRippleTest",
+	"pools" : [
+		 ],
+	"super" : "MDRippleTest",
+	"type" : "normal" }

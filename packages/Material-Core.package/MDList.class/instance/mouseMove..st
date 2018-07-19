@@ -9,5 +9,5 @@ mouseMove: evt
 	self filteredListItems ifNotEmpty: [
 		self forVisibleItemIndicesDo: [:each |
 			each = item 
-				ifTrue: [(self filteredListItems at: each) mouseEnter: mouseEvent]
-				ifFalse: [(self filteredListItems at: each) mouseLeave: mouseEvent]]]
+				ifTrue: [self ifInBounds: each do: [:listItem | listItem mouseEnter: mouseEvent]]
+				ifFalse: [self ifInBounds: each do: [:listItem | listItem mouseLeave: mouseEvent]]]]

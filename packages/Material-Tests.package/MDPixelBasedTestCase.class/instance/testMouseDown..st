@@ -1,4 +1,5 @@
 testing
 testMouseDown: aMDWidget
 
-	self testMouseDown: aMDWidget with: self class mouseDown
+	self performMouseDownOn: aMDWidget.
+	self testEquality: aMDWidget with: self class mouseDown

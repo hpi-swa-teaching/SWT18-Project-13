@@ -15,4 +15,4 @@ update: anObject
 
 	self updateMap ifNotNil:
 		[(self updateMap at: anObject ifAbsent: [])
-			ifNotNil: [ :newTarget | self update: newTarget]].
+			ifNotNil: [ :newTarget | self update: newTarget]]

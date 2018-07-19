@@ -12,9 +12,10 @@ initializeNewContact
 		beSticky.
 	label := MDLabel contents: 'New Contact' fontTag: #H5.
 	self newContact position: (self bounds corner x + 50) @ 100.
-		label position: 40@10 + self newContact position.
+		label position: 40 @ 10 + self newContact position.
 	self newContact addMorph: label.
-	self initializeTextField.
-	self initializeTextFieldSurname.
-	self initializeTextFieldPhoneNumber.
-	self initializeContactButtonAdd.
+	self 
+		initializeTextField;
+		initializeTextFieldSurname;
+		initializeTextFieldPhoneNumber;
+		initializeContactButtonAdd

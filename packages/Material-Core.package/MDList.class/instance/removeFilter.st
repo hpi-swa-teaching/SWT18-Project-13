@@ -1,0 +1,4 @@
+filtering
+removeFilter 
+
+	self filterList: ''

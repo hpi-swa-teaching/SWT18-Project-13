@@ -3,16 +3,15 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"ClearFilterAutomatically" ],
 	"commentStamp" : "",
 	"instvars" : [
 		"model",
-		"list",
+		"getListSelector",
 		"listCollection",
 		"selected",
 		"changeSelected",
 		"menu",
-		"keystroke",
 		"autoDeselect",
 		"doubleClickSelector",
 		"getHelpSelector",
@@ -20,7 +19,13 @@
 		"getListElementSelector",
 		"getListSizeSelector",
 		"keystrokePreviewSelector",
-		"potentialDropRow" ],
+		"potentialDropRow",
+		"lastKeystrokeTime",
+		"priorSelection",
+		"keystrokeActionSelector",
+		"handlesBasicKeys",
+		"getMenuTitleSelector",
+		"clearFilterAutomatically" ],
 	"name" : "MDPluggableList",
 	"pools" : [
 		 ],

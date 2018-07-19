@@ -1,4 +1,0 @@
-properties
-fadeOutDuration
-
-	^ 200

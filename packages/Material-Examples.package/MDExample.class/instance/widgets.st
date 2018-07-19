@@ -1,3 +1,4 @@
 accessing
 widgets
-	^ widgets ifNil: [ widgets := #() asOrderedCollection ]
+
+	^ widgets ifNil: [widgets := #() asOrderedCollection]

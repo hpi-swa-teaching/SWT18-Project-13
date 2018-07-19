@@ -2,4 +2,4 @@ event handling
 sortListItems
 
 	self list listItems sort: [:x :y | (x text string) < (y text string)].
-	self list changed.
+	self list changed

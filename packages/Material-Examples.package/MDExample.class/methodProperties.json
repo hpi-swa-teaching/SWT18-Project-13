@@ -5,13 +5,13 @@
 		"defaultWidth" : "LS 6/11/2018 10:35",
 		"open" : "LS 6/5/2018 16:18",
 		"padding" : "mats 5/21/2018 16:53",
-		"widgetPadding" : "mats 5/21/2018 16:41" },
+		"widgetPadding" : "CG 7/11/2018 17:30" },
 	"instance" : {
-		"addWidget:" : "LS 5/24/2018 10:21",
+		"addWidget:" : "CG 7/11/2018 17:17",
 		"initialize" : "mats 6/13/2018 10:44",
-		"itemsPerRow" : "CG 5/31/2018 09:40",
-		"itemsPerRow:" : "CG 5/31/2018 09:40",
+		"itemsPerRow" : "CG 7/11/2018 17:17",
+		"itemsPerRow:" : "CG 7/11/2018 17:17",
 		"maxHeight" : "mats 6/13/2018 10:45",
 		"maxHeight:" : "mats 6/13/2018 10:45",
-		"widgets" : "CG 5/31/2018 09:40",
-		"widgets:" : "CG 5/31/2018 09:40" } }
+		"widgets" : "CG 7/11/2018 17:18",
+		"widgets:" : "CG 7/11/2018 17:18" } }

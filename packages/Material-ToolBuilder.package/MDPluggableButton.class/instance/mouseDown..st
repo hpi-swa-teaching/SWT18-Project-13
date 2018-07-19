@@ -8,4 +8,4 @@ mouseDown: evt
 		ifTrue: [super mouseDown: evt]
 		ifFalse: [
 			self allButtons: (owner submorphs select: [:m | m class = self class]).
-			super mouseDown: evt].
+			super mouseDown: evt]

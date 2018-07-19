@@ -10,4 +10,4 @@ mouseUp: evt
 						ifNotNil:[m toggleOn]]
 			ifFalse: [m toggleOff]].
 	self allButtons: nil.
-	self changed.
+	self changed

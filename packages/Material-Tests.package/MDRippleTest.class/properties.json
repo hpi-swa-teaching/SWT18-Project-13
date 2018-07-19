@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"widget" ],
+	"name" : "MDRippleTest",
+	"pools" : [
+		 ],
+	"super" : "MDTestCase",
+	"type" : "normal" }

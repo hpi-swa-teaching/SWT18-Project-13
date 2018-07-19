@@ -8,4 +8,4 @@ initialize
 		addButtons: MDContainedButton;
 		addButtons: MDOutlinedButton;
 		addFloatingActionButtons;
-		adjustButtons.
+		adjustButtons

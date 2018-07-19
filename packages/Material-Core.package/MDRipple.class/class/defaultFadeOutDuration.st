@@ -1,0 +1,4 @@
+properties
+defaultFadeOutDuration
+
+	^ 200

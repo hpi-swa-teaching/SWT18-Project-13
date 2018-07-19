@@ -1,5 +1,6 @@
 accessing
 contents: aString 
+
 	| newContents |
 	aString isString ifTrue: [
 		(self alwaysUppercase)

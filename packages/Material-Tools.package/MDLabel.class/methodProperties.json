@@ -5,10 +5,10 @@
 		"contents:fontTag:alwaysUppercase:" : "JW 6/8/2018 15:54",
 		"fontFamilies" : "JW 6/8/2018 14:53",
 		"fontSizes" : "JW 6/8/2018 14:54",
-		"loadDefaultFontWithSize:" : "JW 6/8/2018 14:52",
-		"loadFontWithFontTag:" : "JW 6/8/2018 14:52" },
+		"loadDefaultFontWithSize:" : "CG 7/11/2018 17:32",
+		"loadFontWithFontTag:" : "CG 7/11/2018 17:33" },
 	"instance" : {
-		"alwaysUppercase" : "JW 6/8/2018 15:54",
-		"alwaysUppercase:" : "JW 6/8/2018 15:54",
-		"contents:" : "LS 6/14/2018 14:57",
+		"alwaysUppercase" : "CG 7/11/2018 17:31",
+		"alwaysUppercase:" : "CG 7/11/2018 17:31",
+		"contents:" : "CG 7/11/2018 17:31",
 		"findString:startingAt:caseSensitive:" : "LS 6/26/2018 17:17" } }

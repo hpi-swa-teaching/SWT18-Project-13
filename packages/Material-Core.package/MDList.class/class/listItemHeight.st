@@ -1,4 +1,4 @@
 as yet unclassified
 listItemHeight
 
-	^ 48
+	^ MDListItem defaultHeight

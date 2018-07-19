@@ -1,4 +1,5 @@
 accessing
 getStateSelector: anObject
+
 	getStateSelector := anObject.
-	self update: self getStateSelector.
+	self update: self getStateSelector

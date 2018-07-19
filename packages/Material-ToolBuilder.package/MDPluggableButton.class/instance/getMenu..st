@@ -13,4 +13,5 @@ getMenu: shiftPressed
 				perform: self getMenuSelector
 				with: menu
 				with: shiftPressed].
+			
 	^self error: 'The getMenuSelector must be a 1- or 2-keyword symbol'

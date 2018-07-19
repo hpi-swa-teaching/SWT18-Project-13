@@ -1,0 +1,4 @@
+accessing
+priorSelection
+
+	^ priorSelection

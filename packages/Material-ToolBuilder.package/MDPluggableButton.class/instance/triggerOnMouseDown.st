@@ -1,3 +1,4 @@
 accessing
 triggerOnMouseDown
-	^ triggerOnMouseDown ifNil: [ triggerOnMouseDown := false ]
+
+	^ triggerOnMouseDown ifNil: [triggerOnMouseDown := false]

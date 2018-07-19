@@ -1,3 +1,4 @@
 accessing
 infoDialog
+
 	^ infoDialog

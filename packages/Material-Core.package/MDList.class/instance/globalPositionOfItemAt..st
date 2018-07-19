@@ -1,4 +1,4 @@
 drawing
-globalPositionOfItemAt: aNum
+globalPositionOfItemAt: aRow
 	
-	^ self globalPositionOfFirstVisibleItem + (self relativePositionOfItemAt: aNum)
+	^ self globalPositionOfFirstVisibleItem + (self relativePositionOfItemAt: aRow)

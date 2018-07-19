@@ -14,6 +14,6 @@ initializeTextFieldSurname
 										ifFalse:
 											[self textFieldSurname helper contents: 'The name is to long!'.
 											 self textFieldSurname helper color: Color red]].
-	self textFieldSurname position: ((self textfield position x)@(170 + self newContact position y)).
+	self textFieldSurname position: ((self textfield position x) @ (170 + self newContact position y)).
 	self textFieldSurname width: 200.
 	self newContact addMorphBack: self textFieldSurname

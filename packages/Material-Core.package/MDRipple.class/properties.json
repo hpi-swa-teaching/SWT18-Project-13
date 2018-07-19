@@ -9,6 +9,7 @@
 		"scaleFactor",
 		"center",
 		"duration",
+		"fadeOutDuration",
 		"clickableMorph",
 		"isAnimationRunning",
 		"colorAlpha" ],

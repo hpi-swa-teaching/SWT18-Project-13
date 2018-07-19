@@ -18,5 +18,5 @@ initializeMenu
 	self menuButton
 		text: 'Menu';
 		icon: #ic_menu;
-		position: 40@25 + self position. .
+		position: 40 @ 25 + self position. .
 	self addMorphBack: self menuButton

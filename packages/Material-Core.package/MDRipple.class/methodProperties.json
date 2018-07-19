@@ -2,7 +2,7 @@
 	"class" : {
 		"defaultAnimationDuration" : "mats 5/18/2018 11:22",
 		"defaultColorAlpha" : "mats 5/21/2018 14:54",
-		"fadeOutDuration" : "mats 5/18/2018 11:19",
+		"defaultFadeOutDuration" : "mats 7/11/2018 21:28",
 		"newWithCenter:on:" : "mats 5/4/2018 11:26" },
 	"instance" : {
 		"calculateSize" : "mats 6/1/2018 11:58",
@@ -15,7 +15,9 @@
 		"drawOn:" : "CG 7/1/2018 12:21",
 		"duration" : "CG 6/30/2018 12:12",
 		"duration:" : "CG 6/30/2018 12:13",
-		"fadeOutWithFinishBlock:" : "CG 5/31/2018 10:13",
+		"fadeOutDuration" : "mats 7/11/2018 21:28",
+		"fadeOutDuration:" : "mats 7/11/2018 21:28",
+		"fadeOutWithFinishBlock:" : "mats 7/11/2018 21:29",
 		"fillArea" : "LS 5/29/2018 09:32",
 		"finishedAnimation" : "mats 5/3/2018 22:26",
 		"isAnimationRunning" : "CG 6/30/2018 12:13",
