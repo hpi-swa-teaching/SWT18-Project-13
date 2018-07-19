@@ -5,6 +5,6 @@ updateAllMockObjects
 	(self tests at: #disabled) 					 ifTrue: [self updateDisabledMockObject].
 	(self tests at: #alternativeText) 				 ifTrue: [self updateAlternativeTextMockObject].
 	(self tests at: #alternativeBackgroundColor) ifTrue: [self updateAlternativeBackgroundColorMockObject].
-	(self tests at: #mouseEnter) 				 ifTrue: [self updateMouseEnteredMockObject].
+	(self tests at: #mouseEnter) 				 ifTrue: [self updateMouseEnterMockObject].
 	(self tests at: #toggleOn) 				 	 ifTrue: [self updateToggleOnMockObject].
 	(self tests at: #ripples) 				 		 ifTrue: [self updateRippleMockObjects]

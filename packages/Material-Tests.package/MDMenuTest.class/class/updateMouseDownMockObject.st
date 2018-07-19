@@ -1,7 +1,6 @@
 mock object helper methods
 updateMouseDownMockObject
 
-	| menu |
-	menu := self new objectToTest.
-	self new performMouseDownOn: (menu items at: 1).
-	self renderFormString: menu andStoreWithName: 'mouseDown'
+	self
+		renderFormString: self new mouseDownWidget
+		andStoreWithName: 'mouseDown'

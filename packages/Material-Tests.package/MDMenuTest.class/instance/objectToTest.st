@@ -1,4 +1,4 @@
-testing
+accessing
 objectToTest
 
 	| menu |
@@ -7,7 +7,7 @@ objectToTest
 		add: 'Workspace'  target: [Workspace open];
 		add: 'Transcript'  target: [Transcript open];
 		add: 'Save' icon: #ic_save target: [Smalltalk saveSession];
-		addCascade: 'Cascade' menu: self testCascadeMenu;
+		addCascade: 'Cascade' menu: self cascadeMenuWidget;
 		updateBounds.
 	
 	^ menu

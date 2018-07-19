@@ -1,4 +1,4 @@
 as yet unclassified
 testRippleDeletion
 
-	self testRippleDeletion: self widget
+	self _testRippleDeletion

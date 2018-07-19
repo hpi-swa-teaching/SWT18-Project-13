@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 objectToTest
 
 	^ self class classToTest new

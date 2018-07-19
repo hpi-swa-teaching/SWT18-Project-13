@@ -1,5 +1,5 @@
-testing
-testCascadeMenu
+widgets
+cascadeMenuWidget
 
 	| menu |
 	menu := self class classToTest new.

@@ -1,20 +1,20 @@
-accessing
-testRippleDeletion: aMDWidget
+tests
+_testRippleDeletion
 
 	| ripple |
 	ripple := MDRipple new
 				center: 0@0;
-				clickableMorph: aMDWidget;
+				clickableMorph: self widget;
 				duration: 0;
 				fadeOutDuration: 0;
 				yourself.
 	
-	aMDWidget removeAllRipples.
-	aMDWidget ripples add: ripple.
+	self widget removeAllRipples.
+	self widget ripples add: ripple.
 	
 	ripple
 		startAnimation;
 		finishedAnimation.
 
 	(Delay forMilliseconds: 500) wait. "ensure that deletion of ripple was scheduled"
-	self assert: aMDWidget ripples isEmpty
+	self assert: self widget ripples isEmpty

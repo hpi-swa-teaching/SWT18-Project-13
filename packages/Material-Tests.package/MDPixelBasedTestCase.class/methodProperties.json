@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"classToTest" : "mats 6/13/2018 10:13",
+		"classToTest" : "LS 7/19/2018 16:34",
 		"compareForm:toForm:" : "mats 6/19/2018 12:28",
 		"compareWidget:toForm:" : "JW 6/16/2018 13:58",
 		"convertToForm:" : "mats 6/13/2018 09:34",
@@ -10,12 +10,12 @@
 		"printableFromScaleFactor:" : "mats 7/11/2018 19:40",
 		"renderFormString:andStoreWithName:" : "mats 6/13/2018 09:44",
 		"tests" : "LS 7/19/2018 15:40",
-		"updateAllMockObjects" : "LS 7/19/2018 14:44",
+		"updateAllMockObjects" : "LS 7/19/2018 16:45",
 		"updateAlternativeBackgroundColorMockObject" : "LS 7/19/2018 14:45",
 		"updateAlternativeTextMockObject" : "LS 7/19/2018 14:49",
 		"updateDisabledMockObject" : "LS 7/19/2018 14:46",
 		"updateEnabledMockObject" : "LS 7/19/2018 14:49",
-		"updateMouseEnteredMockObject" : "LS 7/19/2018 14:49",
+		"updateMouseEnterMockObject" : "LS 7/19/2018 16:45",
 		"updateRippleMockObjectForScaleFactor:" : "mats 7/11/2018 19:40",
 		"updateRippleMockObjects" : "mats 7/11/2018 19:42",
 		"updateSubclassesMockObjects" : "LS 7/19/2018 14:54",
@@ -52,6 +52,4 @@
 		"testEquality:with:" : "LS 6/28/2018 17:42",
 		"testRipple:withScalingFactor:andMockObject:" : "mats 7/11/2018 19:03",
 		"toggleOnAndOffWidget" : "LS 7/19/2018 13:52",
-		"toggleOnWidget" : "LS 7/19/2018 14:17",
-		"widget" : "CG 6/30/2018 12:00",
-		"widget:" : "CG 6/30/2018 12:00" } }
+		"toggleOnWidget" : "LS 7/19/2018 14:17" } }

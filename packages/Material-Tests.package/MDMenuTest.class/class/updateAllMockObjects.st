@@ -3,5 +3,5 @@ updateAllMockObjects
 
 	self updateEnabledMockObject.
 	self updateMouseDownMockObject.
-	self updateMouseEnteredMockObject.
-	self updateMouseEnteredCascadeMockObject
+	self updateMouseEnterMockObject.
+	self updateMouseEnterOnCascadeItemMockObject
