@@ -2,6 +2,5 @@ mock object helper methods
 updateAlternativeTextMockObject
 
 	| widget |
-	widget := self new objectToTest.
-	self new setAlternativeText: widget.
+	widget := self new alternativeTextWidget.
 	self renderFormString: widget andStoreWithName: 'alternativeText'

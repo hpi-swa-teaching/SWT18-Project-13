@@ -1,4 +1,4 @@
 testing
 testMouseEnterWhenToggled
 
-	self testMouseEnterWhenToggled: self widget
+	self _testMouseEnterWhenToggled

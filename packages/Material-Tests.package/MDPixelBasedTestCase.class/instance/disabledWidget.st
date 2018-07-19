@@ -1,4 +1,5 @@
 widgets
 disabledWidget
 
-	^ self widget disable
+	self widget disable.
+	^ self widget

@@ -1,4 +1,4 @@
 testing
 testAlternativeBackgroundColor
 	
-	self testEquality: self alternativeBackgroundColorWidget with: self class alternativeBackgroundColor 
+	self _testAlternativeBackgroundColor

@@ -1,4 +1,5 @@
 testing
 testToggled
 
-	self testToggled: self classToTest new
+	self _testToggleOn
+	

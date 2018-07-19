@@ -1,4 +1,4 @@
 testing
 testDisable
 	
-	self testDisable: self widget
+	self _testDisable

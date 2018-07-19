@@ -1,6 +1,7 @@
 widgets
 toggleOnWidget
 
-	^ self widget toggleOn
+	self widget toggleOn.
+	^ self widget
 
 	
