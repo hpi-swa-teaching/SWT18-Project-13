@@ -1,1 +1,1 @@
-I am the base class for all Material Design widgets
+I am the base class for all Material Design widgets.

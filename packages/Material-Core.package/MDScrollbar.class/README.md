@@ -1,1 +1,1 @@
-I am a scrollbar which fades out after a defined period.
+I am a scrollbar which appears when the user scrolls and fades out after a defined period.

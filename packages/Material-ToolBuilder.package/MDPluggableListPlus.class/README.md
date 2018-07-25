@@ -1,0 +1,1 @@
+I am a pluggable empty list which allows drag and drop.

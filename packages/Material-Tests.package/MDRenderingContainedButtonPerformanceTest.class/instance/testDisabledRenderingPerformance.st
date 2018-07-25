@@ -1,0 +1,4 @@
+tests
+testDisabledRenderingPerformance
+
+	self _testDisabledRenderingPerformance

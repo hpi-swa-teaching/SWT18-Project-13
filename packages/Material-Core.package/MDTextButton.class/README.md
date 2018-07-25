@@ -1,1 +1,1 @@
-I am a special button as I follow the material design guidelines of a "Flat Button"
+I am a special button as I follow the material design guidelines of a "Text Button", which means the user can only see my Text label.

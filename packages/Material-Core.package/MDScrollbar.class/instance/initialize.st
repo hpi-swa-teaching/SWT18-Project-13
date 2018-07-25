@@ -5,8 +5,8 @@ initialize
 	
 	self 
 		visible: false;
-		width: 10;
-		height: 20;
+		width: self class defaultWidth;
+		height: self class defaultHeight ;
 		backgroundColor: self class defaultBackgroundColor;
-		borderRadius: 5;
-		position: -10 @ 0
+		borderRadius: self class defaultBorderRadius;
+		position: self class defaultPosition

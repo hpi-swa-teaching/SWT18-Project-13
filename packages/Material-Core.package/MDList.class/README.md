@@ -1,1 +1,1 @@
-I am a list following the material guidelines
+I am a list following the material guidelines.

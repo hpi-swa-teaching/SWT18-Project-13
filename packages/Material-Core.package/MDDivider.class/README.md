@@ -1,1 +1,1 @@
-I am a line, that can be used to divide groups of items in a MDList or a MDMenu
+I am a line, that can be used to divide groups of items in a MDList or a MDMenu.

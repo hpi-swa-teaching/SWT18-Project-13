@@ -1,1 +1,1 @@
-I am a special button as I follow the material design guidelines of a "Raised Button"
+I am a special button as I follow the material design guidelines of a "Contained Button", which means I have a container around my text label which is color filled.

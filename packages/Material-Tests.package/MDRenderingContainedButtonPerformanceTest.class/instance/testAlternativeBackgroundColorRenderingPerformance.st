@@ -1,0 +1,4 @@
+tests
+testAlternativeBackgroundColorRenderingPerformance
+
+	self _testAlternativeBackgroundColorRenderingPerformance

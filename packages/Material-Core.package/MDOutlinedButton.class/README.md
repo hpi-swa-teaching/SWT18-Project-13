@@ -1,1 +1,1 @@
-I am a special button as I follow the material design guidelines of a "Outlined Button".
+I am a special button as I follow the material design guidelines of a "Outlined Button", which means I have a stroke around my text label.

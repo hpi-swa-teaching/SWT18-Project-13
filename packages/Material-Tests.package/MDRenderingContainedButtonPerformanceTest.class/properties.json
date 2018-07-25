@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MDRenderingContainedButtonPerformanceTest",
+	"pools" : [
+		 ],
+	"super" : "MDRenderingPerformanceTest",
+	"type" : "normal" }

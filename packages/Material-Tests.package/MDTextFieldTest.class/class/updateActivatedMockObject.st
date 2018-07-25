@@ -1,6 +1,6 @@
-testing
+mock object helper methods
 updateActivatedMockObject
 
-	| widget |
-	widget := self classToTest new activate.
-	self renderFormString: widget andStoreWithName: 'activated'
+	self
+		renderFormString: self new widget activate
+		andStoreWithName: 'activated'

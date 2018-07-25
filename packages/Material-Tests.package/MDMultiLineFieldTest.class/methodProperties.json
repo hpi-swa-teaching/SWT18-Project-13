@@ -1,9 +1,9 @@
 {
 	"class" : {
-		"activated" : "JW 6/16/2018 14:07",
+		"activated" : "LS 7/19/2018 16:45",
 		"classToTest" : "JW 6/16/2018 14:07",
-		"deactivated" : "JW 6/16/2018 14:07" },
+		"deactivated" : "LS 7/19/2018 16:45" },
 	"instance" : {
-		"testAcitivate" : "JW 6/16/2018 14:08",
-		"testAcitivateAndDeactivate" : "JW 6/16/2018 14:08",
-		"testDeactivated" : "JW 6/16/2018 14:08" } }
+		"testActivate" : "LS 7/19/2018 16:26",
+		"testActivateAndDeactivate" : "LS 7/19/2018 16:27",
+		"testDeactivated" : "LS 7/19/2018 16:26" } }

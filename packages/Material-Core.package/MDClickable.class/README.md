@@ -1,1 +1,1 @@
-I am a widget which is clickable and reacts to user input if I am not disabled.
+I am a widget which is clickable and react to user input if I am not disabled.

@@ -1,4 +1,4 @@
 testing
 testAlternativeText
 	
-	self testAlternativeText: self widget
+	self _testAlternativeText

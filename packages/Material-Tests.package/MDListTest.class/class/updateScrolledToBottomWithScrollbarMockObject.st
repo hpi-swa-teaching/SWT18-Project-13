@@ -1,6 +1,6 @@
-forms
+mock object helper methods
 updateScrolledToBottomWithScrollbarMockObject
-	
-	| test |
-	test := self new setUp.
-	self renderFormString: test listWithScrollbarScrolledDownToBottom andStoreWithName: 'listWithScrollbarScrolledDownToBottom'
+
+	self 
+		renderFormString: self new listWithScrollbarScrolledDownToBottomWidget 
+		andStoreWithName: 'listWithScrollbarScrolledDownToBottom'

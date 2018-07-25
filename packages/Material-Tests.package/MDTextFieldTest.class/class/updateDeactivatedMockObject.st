@@ -1,6 +1,6 @@
-testing
+mock object helper methods
 updateDeactivatedMockObject
 
-	| widget |
-	widget := self classToTest new.
-	self renderFormString: widget andStoreWithName: 'deactivated'
+	self
+		renderFormString: self classToTest new
+		andStoreWithName: 'deactivated'

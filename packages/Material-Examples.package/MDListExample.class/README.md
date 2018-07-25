@@ -1,1 +1,1 @@
-I am a complex example for the MDList.
+I am a complex example for the MDList, which contains more items and icons.

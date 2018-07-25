@@ -1,1 +1,1 @@
-I am a SVGMorph which is transparent by default
+I am a SVGMorph which is transparent by default.

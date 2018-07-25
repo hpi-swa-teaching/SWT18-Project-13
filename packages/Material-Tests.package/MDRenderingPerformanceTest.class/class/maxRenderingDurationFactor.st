@@ -2,7 +2,7 @@ helper methods
 maxRenderingDurationFactor
 
 	^ Dictionary new
-		at: #default put: (Dictionary new
+		at: #enabled put: (Dictionary new
 			at: MDTextButton put: 0.5;
 			at: MDContainedButton put: 0.5;
 			at: MDOutlinedButton put: 0.3;

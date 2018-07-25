@@ -1,10 +1,6 @@
 {
 	"class" : {
-		"classToTest" : "mats 7/11/2018 21:11" },
+		 },
 	"instance" : {
-		"objectToTest" : "mats 7/11/2018 21:11",
-		"setUp" : "mats 7/11/2018 21:14",
-		"testRippleDeletion:" : "mats 7/11/2018 22:39",
-		"testRippleInitialization:" : "mats 7/11/2018 21:17",
-		"widget" : "mats 7/11/2018 21:14",
-		"widget:" : "mats 7/11/2018 21:14" } }
+		"_testRippleDeletion" : "LS 7/19/2018 16:30",
+		"_testRippleInitialization" : "LS 7/19/2018 16:31" } }

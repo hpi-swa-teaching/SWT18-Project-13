@@ -1,4 +1,4 @@
 testing
 testRipples
 
-	self testRipples: self widget
+	self _testRipples

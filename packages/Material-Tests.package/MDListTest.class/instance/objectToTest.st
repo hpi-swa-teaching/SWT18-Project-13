@@ -1,4 +1,0 @@
-testing
-objectToTest
-
-	^ MDBasicListExample new

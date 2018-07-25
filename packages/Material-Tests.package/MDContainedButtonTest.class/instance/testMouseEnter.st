@@ -1,4 +1,4 @@
 testing
 testMouseEnter
 	
-	self testMouseEnter: self widget
+	self _testMouseEnter 

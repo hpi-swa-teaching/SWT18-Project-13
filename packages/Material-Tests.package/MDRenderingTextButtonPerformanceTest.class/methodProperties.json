@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"classToTest" : "LS 7/19/2018 17:05" },
+	"instance" : {
+		"testAlternativeTextRenderingPerformance" : "LS 7/19/2018 17:07",
+		"testDisabledRenderingPerformance" : "LS 7/19/2018 17:07",
+		"testEnabledRenderingPerformance" : "LS 7/19/2018 17:06",
+		"testMouseEnterRenderingPerformance" : "LS 7/19/2018 17:08" } }

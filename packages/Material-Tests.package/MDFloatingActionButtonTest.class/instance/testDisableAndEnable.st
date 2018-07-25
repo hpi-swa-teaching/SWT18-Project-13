@@ -1,4 +1,4 @@
 testing
 testDisableAndEnable
 	
-	self testDisableAndEnable: self classToTest new
+	self _testDisableAndEnable

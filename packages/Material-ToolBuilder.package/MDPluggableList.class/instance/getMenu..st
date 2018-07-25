@@ -3,7 +3,7 @@ getMenu: shiftKeyState
 	"Answer the menu for this text view, supplying an empty menu to be filled in. If the menu selector takes an extra argument, pass in the current state of the shift key."
 	
 	| menu aMenu aTitle |
-	self menu == nil ifTrue: [^ nil].
+	self isNil ifTrue: [^ nil].
 	menu := MenuMorph new defaultTarget: self model.
 	aTitle := self getMenuTitleSelector ifNotNil: [self model perform: self getMenuTitleSelector].
 	self menu numArgs = 1 ifTrue:

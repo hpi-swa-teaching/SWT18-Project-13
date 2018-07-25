@@ -1,4 +1,4 @@
-testing
+class name
 classToTest
 
 	^ MDMultiLineField

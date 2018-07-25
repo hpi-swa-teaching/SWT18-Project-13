@@ -1,5 +1,4 @@
 testing
 testMouseDown
 
-	self performMouseDownOn: self normalMenuItem.
-	self testMouseDown: self widget 
+	self testEquality: self mouseDownWidget with: self class mouseDown

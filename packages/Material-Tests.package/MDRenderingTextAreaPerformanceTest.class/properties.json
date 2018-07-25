@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MDRenderingTextAreaPerformanceTest",
+	"pools" : [
+		 ],
+	"super" : "MDRenderingPerformanceTest",
+	"type" : "normal" }

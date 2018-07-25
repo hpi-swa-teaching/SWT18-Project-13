@@ -1,4 +1,4 @@
 as yet unclassified
 testRippleInitialization
 
-	self testRippleInitialization: self widget
+	self _testRippleInitialization

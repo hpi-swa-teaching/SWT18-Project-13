@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		"ClearFilterAutomatically" ],
-	"commentStamp" : "",
+	"commentStamp" : "CG 7/22/2018 23:03",
 	"instvars" : [
 		"model",
 		"getListSelector",
