@@ -1,8 +1,13 @@
 {
 	"class" : {
 		"defaultBackgroundColor" : "mats 6/7/2018 10:35",
+		"defaultBorderRadius" : "Max 7/25/2018 11:49",
+		"defaultHeight" : "Max 7/25/2018 11:48",
+		"defaultPosition" : "Max 7/25/2018 11:49",
+		"defaultWidth" : "Max 7/25/2018 11:48",
 		"durationToWaitUntilFadeOut" : "mats 7/25/2018 13:23",
 		"fadeOutDuration" : "mats 7/25/2018 12:03",
+		"maxHeight" : "Max 7/25/2018 11:51",
 		"newOn:" : "mats 6/5/2018 22:22" },
 	"instance" : {
 		"drawOn:" : "mats 7/25/2018 11:15",
@@ -22,5 +27,5 @@
 		"stepTime" : "mats 7/25/2018 11:37",
 		"update" : "mats 7/25/2018 11:43",
 		"updateAlpha:" : "mats 7/25/2018 13:25",
-		"updateHeight" : "mats 6/8/2018 13:41",
+		"updateHeight" : "Max 7/25/2018 11:51",
 		"updatePosition" : "mats 7/25/2018 11:26" } }
