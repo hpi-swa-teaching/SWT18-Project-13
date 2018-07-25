@@ -2,23 +2,8 @@ event handling
 mouseDown: evt
 
 	| selectors |
-	"super mouseDown: evt."
-	self filteredListItems ifNotEmpty: [
-		| index mouseEvent mouseEvtPos |			
-		index := self globalPositionToIndex: evt position.
-		
-		mouseEvtPos :=  self globalPositionToPositionInListItem: evt position.
-		mouseEvent := evt copy position: mouseEvtPos.
-		
-		((self model perform: self selected) = 0)
-						ifFalse: [(self listItems at: (self model perform: self selected)) deselect].
-					self ifInBounds: index do: [:listitem | 
-						self model perform: self changeSelected with: index.
-						listitem select].
-				
-		self ifInBounds: index do: [:listItem | listItem mouseDown: mouseEvent. listItem select. self newSelectedItem: listItem]].
+	self selectListItem: evt.
 	
-	"Transcript show: self selectedItem label contents."
 	evt yellowButtonPressed  "First check for option (menu) click"
 		ifTrue: [^ self yellowButtonActivity: evt shiftPressed].
 		
