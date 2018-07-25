@@ -4,8 +4,7 @@ initialize
 	super initialize.
 	
 	self 
-		width: 10;
+		width: self class defaultWidth;
 		height: 0;
 		backgroundColor: self class defaultBackgroundColor;
-		borderRadius: 5;
-		position: 0 @ 0
+		borderRadius: self class defaultBorderRadius

@@ -2,8 +2,6 @@
 	"class" : {
 		"defaultBackgroundColor" : "mats 6/7/2018 10:35",
 		"defaultBorderRadius" : "Max 7/25/2018 11:49",
-		"defaultHeight" : "Max 7/25/2018 11:48",
-		"defaultPosition" : "Max 7/25/2018 11:49",
 		"defaultWidth" : "Max 7/25/2018 11:48",
 		"durationToWaitUntilFadeOut" : "mats 7/25/2018 13:23",
 		"fadeOutDuration" : "mats 7/25/2018 12:03",
@@ -11,7 +9,7 @@
 		"newOn:" : "mats 6/5/2018 22:22" },
 	"instance" : {
 		"drawOn:" : "mats 7/25/2018 11:15",
-		"initialize" : "mats 7/25/2018 11:44",
+		"initialize" : "mats 7/25/2018 14:55",
 		"isVisibleTimeDone" : "mats 7/25/2018 11:49",
 		"lastScrollTime" : "CG 7/1/2018 12:10",
 		"lastScrollTime:" : "CG 7/1/2018 12:10",
