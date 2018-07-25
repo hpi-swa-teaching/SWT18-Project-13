@@ -3,9 +3,9 @@ toolIconsToMaterialIcons
 
 	^ Dictionary new		
 		at: (ToolIcons abstract storeString) put: nil;
-		at: (ToolIcons arrowDown storeString) put: #ic_expand_more;
-		at: (ToolIcons arrowUp storeString) put: #ic_expand_less;
-		at: (ToolIcons arrowUpAndDown storeString) put: #ic_unfold_more;
+		at: (ToolIcons arrowDown storeString) put: #ic_arrow_drop_down;
+		at: (ToolIcons arrowUp storeString) put: #ic_arrow_drop_up;
+		at: (ToolIcons arrowUpAndDown storeString) put: #ic_swap_vert;
 		at: (ToolIcons blank storeString) put: #ic_blank;
 		at: (ToolIcons breakpoint storeString) put: nil;
 		at: (ToolIcons checkmark storeString) put: nil;
@@ -19,8 +19,8 @@ toolIconsToMaterialIcons
 		at: (ToolIcons primitive storeString) put: nil;
 		at: (ToolIcons stream storeString) put: #ic_input;
 		at: (ToolIcons string storeString) put: #ic_title;
-		at: (ToolIcons testGray storeString) put: nil;
-		at: (ToolIcons testGreen storeString) put: #ic_check_box;
+		at: (ToolIcons testGray storeString) put: #ic_remove_circle_outline;
+		at: (ToolIcons testGreen storeString) put: #ic_check_circle;
 		at: (ToolIcons testOrange storeString) put: #ic_error_outline;
 		at: (ToolIcons testRed storeString) put: #ic_cancel;
 		yourself
