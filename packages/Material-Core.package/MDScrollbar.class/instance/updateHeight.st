@@ -8,4 +8,4 @@ updateHeight
 	
 			percentage >= 1
 				ifTrue: [self visible: false]
-				ifFalse: [self height: (percentage * self scrollableWidget height max: 10)]]
+				ifFalse: [self height: (percentage * self scrollableWidget height max: self class maxHeight)]]

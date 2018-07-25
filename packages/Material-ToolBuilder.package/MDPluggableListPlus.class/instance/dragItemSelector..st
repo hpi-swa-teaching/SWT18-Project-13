@@ -1,4 +1,4 @@
 accessing
-dragItemSelector: anObject
-
-	dragItemSelector := anObject
+dragItemSelector: aSymbol
+	dragItemSelector := aSymbol.
+	aSymbol ifNotNil:[self dragEnabled: true].

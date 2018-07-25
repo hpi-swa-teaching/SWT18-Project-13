@@ -1,4 +1,4 @@
 accessing
 textColorDisabled
 
-	^ (self class gray: self backgroundColor) alpha: 0.6
+	^ (self class gray: self backgroundColor) alpha: self class textDisabledAlpha

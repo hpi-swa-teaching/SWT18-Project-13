@@ -1,12 +1,15 @@
 {
 	"class" : {
+		"defaultBackgroundColor" : "Max 7/25/2018 11:37",
+		"defaultHeight" : "Max 7/25/2018 11:39",
 		"defaultPadding" : "mats 6/1/2018 16:03",
+		"defaultWidth" : "Max 7/25/2018 11:38",
 		"newOn:" : "mats 5/30/2018 23:42" },
 	"instance" : {
 		"drawOn:" : "mats 6/1/2018 23:27",
 		"formCache" : "CG 7/1/2018 11:52",
 		"formCache:" : "CG 7/1/2018 11:52",
-		"initialize" : "mats 5/31/2018 09:38",
+		"initialize" : "Max 7/25/2018 11:40",
 		"padding" : "CG 7/1/2018 11:52",
 		"padding:" : "CG 7/1/2018 11:52",
 		"updateFormCache" : "CG 7/1/2018 11:52",
