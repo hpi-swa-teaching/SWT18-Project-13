@@ -1,7 +1,7 @@
 updating
 checkForChangedContent
 	
-	self model = nil
+	self model isNil
 		ifFalse: [
 			| stringCollection |
 			stringCollection := self model perform: self getListSelector.

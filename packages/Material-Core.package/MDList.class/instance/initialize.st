@@ -4,7 +4,7 @@ initialize
 	super initialize.
 	self
 		beSticky;
-		height: 500;
-		width: 300;
-		backgroundColor: Color white;
+		height: self class defaultHeight ;
+		width: self class defaultWidth;
+		backgroundColor: self class defaultBackgroundColor;
 		showDividers: true

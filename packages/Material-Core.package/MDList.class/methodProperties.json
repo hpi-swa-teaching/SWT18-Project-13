@@ -1,7 +1,10 @@
 {
 	"class" : {
+		"defaultBackgroundColor" : "Max 7/25/2018 11:43",
 		"defaultDividerPadding" : "mats 6/1/2018 23:29",
+		"defaultHeight" : "Max 7/25/2018 11:42",
 		"defaultListItemPadding" : "mats 6/1/2018 15:57",
+		"defaultWidth" : "Max 7/25/2018 11:42",
 		"listItemDenseHeight" : "Max 7/12/2018 11:45",
 		"listItemHeight" : "mats 7/10/2018 12:43",
 		"scrollDelta" : "mats 5/30/2018 14:13" },
@@ -44,7 +47,7 @@
 		"hasDenseLayout" : "mats 7/10/2018 12:49",
 		"hasFilter" : "CG 7/1/2018 12:08",
 		"ifInBounds:do:" : "mats 7/3/2018 15:30",
-		"initialize" : "mats 6/8/2018 15:04",
+		"initialize" : "Max 7/25/2018 11:43",
 		"lastKeystrokes" : "CG 7/1/2018 12:08",
 		"lastKeystrokes:" : "CG 7/1/2018 12:08",
 		"lastVisibleItem" : "mats 7/10/2018 12:51",
