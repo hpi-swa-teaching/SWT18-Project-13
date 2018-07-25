@@ -2,5 +2,5 @@ mock object helper methods
 updateDeactivatedMockObject
 
 	self
-		renderFormString: self classToTest new
+		renderOnFormString: self classToTest new
 		andStoreWithName: 'deactivated'

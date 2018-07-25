@@ -2,5 +2,5 @@ mock object helper methods
 updateAlternativeBackgroundColorMockObject
 
 	self 
-		renderFormString: self new alternativeBackgroundColorWidget
+		renderOnFormString: self new alternativeBackgroundColorWidget
 		andStoreWithName: 'alternativeBackgroundColor'

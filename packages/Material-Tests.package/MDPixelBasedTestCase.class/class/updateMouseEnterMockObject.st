@@ -2,5 +2,5 @@ mock object helper methods
 updateMouseEnterMockObject
 
 	self
-		renderFormString: self new mouseEnterWidget
+		renderOnFormString: self new mouseEnterWidget
 		andStoreWithName: 'mouseEnter'

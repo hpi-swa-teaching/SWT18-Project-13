@@ -2,5 +2,5 @@ mock object helper methods
 updateScrolledToBottomWithScrollbarMockObject
 
 	self 
-		renderFormString: self new listWithScrollbarScrolledDownToBottomWidget 
+		renderOnFormString: self new listWithScrollbarScrolledDownToBottomWidget 
 		andStoreWithName: 'listWithScrollbarScrolledDownToBottom'

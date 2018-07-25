@@ -1,5 +1,5 @@
 tests
 _testAlternativeTextRenderingPerformance
 
-	Transcript show: Character cr asString, 'Default Rendering Performance ', self class, Character cr.
-	(self renderingPerformanceCheckBlockFor: #disabled) value: self enabledWidget
+	Transcript show: Character cr asString, 'Alternative Text Rendering Performance ', self class, Character cr.
+	(self renderingPerformanceCheckBlockFor: #alternativeText) value: self alternativeTextWidget

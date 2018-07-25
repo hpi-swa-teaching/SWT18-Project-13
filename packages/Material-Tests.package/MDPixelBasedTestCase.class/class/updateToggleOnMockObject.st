@@ -2,5 +2,5 @@ mock object helper methods
 updateToggleOnMockObject
 
 	self
-		renderFormString: self new toggleOnWidget
+		renderOnFormString: self new toggleOnWidget
 		andStoreWithName: 'toggleOn'

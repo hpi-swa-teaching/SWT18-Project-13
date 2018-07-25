@@ -7,11 +7,11 @@
 		"renderingTimeUnit" : "CG 7/1/2018 12:20",
 		"renderingTimeUnit:" : "CG 7/1/2018 12:20" },
 	"instance" : {
-		"_testAlternativeBackgroundColorRenderingPerformance" : "LS 7/19/2018 17:00",
-		"_testAlternativeTextRenderingPerformance" : "LS 7/19/2018 17:00",
-		"_testDisabledRenderingPerformance" : "LS 7/19/2018 17:00",
-		"_testEnabledRenderingPerformance" : "LS 7/19/2018 17:00",
-		"_testMouseEnterRenderingPerformance" : "LS 7/19/2018 17:00",
+		"_testAlternativeBackgroundColorRenderingPerformance" : "mats 7/25/2018 14:32",
+		"_testAlternativeTextRenderingPerformance" : "mats 7/25/2018 14:35",
+		"_testDisabledRenderingPerformance" : "mats 7/25/2018 14:32",
+		"_testEnabledRenderingPerformance" : "mats 7/25/2018 14:33",
+		"_testMouseEnterRenderingPerformance" : "mats 7/25/2018 14:35",
 		"calculateMaxRenderingDurationForTest:forWidget:" : "mats 5/29/2018 17:57",
 		"render:times:" : "CG 6/30/2018 12:08",
 		"renderingPerformanceCheckBlockFor:" : "LS 7/19/2018 12:24" } }

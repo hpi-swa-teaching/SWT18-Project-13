@@ -1,5 +1,5 @@
 utils
-renderFormString: aMDWidget andStoreWithName: aString
+renderOnFormString: aMDWidget andStoreWithName: aString
 
 	| name source content |
 	

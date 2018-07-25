@@ -4,6 +4,6 @@ updateMouseEnterOnCascadeItemMockObject
 	| menu |
 	menu := self new mouseEnterOnCascadeItemWidget.
 	self
-		renderFormString: menu
+		renderOnFormString: menu
 		andStoreWithName: 'mouseEnterOnCascadeItem'.
 	menu delete

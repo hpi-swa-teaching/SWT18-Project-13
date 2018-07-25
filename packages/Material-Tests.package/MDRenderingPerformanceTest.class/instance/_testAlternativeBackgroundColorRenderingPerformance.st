@@ -1,5 +1,5 @@
 tests
 _testAlternativeBackgroundColorRenderingPerformance
 
-	Transcript show: Character cr asString, 'Default Rendering Performance ', self class, Character cr.
-	(self renderingPerformanceCheckBlockFor: #disabled) value: self enabledWidget
+	Transcript show: Character cr asString, 'Alternative Background Color Rendering Performance ', self class, Character cr.
+	(self renderingPerformanceCheckBlockFor: #alternativeBackgroundColor) value: self alternativeBackgroundColorWidget
