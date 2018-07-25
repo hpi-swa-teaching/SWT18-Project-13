@@ -1,6 +1,6 @@
 {
 	"class" : {
-		 },
+		"classToTest" : "mats 7/25/2018 13:53" },
 	"instance" : {
 		"_testRippleDeletion" : "LS 7/19/2018 16:30",
 		"_testRippleInitialization" : "LS 7/19/2018 16:31" } }

@@ -10,5 +10,5 @@
 	"name" : "MDExampleTest",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "MDTestCase",
 	"type" : "normal" }

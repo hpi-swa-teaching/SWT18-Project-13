@@ -1,4 +1,4 @@
-class name
+as yet unclassified
 classToTest
 
 	^ self subclassResponsibility

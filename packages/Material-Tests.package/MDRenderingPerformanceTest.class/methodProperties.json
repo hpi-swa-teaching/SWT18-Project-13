@@ -1,6 +1,7 @@
 {
 	"class" : {
 		"calculateAvgMaxAndMinRenderingTime:" : "LS 7/19/2018 12:30",
+		"classToTest" : "mats 7/25/2018 13:52",
 		"makeNumberPrintable:" : "mats 5/29/2018 17:43",
 		"maxRenderingDurationFactor" : "LS 7/19/2018 16:59",
 		"renderingTimeUnit" : "CG 7/1/2018 12:20",

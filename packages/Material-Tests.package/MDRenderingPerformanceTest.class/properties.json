@@ -10,5 +10,5 @@
 	"name" : "MDRenderingPerformanceTest",
 	"pools" : [
 		 ],
-	"super" : "MDTestCase",
+	"super" : "MDWidgetTestCase",
 	"type" : "normal" }

@@ -10,5 +10,5 @@
 	"name" : "MDRippleTest",
 	"pools" : [
 		 ],
-	"super" : "MDTestCase",
+	"super" : "MDWidgetTestCase",
 	"type" : "normal" }
