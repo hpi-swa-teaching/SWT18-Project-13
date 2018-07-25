@@ -1,4 +1,4 @@
 as yet unclassified
-contentHeight
+stepTime
 
-	^ 1
+	^ 10

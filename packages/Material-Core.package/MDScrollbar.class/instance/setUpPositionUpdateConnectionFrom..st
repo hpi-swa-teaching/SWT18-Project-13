@@ -4,4 +4,4 @@ setUpPositionUpdateConnectionFrom: aSymbol
 	self
 		connect: self scrollableWidget
 	 	signal: aSymbol
-	   	toSelector: #update
+	   	toSelector: #scrollableWidgetChanged 

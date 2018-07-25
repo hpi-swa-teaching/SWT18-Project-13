@@ -7,7 +7,8 @@
 	"commentStamp" : "CG 7/22/2018 22:26",
 	"instvars" : [
 		"scrollableWidget",
-		"lastScrollTime" ],
+		"lastScrollTime",
+		"startedFadeOut" ],
 	"name" : "MDScrollbar",
 	"pools" : [
 		 ],

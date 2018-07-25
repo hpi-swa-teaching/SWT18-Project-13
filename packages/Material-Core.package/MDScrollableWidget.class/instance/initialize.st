@@ -4,4 +4,5 @@ initialize
 	super initialize.
 	self
 		backgroundColor: Color white;
-		scrollbar: (MDScrollbar newOn: self)
+		scrollbar: (MDScrollbar newOn: self);
+		addMorph: (self scrollbar)

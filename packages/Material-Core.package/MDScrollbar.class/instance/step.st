@@ -1,6 +1,6 @@
 as yet unclassified
 step
 	
-	self isFadeOutDurationDone
-		ifTrue: [self visible: false]
-		ifFalse: [self visible: true]
+	self update.
+	(self isVisibleTimeDone and: [self startedFadeOut not])
+		ifTrue: [self startFadeOut]

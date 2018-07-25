@@ -1,4 +1,0 @@
-accessing
-stepTime
-
-	^ 100

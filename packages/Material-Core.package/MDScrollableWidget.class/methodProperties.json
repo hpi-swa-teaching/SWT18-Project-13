@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"contentHeight" : "mats 6/8/2018 14:55",
-		"drawScrollbarOn:" : "mats 6/8/2018 15:20",
-		"initialize" : "mats 6/8/2018 15:02",
+		"contentHeight" : "mats 7/25/2018 11:09",
+		"drawScrollbarOn:" : "mats 7/25/2018 11:09",
+		"initialize" : "mats 7/25/2018 11:09",
 		"layoutChanged" : "mats 6/8/2018 15:25",
 		"maxScrollDelta" : "mats 6/13/2018 10:50",
 		"mouseWheel:" : "CG 7/1/2018 12:04",
@@ -12,8 +12,7 @@
 		"scrollDown:" : "mats 6/8/2018 15:00",
 		"scrollOffset" : "CG 7/1/2018 12:04",
 		"scrollOffset:" : "mats 6/8/2018 15:12",
+		"scrollPercentage" : "mats 7/25/2018 11:23",
 		"scrollUp:" : "mats 6/8/2018 15:01",
 		"scrollbar" : "mats 6/8/2018 15:12",
-		"scrollbar:" : "mats 6/8/2018 15:12",
-		"step" : "mats 6/10/2018 22:44",
-		"stepTime" : "mats 6/10/2018 22:45" } }
+		"scrollbar:" : "mats 6/8/2018 15:12" } }
